@@ -1,0 +1,7 @@
+1- Próprio - a construção e o terreno
+2- Próprio - só a construção
+3- Alugado
+4- Cedido por empregador
+5- Cedido por particular
+6- Outra
+ - Domicílios improvisados ou coletivos

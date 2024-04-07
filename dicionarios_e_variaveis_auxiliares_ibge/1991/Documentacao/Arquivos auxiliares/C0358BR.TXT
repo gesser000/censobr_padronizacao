@@ -1,0 +1,11 @@
+0- Sem ocupação
+1- Procurando trabalho - Já trabalhou
+2- Procurando trabalho - Nunca trabalhou
+3- Aposentado
+4- Pensionista
+5- Vive de Rendas
+6- Detento
+7- Estudante
+8- Doente ou Inválido
+9- Afazeres Domésticos
+ - Pessoas menor de 10 anos ou (VAR345) = 1 ou 2

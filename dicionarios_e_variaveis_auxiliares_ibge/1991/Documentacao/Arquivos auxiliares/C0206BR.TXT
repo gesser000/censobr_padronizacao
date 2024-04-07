@@ -1,0 +1,9 @@
+0- Não tem
+1- Rede geral
+2- Fossa séptica ligada à rede pluvial
+3- Fossa séptica sem escoadouro
+4- Fossa rudimentar
+5- Vala negra
+6- Outro
+7- Não sabe
+ - Domicílios improvisados ou coletivos

@@ -1,0 +1,4 @@
+1- Brasileiro nato
+2- Naturalizado brasileiro
+3- Estrangeiro
+ - (VAR0314) = 1 ou 2

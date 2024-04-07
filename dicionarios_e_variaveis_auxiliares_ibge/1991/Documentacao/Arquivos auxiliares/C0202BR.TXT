@@ -1,0 +1,8 @@
+1 Casa isolada ou de condôminio
+2 Casa em conjunto residencial popular
+3 Casa em aglomerado subnormal
+4 Apartamento isolado ou de condôminio
+5 Apartamento em conjunto residencial popular
+6 Apartamento em aglomerado subnormal
+7 Comodos
+  Domicílios improvisados ou coletivos

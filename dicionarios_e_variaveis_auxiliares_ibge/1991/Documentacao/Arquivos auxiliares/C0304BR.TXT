@@ -1,0 +1,7 @@
+1- Única
+2- Domicílio Coletivo
+3- 1ª família convivente
+4- 2ª família convivente
+5- 3ª família convivente
+6- 4ª família convivente
+7- 5ª família convivente

@@ -1,0 +1,4 @@
+1- Sim
+2- Não sabe
+3- Não é
+ - Pessoas menor de 10 anos ou (VAR0345) = 3

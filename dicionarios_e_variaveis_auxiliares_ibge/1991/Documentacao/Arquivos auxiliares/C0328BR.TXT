@@ -1,0 +1,10 @@
+0- Nenhum
+1- Curso de alfabetização de adultos
+2- Primário ou elementar
+3- Ginasial ou médio 1º ciclo
+4- 1º grau
+5- 2º grau
+6- Colegial ou médio 2º ciclo
+7- Superior
+8- Mestrado ou Doutorado
+ - Pessoa menor de 5 anos

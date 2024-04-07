@@ -1,0 +1,8 @@
+1- Até 1 morador
+2- Mais de 1 a 1,5 moradores
+3- Mais de 1,5 a 2 moradores
+4- Mais de 2 a 2,5 moradores
+5- Mais de 2,5 a 3 moradores
+6- Mais de 3 a 4 moradores
+7- Mais de 4 moradores
+ - Domicílios improvisados ou coletivos

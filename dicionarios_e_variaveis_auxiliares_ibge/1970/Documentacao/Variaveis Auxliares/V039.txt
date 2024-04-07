@@ -1,0 +1,69 @@
+CENSO DEMOGRÁFICO - 1970
+
+MICRODADOS DA AMOSTRA DE 25%
+
+V039 - ESPÉCIE DE CURSO CONCLUÍDO
+
+ 0- sem declaração
+10- primário
+11- agrícola elementar
+12- comercial elementar
+19- industrial elementar 
+21- militar elementar
+22- normal elementar
+27- outros elementar 
+28- emendativo elementar
+30- ginasial
+31- agrícola 1º ciclo
+32- comercial 2º ciclo
+34- eclesiástico 1º ciclo
+35- educação física 1º ciclo
+36- enfermagem 1º ciclo
+39- industrial 1º ciclo 
+41- militar 1º ciclo 
+42- normal 1º ciclo
+47- outros 1º ciclo
+48- emendativo 1º ciclo
+50- colegial
+51- agrícola 2º ciclo
+52- comercial 2º ciclo
+53- belas artes 2º ciclo
+54- eclesiástico 2º ciclo
+55- educação física 2º ciclo
+56- enfermagem 2º ciclo
+58- estatística 2º ciclo
+59- industrial 2º ciclo
+61- militar 2º ciclo
+62- normal 2º ciclo
+65- serviço social 2º ciclo
+67- outros 2º ciclo
+70- administração
+71- agronomia
+72- arquitetura
+73- belas artes superior
+74- ciências sociais
+75- filosofia
+76- geografia ou história
+77- história natural
+78- letras
+79- matemática, física e química 
+80- pedagogia
+81- contabilidade ou atuária
+82- economia
+83- direito
+84- eclesiástico superior
+85- educação física superior
+86- enfermagem superior
+87- engenharia
+88- estatística superior
+89- farmácia ou bioquímica
+90- medicina
+91- militar superior
+92- odontologia
+93- psicologia
+94- química industrial
+95- serviço social superior
+96- veterinária
+97- outros superiores
+98- grau indeterminado
+99- nenhum

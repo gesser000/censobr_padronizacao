@@ -1,0 +1,8 @@
+1- Área Urbanizada
+2- Área Não Urbanizada
+3- Área Urbana Isolada
+4- Aglomerado Rural de Extensão Urbana
+5- Aglomerado Rural Isolado ou Povoado
+6- Aglomerado Rural Isolado ou Núcleo
+7- Outros Aglomerados
+8- Área Rural (Exclusive Aglomerado Rural)

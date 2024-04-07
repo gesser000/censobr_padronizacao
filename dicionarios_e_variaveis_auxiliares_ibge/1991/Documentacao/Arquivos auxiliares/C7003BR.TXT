@@ -1,0 +1,10 @@
+0- Não Metropolitana
+1- Belém
+2- Fortaleza
+3- Recife
+4- Salvador
+5- Belo Horizonte
+6- Rio De Janeiro
+7- São Paulo
+8- Curitiba
+9- Porto Alegre

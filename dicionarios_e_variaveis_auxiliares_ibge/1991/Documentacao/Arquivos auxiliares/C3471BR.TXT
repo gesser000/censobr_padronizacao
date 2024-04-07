@@ -1,0 +1,12 @@
+01- Atividades agropecuárias, de extração vegetal e pesca
+02- Indústria de transformação
+03- Indústria da construção civil
+04- Outras atividades industriais
+05- Comércio de mercadorias
+06- Transporte e comunicação
+07- Serviços auxiliares da atividade econômica
+08- Prestação de outros serviços
+09- Social (comunitárias, médicas, odontológicas e ensino)
+10- Administração Pública
+11- Outras atividades, atividades não compreendidas, mal definidas ou não declaradas
+  - Pessoa menor de 10 anos ou (VAR0345) = 3

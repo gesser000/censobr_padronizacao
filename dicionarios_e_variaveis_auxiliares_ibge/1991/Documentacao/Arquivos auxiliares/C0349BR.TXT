@@ -1,0 +1,12 @@
+01- Trabalhador agrícola volante
+02- Parceiro ou Meeiro - Empregado
+03- Parceiro ou Meeiro - Autônomo ou Conta própria
+04- Trabalhador Doméstico - Empregado
+05- Trabalhador Doméstico - Autônomo ou Conta própria
+06- Empregado do Setor Privado
+07- Empregado do Setor Público - Servidor Público
+08- Empregado do Setor Público - Empresa Estatal
+09- Autônomo ou conta própria
+10- Empregador
+11- Sem remuneração
+  - Pessoa menor de 10 anos ou (VAR0345) = 3

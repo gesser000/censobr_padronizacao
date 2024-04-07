@@ -1,0 +1,5 @@
+1- Homem
+2- Mulher
+7- Não tem
+9- Ignorado
+ - Pessoa menor de 10 anos

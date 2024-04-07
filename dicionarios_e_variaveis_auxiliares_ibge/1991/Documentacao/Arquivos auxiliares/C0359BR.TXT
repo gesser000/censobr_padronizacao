@@ -1,0 +1,5 @@
+0- Não é
+1- Aposentado
+2- Pensionista
+3- Aposentado e Pensionista
+ - Pessoa menor de 10 anos

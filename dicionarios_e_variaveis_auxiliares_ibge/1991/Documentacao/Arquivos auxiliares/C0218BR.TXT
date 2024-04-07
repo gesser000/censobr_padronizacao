@@ -1,0 +1,5 @@
+0- Não tem
+1- Um carro
+2- Dois carros
+3- Três ou mais carros
+ - Domicílios improvisados ou coletivos

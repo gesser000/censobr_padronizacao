@@ -1,0 +1,9 @@
+1- Um ou dois
+2- Três ou quatro
+3- Cinco a nove
+4- Dez ou mais
+5- Trabalha sozinho
+6- Com sócio ou não remunerado
+7- Trabalhador doméstico
+8- Não sabe
+ - Pessoa menor de 10 anos ou (VAR0345) = 3

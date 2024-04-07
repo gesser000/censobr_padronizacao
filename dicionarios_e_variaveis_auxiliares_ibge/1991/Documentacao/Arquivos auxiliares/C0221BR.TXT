@@ -1,0 +1,5 @@
+1- Elétrica com medidor
+2- Elétrica sem medidor
+3- Óleo ou querosene
+4- Outra
+ - Domicílios improvisados ou coletivos

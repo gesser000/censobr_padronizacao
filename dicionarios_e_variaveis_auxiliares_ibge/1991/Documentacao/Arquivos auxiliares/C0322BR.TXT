@@ -1,0 +1,4 @@
+1- Na zona urbana
+2- Na zona rural
+9- Ignorado
+ - Pessoa menor de 5 anos, (VAR0314) = 1 ou (VAR0321) = 70

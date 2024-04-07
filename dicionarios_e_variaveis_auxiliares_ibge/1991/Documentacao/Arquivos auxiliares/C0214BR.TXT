@@ -1,0 +1,8 @@
+1- Coletado diretamente
+2- Coletado indiretamente
+3- Queimado
+4- Enterrado
+5- Jogado em terreno baldio
+6- Jogado em rio, lago, lagoa ou mar
+7- Outro
+ - Domicílios improvisados ou coletivos

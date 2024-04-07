@@ -1,0 +1,558 @@
+11 001 Porto Velho
+11 002 Guajará-Mirim
+11 003 Ariquemes
+11 004 Ji-Paraná
+11 005 Alvorada d'Oeste
+11 006 Cacoal
+11 007 Vilhena
+11 008 Colorado do Oeste
+12 001 Cruzeiro do Sul
+12 002 Tarauacá
+12 003 Sena Madureira
+12 004 Rio Branco
+12 005 Brasiléia
+13 001 Rio Negro
+13 002 Japurá
+13 003 Alto Solimões
+13 004 Juruá
+13 005 Tefé
+13 006 Coari
+13 007 Manaus
+13 008 Rio Preto da Eva
+13 009 Itacoatiara
+13 010 Parintins
+13 011 Boca do Acre
+13 012 Purus
+13 013 Madeira
+14 001 Boa Vista
+14 002 Nordeste de Roraima
+14 003 Caracaraí
+14 004 Sudeste de Roraima
+15 001 Óbidos
+15 002 Santarém
+15 003 Almeirim
+15 004 Portel
+15 005 Furos de Breves
+15 006 Arari
+15 007 Belém
+15 008 Castanhal
+15 009 Salgado
+15 010 Bragantina
+15 011 Cametá
+15 012 Tomé-Açu
+15 013 Guamá
+15 014 Itaituba
+15 015 Altamira
+15 016 Tucuruí
+15 017 Paragominas
+15 018 São Félix do Xingu
+15 019 Parauapebas
+15 020 Marabá
+15 021 Redenção
+15 022 Conceição do Araguaia
+16 001 Oiapoque
+16 002 Amapá
+16 003 Macapá
+16 004 Mazagão
+17 001 Bico do Papagaio
+17 002 Araguaína
+17 003 Miracema do Tocantins
+17 004 Rio Formoso
+17 005 Gurupi
+17 006 Porto Nacional
+17 007 Jalapão
+17 008 Dianápolis
+21 001 Litoral Ocidental Maranhense
+21 002 Aglomeração Urbana de São Luís
+21 003 Rosário
+21 004 Lençois Maranhenses
+21 005 Baixada Maranhense
+21 006 Itapecuru-Mirim
+21 007 Gurupi
+21 008 Pindaré
+21 009 Imperatriz
+21 010 Médio Mearim
+21 011 Alto Mearim e Grajaú
+21 012 Presidente Dutra
+21 013 Baixo Parnaíba Maranhense
+21 014 Chapadinha
+21 015 Codó
+21 016 Coelho Neto
+21 017 Caxias
+21 018 Chapadas do Alto Itapecuru
+21 019 Porto Franco
+21 020 Gerais de Balsas
+21 021 Chapadas das Mangabeiras
+22 001 Baixo Parnaíba Piauiense
+22 002 Litoral Piauiense
+22 003 Teresina
+22 004 Campo Maior
+22 005 Médio Parnaíba Piauiense
+22 006 Valença do Piauí
+22 007 Alto Parnaíba Piauiense
+22 008 Bertolínia
+22 009 Floriano
+22 010 Alto Médio Gurguéia
+22 011 São Raimundo Nonato
+22 012 Chapadas do Extremo Sul Piauiense
+22 013 Picos
+22 014 Pio IX
+22 015 Alto Médio Canindé
+23 001 Litoral de Camocim E Acaraú
+23 002 Ibiapaba
+23 003 Coreaú
+23 004 Meruoca
+23 005 Sobral
+23 006 Ipu
+23 007 Santa Quitéria
+23 008 Itapipoca
+23 009 Baixo Curu
+23 010 Uruburetama
+23 011 Médio Curu
+23 012 Canindé
+23 013 Baturité
+23 014 Chorozinho
+23 015 Cascavel
+23 016 Fortaleza
+23 017 Pacajus
+23 018 Sertão de Crateús
+23 019 Sertão de Quixeramobim
+23 020 Sertão de Inhamuns
+23 021 Sertão de Senador Pompeu
+23 022 Litoral de Aracati
+23 023 Baixo Jaguaribe
+23 024 Medio Jaguaribe
+23 025 Serra do Pereiro
+23 026 Iguatu
+23 027 Várzea Alegre
+23 028 Lavras da Mangabeira
+23 029 Chapada do Araripe
+23 030 Caririaçu
+23 031 Barro
+23 032 Cariri
+23 033 Brejo Santo
+24 001 Mossoró
+24 002 Chapada do Apodi
+24 003 Médio Oeste
+24 004 Vale do Açu
+24 005 Serra de São Miguel
+24 006 Pau dos Ferros
+24 007 Umarizal
+24 008 Macau
+24 009 Angicos
+24 010 Serra de Santana
+24 011 Seridó Ocidental
+24 012 Seridó Oriental
+24 013 Baixa Verde
+24 014 Borborema Potiguar
+24 015 Agreste Potiguar
+24 016 Litoral Nordeste
+24 017 Macaíba
+24 018 Natal
+24 019 Litoral Sul
+25 001 Catolé do Rocha
+25 002 Cajazeiras
+25 003 Sousa
+25 004 Patos
+25 005 Piancó
+25 006 Itaporanga
+25 007 Serra do Teixeira
+25 008 Seridó Ocidental Paraibano
+25 009 Seridó Oriental Paraibano
+25 010 Cariri Ocidental
+25 011 Cariri Oriental
+25 012 Curimataú Ocidental
+25 013 Curimataú Oriental
+25 014 Esperança
+25 015 Brejo Paraibano
+25 016 Guarabira
+25 017 Campina Grande
+25 018 Itabaiana
+25 019 Umbuzeiro
+25 020 Litoral Norte
+25 021 Sapé
+25 022 João Pessoa
+25 023 Litoral Sul
+26 001 Araripina
+26 002 Salgueiro
+26 003 Pajeú
+26 004 Sertão do Moxotó
+26 005 Petrolina
+26 006 Itaparica
+26 007 Vale do Ipanema
+26 008 Vale do Ipojuca
+26 009 Alto Capibaribe
+26 010 Médio Capibaribe
+26 011 Garanhuns
+26 012 Brejo Pernambucano
+26 013 Mata Setentrional Pernambucana
+26 014 Vitória de Santo Antão
+26 015 Mata Meridional Pernambucana
+26 016 Itamaracá
+26 017 Recife
+26 018 Suape
+26 019 Fernando de Noronha
+27 001 Serrana do Sertão Alagoano
+27 002 Alagoana do Sertão do São Francisco
+27 003 Santana do Ipanema
+27 004 Batalha
+27 005 Palmeira dos Índios
+27 006 Arapiraca
+27 007 Traipu
+27 008 Serrana dos Quilombos
+27 009 Mata Alagoana
+27 010 Litoral Norte Alagoano
+27 011 Maceió
+27 012 São Miguel dos Campos
+27 013 Penedo
+28 001 Sergipana do Sertão do São Francisco
+28 002 Carira
+28 003 Nossa Senhora das Dores
+28 004 Agreste de Itabaiana
+28 005 Tobias Barreto
+28 006 Agreste de Lagarto
+28 007 Propriá
+28 008 Cotinguiba
+28 009 Japaratuba
+28 010 Baixo Cotinguiba
+28 011 Aracaju
+28 012 Boquim
+28 013 Estância
+29 001 Barreiras
+29 002 Cotegipe
+29 003 Santa Maria da Vitória
+29 004 Juazeiro
+29 005 Paulo Afonso
+29 006 Barra
+29 007 Bom Jesus da Lapa
+29 008 Senhor do Bonfim
+29 009 Irecê
+29 010 Jacobina
+29 011 Itaberaba
+29 012 Feira de Santana
+29 013 Jeremoabo
+29 014 Euclides da Cunha
+29 015 Ribeira do Pombal
+29 016 Serrinha
+29 017 Alagoinhas
+29 018 Entre Rios
+29 019 Catu
+29 020 Santo Antônio de Jesus
+29 021 Salvador
+29 022 Boquira
+29 023 Seabra
+29 024 Jequié
+29 025 Livramento do Brumado
+29 026 Guanambi
+29 027 Brumado
+29 028 Vitória da Conquista
+29 029 Itapetinga
+29 030 Valença
+29 031 Ilhéus-Itabuna
+29 032 Porto Seguro
+31 001 Unaí
+31 002 Paracatu
+31 003 Januária
+31 004 Janaúba
+31 005 Salinas
+31 006 Pirapora
+31 007 Montes Claros
+31 008 Grão Mogol
+31 009 Bocaiúva
+31 010 Diamantina
+31 011 Capelinha
+31 012 Araçuaí
+31 013 Pedra Azul
+31 014 Almenara
+31 015 Teófilo Otoni
+31 016 Nanuque
+31 017 Ituiutaba
+31 018 Uberlândia
+31 019 Patrocínio
+31 020 Patos de Minas
+31 021 Frutal
+31 022 Uberaba
+31 023 Araxá
+31 024 Três Marias
+31 025 Curvelo
+31 026 Bom Despacho
+31 027 Sete Lagoas
+31 028 Conceição do Mato Dentro
+31 029 Pará de Minas
+31 030 Belo Horizonte
+31 031 Itabira
+31 032 Itaguara
+31 033 Ouro Preto
+31 034 Conselheiro Lafaiete
+31 035 Guanhães
+31 036 Peçanha
+31 037 Governador Valadares
+31 038 Mantena
+31 039 Ipatinga
+31 040 Caratinga
+31 041 Aimorés
+31 042 Piuí
+31 043 Divinópolis
+31 044 Formiga
+31 045 Campo Belo
+31 046 Oliveira
+31 047 Passos
+31 048 São Sebastião do Para¡so
+31 049 Alfenas
+31 050 Varginha
+31 051 Poços de Caldas
+31 052 Pouso Alegre
+31 053 Santa Rita do Sapucaí
+31 054 São Lourenço
+31 055 Andrelândia
+31 056 Itajubá
+31 057 Lavras
+31 058 São João Del Rei
+31 059 Barbacena
+31 060 Ponte Nova
+31 061 Manhuaçu
+31 062 Viçosa
+31 063 Muriaé
+31 064 Ubá
+31 065 Juiz de Fora
+31 066 Cataguases
+32 001 Barra de São Francisco
+32 002 Nova Venécia
+32 003 Colatina
+32 004 Montanha
+32 005 São Mateus
+32 006 Linhares
+32 007 Afonso Cláudio
+32 008 Santa Teresa
+32 009 Vitória
+32 010 Guarapari
+32 011 Alegre
+32 012 Cachoeiro de Itapemirim
+32 013 Itapemirim
+33 001 Itaperuna
+33 002 Santo Antônio de Pádua
+33 003 Campos dos Goytacazes
+33 004 Macaé
+33 005 Três Rios
+33 006 Cantagalo-Cordeiro
+33 007 Nova Friburgo
+33 008 Santa Maria Madalena
+33 009 Bacia de São João
+33 010 Lagos
+33 011 Vale do Paraíba Fluminense
+33 012 Barra do Piraí
+33 013 Baa da Ilha Grande
+33 014 Vassouras
+33 015 Serrana
+33 016 Macacu-Caceribu
+33 017 Itagua¡í
+33 018 Rio de Janeiro
+35 001 Jales
+35 002 Fernandópolis
+35 003 Votuporanga
+35 004 São José do Rio Preto
+35 005 Catanduva
+35 006 Auriflama
+35 007 Nhandeara
+35 008 Novo Horizonte
+35 009 Barretos
+35 010 São Joaquim da Barra
+35 011 Ituverava
+35 012 Franca
+35 013 Jaboticabal
+35 014 Ribeirão Preto
+35 015 Batatais
+35 016 Andradina
+35 017 Araçatuba
+35 018 Birigui
+35 019 Lins
+35 020 Bauru
+35 021 Jaú
+35 022 Avaré
+35 023 Botucatu
+35 024 Araraquara
+35 025 São Carlos
+35 026 Rio Claro
+35 027 Limeira
+35 028 Piracicaba
+35 029 Pirassununga
+35 030 São João da Boa Vista
+35 031 Mogi-Mirim
+35 032 Campinas
+35 033 Amparo
+35 034 Dracena
+35 035 Adamantina
+35 036 Presidente Prudente
+35 037 Tupã
+35 038 Marília
+35 039 Assis
+35 040 Ourinhos
+35 041 Itapeva
+35 042 Itapetininga
+35 043 Tatuí
+35 044 Capão Bonito
+35 045 Piedade
+35 046 Sorocaba
+35 047 Jundiaí
+35 048 Bragança Paulista
+35 049 Campos do Jordão
+35 050 São José dos Campos
+35 051 Guaratinguetá
+35 052 Bananal
+35 053 Paraibuna/Paraitinga
+35 054 Caraguatatuba
+35 055 Registro
+35 056 Itanhaém
+35 057 Osasco
+35 058 Franco da Rocha
+35 059 Guarulhos
+35 060 Itapecerica da Serra
+35 061 São Paulo
+35 062 Mogi das Cruzes
+35 063 Santos
+41 001 Paranavaí
+41 002 Umuarama
+41 003 Cianorte
+41 004 Goio-Erê
+41 005 Campo Mourão
+41 006 Astorga
+41 007 Porecatú
+41 008 Floraí
+41 009 Maringá
+41 010 Apucarana
+41 011 Londrina
+41 012 Faxinal
+41 013 Ivaiporã
+41 014 Assaí
+41 015 Cornélio Procópio
+41 016 Jacarezinho
+41 017 Ibaití
+41 018 Wenceslau Braz
+41 019 Telêmaco Borba
+41 020 Jaguariaíva
+41 021 Ponta Grossa
+41 022 Toledo
+41 023 Cascavel
+41 024 Foz do Iguaçu
+41 025 Capanema
+41 026 Francisco Beltrão
+41 027 Pato Branco
+41 028 Pitanga
+41 029 Guarapuava
+41 030 Palmas
+41 031 Prudentópolis
+41 032 Irati
+41 033 União da Vitória
+41 034 São Mateus do Sul
+41 035 Cerro Azul
+41 036 Lapa
+41 037 Curitiba
+41 038 Paranaguá
+41 039 Rio Negro
+42 001 São Miguel d'Oeste
+42 002 Chapecó
+42 003 Xanxerê
+42 004 Joaçaba
+42 005 Concórdia
+42 006 Canoinhas
+42 007 São Bento do Sul
+42 008 Joinville
+42 009 Curitibanos
+42 010 Campos de Lages
+42 011 Rio do Sul
+42 012 Blumenau
+42 013 Itajaí
+42 014 Ituporanga
+42 015 Tijucas
+42 016 Florianópolis
+42 017 Tabuleiro
+42 018 Tubarão
+42 019 Criciúma
+42 020 Araranguá
+43 001 Santa Rosa
+43 002 Três Passos
+43 003 Frederico Westphalen
+43 004 Erechim
+43 005 Sananduva
+43 006 Cerro Largo
+43 007 Santo Ângelo
+43 008 Ijuí
+43 009 Carazinho
+43 010 Passo Fundo
+43 011 Cruz Alta
+43 012 Não-Me-Toque
+43 013 Soledade
+43 014 Guaporé
+43 015 Vacaria
+43 016 Caxias do Sul
+43 017 Santiago
+43 018 Santa Maria
+43 019 Restinga Seca
+43 020 Santa Cruz do Sul
+43 021 Lajeado-Estrela
+43 022 Cachoeira do Sul
+43 023 Montenegro
+43 024 Gramado-Canela
+43 025 São Jerônimo
+43 026 Porto Alegre
+43 027 Osório
+43 028 Camaquã
+43 029 Campanha Ocidental
+43 030 Campanha Central
+43 031 Campanha Meridional
+43 032 Serras do Sudeste
+43 033 Pelotas
+43 034 Jaguarão
+43 035 Litoral Lagunar
+50 001 Baixo Pantanal
+50 002 Aquidauana
+50 003 Alto Taquari
+50 004 Campo Grande
+50 005 Cassilândia
+50 006 Paranaíba
+50 007 Três Lagoas
+50 008 Nova Andradina
+50 009 Bodoquena
+50 010 Dourados
+50 011 Iguatemi
+51 001 Aripuanã
+51 002 Alta Floresta
+51 003 Colíder
+51 004 Parecis
+51 005 Arinos
+51 006 Alto Teles Pires
+51 007 Sinop
+51 008 Paranatinga
+51 009 Norte Araguaia
+51 010 Canarana
+51 011 Médio Araguaia
+51 012 Alto Guaporé
+51 013 Tangará da Serra
+51 014 Jauru
+51 015 Alto Paraguai
+51 016 Rosário Oeste
+51 017 Cuiabá
+51 018 Alto Pantanal
+51 019 Primavera do Leste
+51 020 Tesouro
+51 021 Rondonópolis
+51 022 Alto Araguaia
+52 001 São Miguel do Araguaia
+52 002 Rio Vermelho
+52 003 Aragarças
+52 004 Porangatu
+52 005 Chapada dos Veadeiros
+52 006 Ceres
+52 007 Anápolis
+52 008 Iporá
+52 009 Anicuns
+52 010 Goiânia
+52 011 Vão do Paranã
+52 012 Entorno de Brasília
+52 013 Sudoeste de Goiás
+52 014 Vale do Rio dos Bois
+52 015 Meia Ponte
+52 016 Pires do Rio
+52 017 Catalão
+52 018 Quirinópolis
+53 001 Brasília

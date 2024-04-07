@@ -1,0 +1,382 @@
+001- Agricultores
+002- Criadores de gado bovino
+003- Avicultores e criadores de pequenos animais
+004- Criadores de outros animais
+005- Proprietários em atividade agropecuária não especificada
+006- Empresários da extração vegetal e pesca
+007- Empresários da extração mineral
+008- Empresários da indústria de transformação
+009- Empresários da construção civil
+010- Comerciantes
+011- Hoteleiros e donos de pensão
+012- Empresários nos transportes
+013- Vendedores ambulantes
+014- Feirantes
+015- Outros proprietários
+020- Ministros de Estado, cargos eletivos e Corpo Diplomático Nacional
+021- Diretores, assessores e chefes no serviço público
+030- Administradores e gerentes na agropecuária
+031- Administradores e gerentes na extração vegetal e pesca
+032- Administradores e gerentes na extração mineral
+033- Administradores e gerentes na indústria da transformação
+034- Administradores e gerentes na indústria da construção civil
+035- Administradores e gerentes no comércio de mercadorias
+036- Administradores e gerentes de hotéis e estabelecimentos similares
+037- Administradores e gerentes nos transportes
+038- Administradores e gerentes: empresas financanceiras, imobiliárias e securitárias
+039- Outros administradores e gerentes não classificados anteriormente
+040- Chefes e encarregados de seção de serviços administrativos de empresas
+050- Técnicos e fiscais de tributação e arrecadação
+051- Inspetores do trabalho
+052- Assistentes administrativos
+053- Pagadores e caixas (exclusive nos serviços e comércio)
+054- Almoxarifes e armazenistas
+055- Expedidores e conferentes de materiais
+056- Datilógrafos
+057- Operadores de teleimpressoras
+058- Operadores de máquinas de processamento automático de dados
+059- Secretárias
+060- Auxiliares de contabilidade
+061- Operadores de máquinas copiadoras
+062- Arquivistas
+063- Recepcionistas
+064- Auxiliares administrativos e de escritório
+101- Engenheiros
+102- Arquitetos
+103- Agrimensores
+104- Cartógrafos
+111- Desenhistas
+112- Técnicos de edificações, agrimensura, estradas e saneamento
+113- Outras ocupações auxiliares da engenharia e arquitetura
+121- Químicos
+122- Farmacêuticos
+123- Físicos
+124- Geólogos mineralogistas
+125- Outros especialistas em química e física
+131- Técnicos químicos
+132- Práticos de farmácia
+133- Técnicos de meteorologia
+141- Agrônomos
+142- Biologistas
+143- Farmacologistas
+144- Veterinários
+151- Médicos
+152- Dentistas
+153- Enfermeiros diplomados
+154- Outros especialistas em medicina
+161- Acadêmicos de hospital
+162- Enfermeiros não diplomados
+163- Técnicos de reabilitação
+164- Ortoptistas e óticos
+165- Operadores de equipamentos médicos e odontológicos
+166- Parteiras
+167- Protéticos
+168- Técnicos em análise clínica
+171- Matemáticos e Atuários
+172- Estatísticos
+173- Analistas de Sistemas
+181- Economistas
+182- Contadores
+183- Técnicos de administração
+191- Técnicos de contabilidade
+192- Técnicos de estatística
+193- Agentes Censitários
+194- Programadores de computador
+201- Sociólogos, antropólogos e arqueólogos
+202- Psicólogos
+203- Geógrafos e demógrafos
+204- Assistentes sociais
+205- Outros cientistas sociais
+211- Professores Pesquisadores
+212- Professores de ensino superior
+213- Professores de ensino do 2º grau
+214- Professores de ensino do 1º grau (5ª a 8ª série)
+215- Professores de ensino do 1º grau (1ª a 4ª série)
+216- Professores de ensino do 1º grau (sem especificação de série)
+217- Professores de ensino pré-escolar
+218- Professores e instrutores de formação profissional
+219- Professores de ensino não especificado
+221- Orientadores e técnicos de ensino
+222- Inspetores de alunos
+231- Magistrados
+232- Procuradores, promotores e curadores públicos
+233- Advogados e defensores públicos
+241- Tabeliães e oficiais de registro
+242- Escrivães de cartório
+243- Oficiais de justiça
+244- Outras ocupações auxiliares da justiça
+251- Sacerdotes
+252- Religiosos por conta própria
+261- Escritores e jornalistas
+271- Escultores e pintores
+272- Artesãos de objetos de cerâmica, couro, madeira e metal
+273- Decoradores e cenógrafos
+274- Fotógrafos
+275- Músicos e compositores
+276- Artistas de cinema, teatro, rádio e televisão
+277- Artistas de circo
+278- Locutores e comentaristas
+279- Produtores e diretores de espetáculos
+280- Cinegrafistas e operadores de câmaras
+281- Operadores de equipamentos de som e cenografia
+282- Outros operadores de estações de rádio e televisão (exclusive de câmaras e som)
+283- Operadores projetores cinematográficos
+291- Bibliotecários
+292- Arquivologistas e museólogos
+293- Outras ocupações técnicas e científicas não enquadradas acima
+301- Produtores agropecuários autônomos
+302- Técnicos de agropecuária
+303- Tratoristas agrícolas e outros operadores de máquinas agropecuárias
+304- Outros trabalhadores na agropecuária
+305- Trabalhadores na agricultura
+321- Caçadores
+322- Pescadores
+331- Madeireiros
+332- Lenhadores
+333- Carvoeiros (fabricantes)
+334- Seringueiros
+335- Ervateiros
+336- Apanhadores, quebradores e descascadores de produtos vegetais
+341- Mineiros
+345- Canteiros e marroeiros
+351- Operapores de máquinas de extração e beneficiamento de minérios e pedras
+361- Trabalhadores de extração de petróleo e gás
+371- Garimpeiros
+381- Salineiros
+391- Sondadores de poços (exclusive de petróleo e gás)
+401- Mestres e técnicos de empresas de extração mineral
+402- Mestres, contramestres e técnicos de indústria de transformação (exclusive têxteis)
+403- Mestres, contramestres e técnicos de indústrias têxteis
+404- Mestres de construção civil
+405- Mestres e técnicos de empresas de energia elétrica, gás, água e esgosto
+406- Outros mestres, contramestres e técnicos
+411- Forneiros metalúrgicos
+412- Laminadores
+413- Trefiladores
+414- Modeladores e macheiros
+415- Galvanizadores e recobridores de metais
+416- Afiadores e amoladores
+417- Polidores e esmerilhadores
+418- Ferramenteiros
+419- Estampadores mecânicos
+420- Operadores de prensa mecânica de metais
+421- Fresadores e furadores
+422- Torneiros mecânicos
+423- Ajustadores e montadores mecânicos
+424- Mecânicos de veículos automotores
+425- Mecânicos sem especificação
+426- Soldadores
+427- Rebitadores e montadores de estruturas metálicas
+428- Caldeireiros
+429- Ferreiros e serralheiros
+430- Funileiros
+431- Lanterneiros de veículos
+441- Cardadores e penteadores
+442- Maçaroqueiros, bobinadores e espuladores
+443- Fiandeiros
+444- Rendeiros
+445- Urdidores e remetedores
+446- Cordoeiros
+447- Tecelães
+448- Tapeceiros
+449- Redeiros
+450- Alvejadores e tintureiros têxteis
+451- Estampadores têxteis
+452- Acabadores de pano
+461- Correeiros e seleiros
+462- Curtidores
+470- Alfaiates e costureiros
+471- Auxiliares de costuras
+472- Calceiros e camiseiros
+473- Modelistas e cortadores
+474- Bordadeiras e cerzideiras
+475- Chapaleiros de palha
+476- Chapeleiros (exclusive de palha)
+477- Sapateiros
+478- Trabalhadores na fabricação de calçados
+479- Bolseiros e cinteiros
+481- Marceneiros
+482- Carpinteiros
+483- Tanoeiros
+484- Operadores de máquinas de marcenaria
+485- Serradores
+486- Preparadores de compensados e aglomerados
+487- Estofadores e capoteiros
+488- Colchoeiros
+489- Lustradores de madeira
+490- Cesteiros e esteireiros
+501- Montadores de equipamentos elétricos
+502- Montadores de equipamentos eletrônicos (exceto de áudio e vídeo)
+503- Repararadores de equipamentos elétricos e eletrônicos (exceto áudio e vídeo)
+504- Montadores de aparelhos de áudio e vídeo
+505- Repararadores de aparelhos de áudio e vídeo
+506- Eletricistas de instalações
+507- Instaladores e reparadores de equipamentos de telecomunicações
+508- Instaladores e repadores de linhas elétricas e de telecomunicações
+509- Operadores de instalações de produção de energia elétrica
+511- Armadores de concreto
+512- Pedreiros
+513- Serventes de pedreiro
+514- Pintores e caiadores
+515- Estucadores
+516- Ladrilheiros e taqueiros
+517- Encanadores
+518- Vidraceiros (colocadores de vidro)
+519- Calceteiros e asfaltadores
+520- Calafates
+521- Operadores de máquinas de construção civil e tratoristas (exclusive agropecuário)
+531- Linguiceiros e salsicheiros
+532- Charqueadores
+533- Magarefes
+534- Ocupações da indústria de laticínios
+535- Doceiros e confeiteiros
+536- Macarroneiros e pasteleiros
+537- Padeiros
+538- Farinheiros e moleiros
+539- Ocupações da indústria de açúcar
+540- Ocupações da indústria de bebidas
+541- Ocupações da indústria do café
+542- Ocupações da indústria do pescado
+543- Ocupações da indústria de chá, mate e cacau
+544- Ocupações da indústria de oleaginosos
+545- Ocupações de outras indústrias alimentares
+551- Linotipistas
+552- Tipógrafos
+553- Clicheristas e gravadores
+554- Impressores
+555- Revisores na indústria gráfica
+556- Encadernadores e cartonadores
+557- Outras ocupações da indústria gráfica
+561- Vidreiros e ampoleiros
+562- Ceramistas e louceiros
+563- Pintores cerâmicos
+564- Oleiros
+571- Inspetores de qualidade
+572- Ourives e relojoeiros
+573- Lapidadores
+574- Borracheiros
+575- Vulcanizadores e recauchutadores
+576- Fogueteiros
+577- Vassoureiros
+578- Marmoristas
+579- Preparadores de fumo
+580- Charuteiros e cigarreiros
+581- Pintores à pistola
+582- Operadores de empilhadeira
+583- Foguistas (exclusive de embarcações e de trens)
+584- Embaladores de mercadorias
+585- Ocupações da indústria do papel e papelão
+586- Ocupações da indústria de artefatos de borracha e plástico (exclusive pneus)
+587- Ocupações da indústria artefatos de cimento e fibrocimento
+588- Supervisores de segurança no trabalho
+589- Outras ocupações das indútrias de tranformação
+601- Comerciantes por conta própria
+602- Vendedores
+603- Operadores de caixa
+604- Repositores de mercadorias
+605- Demonstradores
+611- Feirantes
+612- Aguadeiros
+613- Doceiros, sorveteiros e baleiros
+614- Quitandeiros e fruteiros
+615- Tripeiros, peixeiros e leiteiros
+616- Bilheteiros
+617- Outras ocupações no comércio ambulante
+621- Vendedores de jornais e revistas
+631- Pracistas e viajantes comerciais
+632- Representantes comerciais
+633- Propagandistas
+641- Corretores de seguros
+642- Corretores de imóveis
+643- Corretores de títulos e valores
+644- Avaliadores e leiloeiros
+645- Outros agentes e corretores
+646- Compradores
+711- Aviadores civis
+712- Comissários de bordo
+721- Ofciais de marinha mercante
+722- Mestres de embarcação
+723- Maquinistas de embarcação
+724- Foguistas de embarcação
+725- Marinheiros civis
+726- Taifeiros
+727- Barqueiros e canoeiros
+731- Guindasteiros
+732- Estivadores
+741- Agentes de estrada de ferro
+742- Condutores e chefes de trem
+743- Maquinistas de trem
+744- Foguistas de trem
+745- Guarda-freios
+746- Manobreiros e sinaleiros
+751- Motoristas
+752- Trocadores
+753- Carroceiros e tropeiros
+761- Inspetores e despachantes nos transportes
+762- Trabalhadores de conservação de ferrovias
+771- Agentes postais e telegráficos
+772- Postalistas
+773- Telegrafistas e radiotelegrafistas
+774- Telefonistas
+775- Carteiros
+801- Arrumadeiras
+802- Babás
+803- Cozinheiras
+804- Faxineiras
+805- Lavadeiras
+806- Governantas e Mordomos
+807- Empregados domésticos não especializados
+808- Outras ocupações do serviço doméstico
+811- Hoteleiros e donos de pensão por conta própria
+812- Camareiros (exclusive no serviço doméstico)
+813- Cozinheiros (exclusive no serviço doméstico)
+814- Garçons
+815- Atendentes de bar e lanchonete
+816- Governantas e Mordomos (exclusive no serviço doméstico)
+817- Maitre de hotel
+818- Maitre no serviço de alimentação
+821- Cabelereiros
+822- Barbeiros
+823- Maquiladores, depiladores e esteticistas
+824- Manicuros e pedicuros
+825- Lavadeiras e passadeiras
+826- Engraxates
+831- Jogadores de futebol
+832- Lutadores e outros atletas profissionais
+833- Juízes de esportes
+834- Técnicos de esportes
+841- Porteiros
+842- Ascensoristas
+843- Vigias
+844- Serventes
+845- Contínuos
+851- Proprietários nos serviços agropecuários por conta própria não classificados acima
+852- Proprietários nos serviços por conta própria não classificados acima
+861- Oficiais das Forças Armadas
+862- Praças das Forças Armadas
+863- Oficiais e Praças do Corpo de Bombeiros
+864- Delegados e Comissários de Polícia
+865- Investigadores de Polícia
+866- Guardas-Civis e Inspetores de Tráfego
+867- Carcereiros e Guardas de Presídio
+868- Datiloscopistas
+869- Guardas-Vigias de organizações particulares
+911- Aprendizes
+912- Bilheteiros no serviço de diversões
+913- Bombeiros (exclusive do Corpo de Bombeiros)
+914- Capatazes
+915- Dedetizadores
+916- Guardadores de automóveis
+917- Guardas Sanitário
+918- Inspetores e Fiscais
+919- Jardineiros (exclusive na lavoura)
+920- Lixeiros
+921- Lubrificadores
+922- Operadores de tratamento e bombeamento de água
+923- Operadores de máquinas (exclusive na agropecuária e construção civil)
+924- Trabalhadores braçais sem especificação
+925- Trabalhadores de conservação de Rodovias
+926- Babás (exclusive no serviço doméstico)
+927- Outras ocupações ou ocupações mal definidas
+928- Sem declaração de ocupaçao
+   - Pessoa menor de 10 anos ou (VAR0345) = 3

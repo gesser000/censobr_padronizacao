@@ -1,0 +1,8 @@
+0- Não tem fogão ou fogareiro
+1- Gás canalizado
+2- Só gás de botijão
+3- Só lenha
+4- Gás de botijão e lenha
+5- Carvão
+6- Outro
+ - Domicílios improvisados ou coletivos

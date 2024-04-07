@@ -1,0 +1,6 @@
+5- Separado(a) não judicialmente
+6- Desquitado(a) ou separado judicialmente
+7- Divorciado(a)
+8- Viúvo(a)
+9- Ignorado
+ - Pessoa menor de 10 anos ou (VAR0330) = 2

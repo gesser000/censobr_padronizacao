@@ -1,0 +1,11 @@
+0- Não paga
+1- Até 1/4 de salário mínimo
+2- Mais de 1/4 a 1/2 salário mínimo
+3- Mais de 1/2 a 1 salário mínimo
+4- Mais de 1 a 2 salários mínimos
+5- Mais de 2 a 3 salários mínimos
+6- Mais de 3 a 4 salários mínimos
+7- Mais de 4 a 5 salários mínimos
+8- Mais de 5 salários mínimos
+9- Sem Declaração
+ - Domicílios improvisados ou coletivos

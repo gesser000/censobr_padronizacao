@@ -1,0 +1,7 @@
+0- não tem banheiro
+1- um banheiro
+2- dois banheiros
+3- três baheiros
+4- quatro banheiros
+5- cinco ou mais banheiros
+ - Domicílios improvisados ou domicílios coletivos

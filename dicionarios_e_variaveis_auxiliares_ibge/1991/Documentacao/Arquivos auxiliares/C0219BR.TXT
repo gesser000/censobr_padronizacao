@@ -1,0 +1,4 @@
+0- Não tem
+1- Próprio
+2- Cedido
+ - Domicílios improvisados ou coletivos

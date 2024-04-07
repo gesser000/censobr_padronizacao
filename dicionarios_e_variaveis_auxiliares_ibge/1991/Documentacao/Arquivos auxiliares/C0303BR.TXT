@@ -1,0 +1,16 @@
+01- Chefe
+02- Cônjuge
+03- Filho(a)
+04- Enteado(a)
+05- Pai ou Mãe
+06- Sogro(a)
+07- Avô(ó) ou Bisavô(ó)
+08- Neto(a) ou Bisneto(a)
+09- Genro ou Nora
+10- Irmão ou Irmã
+11- Cunhado(a)
+12- Outros Parentes
+13- Agregado(a)
+14- Pensionista
+15- Empregado(a) Doméstico(a)
+20- Individual

@@ -1,0 +1,25 @@
+CENSO DEMOGRÁFICO - MICRODADOS DA AMOSTRA
+ANO - 1980
+
+
+
+V550 - FILHOS TIDOS NASCIDOS VIVOS
+
+00- sem filho nascido vivo
+01- 1 filho nascido vivo
+02- 2 filhos nascidos vivos
+03- 3 filhos nascidos vivos
+04- 4 filhos nascidos vivos
+05- 5 filhos nascidos vivos
+06- 6 filhos nascidos vivos
+07- 7 filhos nascidos vivos
+08- 8 filhos nascidos vivos
+09- 9 filhos nascidos vivos
+10- 10 filhos nascidos vivos
+11- 11 filhos nascidos vivos
+12- 12 filhos nascidos vivos
+13- 13 filhos nascidos vivos
+14- 14 filhos nascidos vivos
+15- 15 filhos nascidos vivos
+98- a ser inputado
+99- ignorado

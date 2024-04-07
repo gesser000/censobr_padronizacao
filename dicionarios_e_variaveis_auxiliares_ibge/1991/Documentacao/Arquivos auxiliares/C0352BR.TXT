@@ -1,0 +1,9 @@
+1- No domicílio - sem local exclusivo
+2- No domicílio - com local exclusivo
+3- Via pública - com equipamento pesado
+4- Via pública - com equipamento leve ou sem equipamento
+5- Propriedade agropecuária
+6- Empresa ou firma
+7- Em casa do cliente ou patrão
+8- Outro
+ - Pessoa menor de 10 anos ou (VAR0345) = 3

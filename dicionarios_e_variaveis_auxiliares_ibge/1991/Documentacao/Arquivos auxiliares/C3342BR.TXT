@@ -1,0 +1,6 @@
+1- Casada em 1ª união
+2- Casada em outra união
+3- Casada com número de uniões ignorado
+4- Separada, Desquitada, Divorciada ou Viúva
+5- Solteira
+ - Pessoa menor de 10 anos

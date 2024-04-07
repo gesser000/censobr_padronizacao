@@ -1,0 +1,4 @@
+0- Não tem
+1- Só do domicílio
+2- Comum a mais de um domicílio
+ - Domicílios improvisados ou coletivos

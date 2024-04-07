@@ -1,0 +1,6 @@
+1- Casamento civil e religioso
+2- Só casamento civil
+3- Só casamento religioso
+4- União Consensual
+9- Ignorado
+ - Pessoa menor de 10 anos ou (VAR0330) = 2

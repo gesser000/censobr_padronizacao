@@ -1,0 +1,5 @@
+0- Não tem
+1- Um aparelho
+2- Dois aparelhos
+3- Três ou mais aparelhos
+ - Domicílio improvisado, coletivo ou (VAR0221) = 3 ou 4

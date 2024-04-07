@@ -1,0 +1,24 @@
+CENSO DEMOGRÁFICO - MICRODADOS DA AMOSTRA
+ANO - 1980
+
+
+V554 - FILHOS VIVOS NA DATA DA PESQUISA
+
+00- sem filho vivo
+01- 1 filho vivo
+02- 2 filhos vivo
+03- 3 filhos vivo
+04- 4 filhos vivo
+05- 5 filhos vivo
+06- 6 filhos vivo
+07- 7 filhos vivo
+08- 8 filhos vivo
+09- 9 filhos vivo
+10- 10 filhos vivos
+11- 11 filhos vivos
+12- 12 filhos vivos
+13- 13 filhos vivos
+14- 14 filhos vivos
+15- 15 filhos vivos
+98- a ser imputado
+99- ignorado

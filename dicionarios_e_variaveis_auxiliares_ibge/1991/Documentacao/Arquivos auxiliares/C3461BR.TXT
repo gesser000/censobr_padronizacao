@@ -1,0 +1,11 @@
+01- Administrativas
+02- Técnicas, Científicas, Artísticas e Assemelhadas
+03- Agropecuária e da Produção Extrativa Vegetal e Animal
+04- Produção Extrativa Mineral
+05- Indústria de Transformação e Construção Civil
+06- Comércio e Atividades Auxiliares
+07- Transportes e Comunicações
+08- Prestação de Serviços
+09- Defesa Nacional e Segurança Pública
+10- Outras ocupações, ocupações mal definidas ou não declaradas
+  - Pessoa menor de 10 anos ou (VAR0345) = 3

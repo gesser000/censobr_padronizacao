@@ -1,0 +1,170 @@
+011- Cultura de agave
+012- Cultura de algodão
+013- Cultura de arroz
+014- Cultura de banana
+015- Cultura de cacau
+016- Cultura de café
+017- Cultura de cana-de-açúcar
+018- Cultura de fumo
+019- Cultura de mandioca
+020- Cultura de milho
+021- Cultura de soja
+022- Cultura de trigo
+023- Horticultura e Floricultura
+024- Silvicultura
+025- Culturas não discriminadas anteriormente
+026- Pecuária
+027- Avicultura
+028- Apicultura e Sericicultura
+029- Atividades não compreendidas nas classes anteriores
+031- Extração de borracha e gomas elásticas
+032- Extração de erva-mate
+033- Extração de plantas fibrosas
+034- Extração de frutos, sementes oleaginosas e ceras
+035- Extração de madeiras
+036- Produção de carvão vegetal
+037- Atividades não compreendidas nas classes anteriores
+041- Pesca
+042- Piscicultura
+050- Extração e aparelhamento de pedras e outros materiais de construção
+051- Extração de petróleo e gás natural
+052- Extração de carvão de pedra
+053- Exploração de salinas e fontes hidrominerais
+054- Faiscação e garimpagem de minerais não metálicos
+055- Faiscação e garimpagem de minerais metálicos
+056- Extração de minerais radioativos
+057- Extração de minerais não metálicos (exceto os de outras classes)
+058- Extração de minerais metálicos (exceto os de outras classes)
+059- Atividades não compreendidas nas classes anteriores ou mal definidas
+100- Indústria de transformação de minerais não metálicos (exclusive combustíveis minerais)
+110- Indústrias metalúrgicas
+120- Indústrias mecânicas
+130- Indústrias de material elétrico e de comunicações
+140- Indústrias de material de transportes
+150- Indústrias de madeira
+151- Indústrias domiciliares de artigos de palha
+160- Indústrias do mobiliário
+170- Indústrias do papel e papelão
+180- Indústrias da borracha
+190- Indústrias de couros, peles e similares (exclusive vestuário e calçados)
+200- Indústrias químicas (inclusive produção de álcool)
+201- Indústrias de produtos da destilação do petróleo e do carvão
+202- Indústrias químicas de matérias primas para produção de material plástico, borracha, etc.
+210- Indústrias de produtos farmacêuticos e veterinários
+220- Indústrias de perfumaria, sabões e velas
+230- Indústrias de produtos de matérias plásticas
+240- Indústrias têxteis
+241- Indústrias domiciliares têxteis
+250- Indústrias do vestuário
+251- Indústrias do calçado
+260- Indústrias de produtos alimentares
+261- Indústrias domiciliares de produtos alimentares
+270- Indústrias de bebidas (exclusive produção de álcool)
+280- Indústrias do fumo
+290- Indústrias editoriais e gráficas
+300- Atividades não compreendidas nas classes anteriores ou mal definidas
+340- Indústrias da construção
+351- Produção e distribuição de energia elétrica
+352- Produção e distribuição de gás canalizado
+353- Abastecimento de água e serviço de esgoto
+354- Limpeza pública e remoção de lixo
+410- Comércio de produtos agropecuários e extrativos (exclusive aves para alimentação)
+411- Comércio de gêneros alimentícios, bebidas e estimulantes
+412- Comércio de tecidos, artigos do vestuário e armarinho
+413- Comércio de móveis, tapeçarias, objetos de arte e ornamentação
+414- Comércio de papel, impressos e artigos de escritório
+415- Comércio de ferragens, louças, materiais de construção e produtos metalúrgicos
+416- Comércio de máquinas, aparelhos, instrumentos e material elétrico
+417- Comércio de veículos e acessórios
+418- Comércio de produtos químicos e farmacêuticos
+419- Comércio de combustíveis e lubrificantes
+420- Comércio ambulante
+421- Feiras
+422- Supermercados
+423- Lojas de Departamentos
+424- Atividades não compreendidas nas classes anteriores ou mal definidas
+451- Banco, financeiras e capitalização
+452- Caixas econômicas e cooperativas de crédito
+453- Seguros
+461- Administração, comércio e incorporação de imóveis
+462- Comércio de títulos e moedas
+463- Concessionários de loterias (exclusive agências lotéricas)
+464- Organização de cartões de crédito, consórcios, clubes de mercadorias, etc.
+471- Transportes a tração e condução animal
+472- Transportes rodoviários de passageiros
+473- Transportes rodoviários de cargas
+474- Transportes ferroviários
+475- Transportes marítimos fluviais e lacustres
+476- Transportes aéreos
+477- Atividades não compreendidas acima ou mal definidas
+481- Serviços postais, telegráficos e de rádiocomunicações
+482- Comunicações telefônicas
+511- Serviços de alojamento
+512- Serviços de alimentação
+521- Serviços de reparação e conservação de  máquinas e aparelhos elétricos ou não (uso doméstico)
+522- Serviços de reparação e manutenção de veículos (exclusive trens e máquinas de terraplenagem)
+523- Serviços de reparação de artigos de madeira e do mobiliário
+524- Serviços de reparação de instalações elétricas, hidráulicas e de gás
+525- Serviços de reparação não incluídos nas classes anteriores ou mal definidos
+531- Serviços de higiene pessoal
+532- Serviços de confecção sob medida e reparação de artigos do vestuários
+533- Serviços pessoais não incluídos anterioremente ou mal definidos
+541- Serviços de conservação de artigos do vestuário e de outros artigos e tecidos
+542- Serviços de limpeza e conservação de casas, escritórios, lojas e edifícios
+543- Serviços de vigilância e guarda
+544- Serviços domésticos remunerados
+545- Serviços domiciliares não incluídos anteriormente ou mal definidos
+551- Serviços de diversões e promoção de espetáculos artísticos
+552- Serviços radiofusão e televisão
+571- Serviços jurídicos
+572- Serviços de contabilidade e auditoria
+573- Serviços de assessoria, consultoria, pesquisa, análise e processamento de dados
+574- Serviços de engenharia e arquitetura
+575- Serviços de publicidade e propaganda
+576- Serviços de tradução, reprodução e documentação
+577- Serviços de pintura, desenho, escultura e serviço de decoração
+578- Serviços técnico-profissionais não incluídos anteriormente ou mal definidos
+581- Serviços auxiliares da agricultura e da pecuária
+582- Serviços auxiliares do comércio de mercadorias
+583- Serviços auxiliares de armazenagem
+584- Serviços auxiliares do comércio e da indústria em geral
+585- Serviços auxiliares das atividades de seguros, finanças e valores
+586- Serviços auxiliares dos transportes (exclusive rodoviário e marítimo)
+587- Serviços auxiliares dos transportes rodoviários
+588- Serviços auxiliares dos transportes marítimos
+589- Serviços auxiliares das atividades econômicas em geral
+610- Assistência e beneficiência
+611- Previdência Social Pública
+612- Previdência Social Particular
+613- Sindicatos e associações de classe
+614- Instituições científicas e tecnológicas
+615- Instituições filosofícas e culturais
+616- Culto e atividades auxiliares
+617- Entidades desportivas e recreativas
+618- Organizações cívicas e políticas
+619- Serviços comunitários e sociais não incluídos anteriormente ou mal definidos
+621- Serviços médicos públicos
+622- Serviços médicos particulares
+623- Serviços odontológicos
+624- Serviços de veterinária
+631- Ensino público
+632- Ensino particular
+711- Poder Legislativo
+712- Justiça e atividades auxiliares
+713- Serviços administrativos federais
+714- Serviços administrativos estaduais
+715- Serviços administrativos municipais
+716- Serviços administrativos autárquicos
+717- Serviços administrativos públicos não incluídos anteriormente ou mal definidos
+721- Exército
+722- Marinha de Guerra
+723- Aeronáutica
+724- Polícia Militar
+725- Polícia Civil
+726- Corpo de Bombeiros
+727- Outras organizações governamentais de segurança
+801- Organizações internacionais e representações estrangeiras
+901- Outras ativdades não compreendidas nos demais ramos
+902- Atividades mal definidas
+903- Atividade não declarada
+   - Pessoa menor de 10 anos ou (VAR0345) = 3

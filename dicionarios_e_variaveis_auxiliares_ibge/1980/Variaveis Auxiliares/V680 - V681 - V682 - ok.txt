@@ -1,0 +1,22 @@
+CENSO DEMOGRÁFICO - MICRODADOS DA AMOSTRA
+ANO - 1980
+
+
+V680 - CLASSE DE RENDIMENTOS BRUTO NA OCUPAÇÃO PRINCIPAL
+V681 - CLASSE DE RENDA TOTAL
+V682 - CLASSE DE RENDIMENTO BRUTO DE TODAS AS OCUPAÇÕES
+ 
+00- sem renda
+01- até 1/8 de salário mínimo
+02- mais de 1/8 a 1/4 de salário mínimo
+03- mais de 1/4 a 1/2 de salário mínimo
+04- mais de 1/2 a 3/4 de salário mínimo
+05- mais de 3/4 a 1 salário mínimo
+06- mais de 1 a 2 salários mínimos
+07- mais de 2 a 3 salários mínimos
+08- mais de 3 a 5 salários mínimos
+09- mais de 5 a 10 salários mínimos
+10- mais de 10 a 15 salários mínimos
+11- mais de 15 a 20 salários mínimos
+12- mais de 20 salários mínimos
+99- ignorado

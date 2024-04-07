@@ -1,0 +1,390 @@
+CENSO DEMOGRÁFICO - 1970
+
+MICRODADOS DA AMOSTRA DE 25%
+
+V044 - OCUPAÇÃO PRINCIPAL
+
+
+OCUPAÇÕES ADMINISTRATIVAS
+
+Proprietários
+ 0- não aplicável
+11- agricultores
+12- pecuaristas
+13- avicultores e criadores de pequenos animais
+14- industriais
+15- comerciantes
+16- hoteleiros e donos de pensão
+17- outros proprietários
+
+Administradores
+21- administradores, diretores e assistentes no serviço público - inclusive cargos eletivos
+22- administradores de bancos e companhias de seguros
+23- administradores na agropecuária
+24- outros administradores
+
+Funções burocráticas ou de escritório
+31- agentes fiscais no serviço público
+32- inspetores de trabalho e fiscais de previdência
+33- oficiais e técnicos de administração
+34- coletores e exatores
+35- caixas e tesoureiros 
+36- técnicos de contabilidade
+37- almoxarifes e armazenistas
+38- datilógrafos
+39- taquígrafos
+40- redatores
+41- intérpretes e tradutores
+42- bibliotecários e documentarístas
+43- programadores
+44- operadores de apuração mecânica
+45- auxiliares de escritório e de administração em geral
+
+OCUPAÇÕES TÉCNICAS, CIENTÍFICAS, ARTÍSTICAS E AFINS
+
+Engenheiros, funções afins e auxiliares
+101- engenheiros
+102- arquitetos
+103- agrimensores e topógrafos
+104- desenhistas e cartógrafos
+
+Químicos, farmacêuticos, físicos e outros especialistas em ciências afins
+111- químicos
+112- farmacêuticos
+113- físicos
+114- geólogos
+115- astrônomos
+116- meteorologistas
+
+Agrônomos, veterinários e naturalistas
+121- agrônomos
+122- veterinários
+123- naturalistas
+
+Médicos, dentistas e funções auxiliares
+130- médicos
+131- dentistas
+132- parteiras
+133- enfermeiros diplomados
+134- enfermeiros não diplomados
+135- fisioterapistas e massagistas
+136- protéticos
+137- operadores de Raios X
+138- práticos de farmácia
+139- laboratoristas
+
+Matemáticos, sociólogos e outros especialistas em ciências afins
+141- matemáticos
+142- estatísticos e atuários
+143- economistas
+144- contadores
+145- sociólogos, antropólogos e arqueólogos
+
+Professores e funções auxiliares
+151- professores primários
+152- professores secundários
+153- professores superiores
+154- professores sem especificação
+155- inspetores de ensino técnico de educação
+156- inspetores de alunos
+
+Magistrados, advogados, funções afins e auxiliares
+161- magistrados
+162- procuradores, promotores e curadores públicos
+163- advogados e defensores públicos
+164- tabeliães e oficiais de registro
+165- escrivães e auxiliares de justiça
+
+Religiosos, assitentes sociais e atividades auxiliares
+171- religiosos
+172- assistentes sociais
+173- agentes sociais
+
+Escritores e jornalistas
+181- escritores e jornalistas
+
+Artistas, funções afins e auxiliares
+191- escultores e pintores
+192- músicos
+193- artistas de cinema, teatro, circo, rádio e televisão 
+194- locutores
+195- decoradores e cenógrafos
+196- cinegrafistas e operadores de câmara
+197- fotógrafos
+198- outros técnicos de cinema, teatro, rádio e televisão
+
+OCUPAÇÕES DA AGROPECUÁRIA E DA PRODUÇÃO EXTRATIVA VEGETAL E ANIMAL
+
+Trabalhadores qualificados na agropecuária
+211- técnicos agrícolas e práticos rurais
+212- aradores
+213- tratoristas
+
+Trabalhadores não qualificados da agropecuária
+221- chacareiros, hortelãos e floriculturas
+222- jardineiros
+223- trabalhadores de enxada
+224- trabalhadores na pecuária
+
+Caçadores e pescadores
+231- caçadores
+232- pescadores
+
+Trabalhadores florestais
+241- madeireiros e lenhadores
+242- carvoeiros (fabricantes)
+243- seringueiros
+244- ervateiros
+245- apanhadores, descascadores e quebradores de produtos vegetais
+
+OCUPAÇÕES DA PRODUÇÃO EXTRATIVA VEGETAL
+
+Mineiros
+311- mineiros
+
+Canteiros e marroeiros
+321- canteiros e marroeiros
+
+Trabalhadores na extração de petróleo e gás
+331- trabalhadores extração petróleo e gás
+
+Garimpeiros
+341- garimpeiros
+
+OCUPAÇÕES DAS INDÚSTRIAS DE TRANSFORMAÇÃO E DA CONSTRUÇÃO CIVIL
+
+Ocupações da indústria metalúrgica
+411- modeladores e formistas de metais
+412- fundidores de metais
+413- laminadores e trefiladores
+414- afiadores e amoladores
+
+Ocupações da indústria mecânica
+421- estampadores mecânicos
+422- frezadores e furadores
+423- torneiros mecânicos
+424- mecânicos de motor a explosão
+425- mecânicos sem especificação
+426- galvanizadores e niqueladores
+427- soldadores
+428- caldeireiros
+429- ferreiros e serralheiros
+430- lanterneiros de veículos
+431- rebitadores de metais
+432- funileiros de metais
+433- ferradores
+
+Ocupações da indústria têxtil
+
+Cardadores e penteadores
+441- cardadores e penteadores
+442- maçaroqueiros, bobinadores e espuladores
+443- fiandeiros
+444- rendeiros
+445- urdidores e remetedores
+446- cordoeiros
+447- tecelões
+448- tapeceiros
+449- redeiros
+450- alvejadores e tintureiros têxtil
+451- estampadores têxteis 
+452- acabadores de pano
+
+Ocupações da indústria do couro
+461- correeiros e seleiros
+462- curtidores
+
+Ocupações da indústria do vestuário
+471- alfaiates e costureiros
+472- bordadeiras e cerzideiras
+473- chapeleiros de palha
+474- chapeleiros - exclusive de palha
+475- sapateiros
+476- bolseiros e cinteiros
+
+Ocupações das indústrias de madeira e de móveis
+481- marceneiros
+482- carpinteiros
+483- tanoeiros
+484- serradores
+485- estofadores e capoteiros
+486- colchoeiros
+487- lustradores de madeira
+
+Eletricistas
+491- eletricistas
+492- radiotécnicos (consertadores e montadores)
+
+Ocupações da indústria da construção civil
+511- mestres de obra
+512- armadores de concreto
+513- pedreiros
+514- serventes de pedreiros
+515- pintores e caiadores
+516- estucadores
+517- ladrilheiros e taqueiros
+518- encanadores
+519- vidraceiros (colocadores de vidros)
+520- calceteiros e asfaltadores
+521- calafates
+522- operadores máquinas na construção civil
+
+Ocupações das indústrias de alimentação e de bebidas
+531- lingüiceiros e salsicheiros
+532- charqueadores
+533- magarefes
+534- manteigueiros e queijeiros
+535- doceiros e confeiteiros
+536- macarroneiros e pasteleiros
+537- padeiros
+538- farinheiros e moleiros
+539- ocupações das usinas e engenhos de açúcar
+540- ocupações das destilarias de bebidas
+541- ocupações da moagem e torrefação de café
+542- ocupações da industrialização do pescado
+
+Ocupações da indústria gráfica
+551- linotipistas
+552- tipógrafos
+553- clicheristas e gravadores
+554- impressores
+555- revisores, na indústria gráfica 
+556- encanadores e cartonadores
+557- outras ocupações específicas da indústria gráfica
+
+Ocupações das indústrias de cerâmica e de vidro
+561- vidreiros e ampoleiros
+562- ceramistas e louceiros
+563- pintores cerâmicos
+564- oleiros
+
+Outras ocupações das indústrias de transformação
+571- mestres, contramestres e técnicos industriais
+572- ourives e relojoeiros
+573- lapidadores
+574- vulcanizadores e recauchutadores
+575- fogueteiros
+576- cesteiros e esteireiros
+577- vassoureiros
+578- marmoristas
+579- charuteiros e cigarreiros
+580- polidores e esmerilhadores
+581- pintores a pistola
+582- operários de reparos e construção naval
+583- artífices sem especificação
+584- foguistas - exclusive de embarcação e de trem
+585- embaladores e expedidores
+586- outras ocupações das indústrias de transformação
+
+OCUPAÇÕES DO COMÉRCIO E ATIVIDADES AUXILIARES
+
+Balconistas e vendedores
+611- açougueiros
+612- vendedores ambulantes
+613- balconistas e entregadores
+614- vendedores de jornais e revistas
+
+Viajantes representantes e pracistas
+621- pracistas e viajantes comerciais
+622- representantes comerciais
+623- propagandistas
+
+Outras ocupações do comércio
+631- corretores de seguros
+632- corretores de imóveis
+633- corretores de títulos e valores
+634- outros agentes e corretores
+635- compradores
+
+OCUPAÇÕES DOS TRANSPORTES E DAS COMUNICAÇÕES
+
+Ocupações do transporte aéreo
+711- aviadores civis
+712- aeromoços
+
+Ocupações dos transportes marítimo, fluvial e lacustre
+721- oficiais de marinha mercante
+722- mestres de embarcação
+723- maquinistas de embarcação
+724- foguistas de embarcação
+725- marinheiros civis
+726- taifeiros
+727- barqueiros e canoeiros
+
+Ocupações dos serviços portuários
+731- guindasteiros
+732- estivadores
+
+Ocupações dos transportes ferroviários
+741- agentes de estradas de ferro
+742- condutores e chefes de trem
+743- maquinistas
+744- foguistas de trem
+745- guarda-freios
+746- manobreiros e sinaleiros
+
+Ocupações dos transportes urbanos e rodoviários
+751- motoristas
+752- trocadores
+753- carroceiros e tropeiros
+
+Outras ocupações dos transportes
+761- inspetores e despachantes nos transportes
+762- trabalhadores na conservação de rodovias
+763- trabalhadores na conservação de ferrovias
+
+Ocupações das comunicações
+771- agentes postais e telégraficos
+772- postalistas
+773- telegrafístas e rádiotelegrafistas
+774- telefonistas
+775- carteiros
+776- vendedores de selos
+777- guarda-fios
+
+OCUPAÇÕES DA PRESTAÇÃO DE SERVIÇOS
+
+Ocupações domésticas remuneradas e dos serviços de alimentação	
+811- cozinheiros
+812- garçons
+813- empregados domésticos
+
+Ocupações dos serviços de higiene pessoal
+821- barbeiros e cabeleireiros
+822- manicuras e pedicuros
+823- lavadeiras e engomadeiras
+824- engraxates
+
+Atletas profissionais e funções afins
+831- jogadores de futebol
+832- lutadores e outros atletas profissionais
+833- juizes de esporte
+834- técnicos de esporte
+
+OCUPAÇÕES DA DEFESA NACIONAL E SEGURANÇA PÚBLICA
+
+Ocupações da defesa nacional e segurança pública
+841- oficiais e praças das forças armadas
+842- oficiais e praças do Corpo de Bombeiro 
+843- delegados e comissários de polícia
+844- investigadores de polícia
+845- guardas civis e inspetores de tráfego
+846- carcereiros e guardas de presídio
+847- datiloscopistas
+
+Outras ocupações, ocupações mal definidas ou não declaradas
+911- ascensoristas
+912- aprendizes
+913- capatazes
+914- guardas sanitários
+915- inspetores e fiscais
+916- lixeiros
+917- lubrificadores
+918- observadores meteorológicos
+919- operadores cinematográficos
+920- operadores de máquinas - exclusive da construção civil
+921- porteiros, vigias e serventes
+922- trabalhadores braçais sem especificação
+923- outras ocupações ou ocupações mal definidas
+924- procurando trabalho pela 1ª vez
+925- sem declaração de ocupação

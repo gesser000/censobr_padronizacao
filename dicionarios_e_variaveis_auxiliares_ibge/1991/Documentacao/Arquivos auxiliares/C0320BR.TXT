@@ -1,0 +1,4 @@
+1- Na zona urbana
+2- Na zona rural
+9- Ignorado
+ - (VAR0314) = 1 ou (VAR0318) >= 10

@@ -1,0 +1,5 @@
+1- Sim
+2- Não sabe
+3- Não tem
+4- Não é empregado
+ - Pessoa menor de 10 anos ou (VAR0345) = 3

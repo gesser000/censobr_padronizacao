@@ -1,0 +1,2 @@
+1- Idade presumida
+2- Idade declarada

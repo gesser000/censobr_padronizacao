@@ -1,0 +1,177 @@
+CENSO DEMOGRÁFICO - 1970
+
+MICRODADOS DA AMOSTRA DE 25%
+
+V045 - CLASSIFICAÇÃO DE ATIVIDADE
+
+
+AGRICULTURA, PECUÁRIA E SILVICULTURA
+  0- não aplicável
+111- cultura de agave 
+112- cultura de algodão
+113- cultura de arroz
+114- cultura de banana
+115- cultura de cacau
+116- cultura de café
+117- cultura de cana-de-açúcar
+118- cultura de fumo
+119- cultura de trigo
+120- horticultura e floricultura
+121- silvicultura
+122- outras culturas 
+123- pecuária
+124- avicultura e cunicultura
+125- apicultura e sericultura
+126- outras classes e classe mal defefinida
+
+EXTRAÇÃO VEGETAL
+211- extração da borracha e goma elástica
+212- extração de erva-mate
+213- extração de plantas fibrosas 
+214- extração de frutos e sementes oleagenosas e ceras
+215- extração de madeira
+216- produção de carvão vegetal
+217- outras classes e classe mal definida
+
+CAÇA E PESCA
+211- caça
+222- pesca e piscicultura
+223- frente de trabalho
+
+EXTRAÇÃO MINERAL
+301- extração e aparelhamento de pedras e outros materiais de construção
+302- extração de petróleo e gás natural
+303- extração de carvão-de-pedra
+304- exploração de salinas e fontes hidrominerais
+305- faiscação e garimpagem
+306- extração e beneficiamento de outros minerais
+
+INDÚSTRIAS DE TRANSFORMAÇÃO
+311- industria metalúrgica
+312- indústria mecânica
+313- indústria de material elétrico e de comunicações
+314- indústria de material de transporte, inclusive montagem e reparação
+315- indústria de minerais não metálicos, exclusive combustíveis minerais
+316- indústria da borracha
+317- indústria de fumo
+318- indústria de papel e papelão
+319- indústria de mobiliário
+320- indústria de madeira
+321- indústria de couro, peles e produtos similares, exclusive artigos do vestuário e calçados
+322- indústria de produtos farmacêuticos e medicinais
+323- indústria de materiais plásticos
+324- indústria química
+325- indústria de produtos derivados do petróleo e carvão, exclusive gás de iluminação
+326- indústria têxtil
+327- indústria domiciliárias têxteis
+328- indústria domiciliárias de artigos de palha
+329- indústria do vestuário
+330- indústria do calçado
+331- indústria de produtos alimentares
+332- indústria de bebidas e álcoois
+333- indústria editorial e gráfica
+334- outras classes e classe mal definida
+
+INDÚSTRIA DA CONSTRUÇÃO
+341- edificações
+342- rodo-ferrovias
+
+SERVIÇOS INDUSTRIAIS DE UTILIDADE PÚBLICA
+351- produção e distribuição de energia elétrica e gás
+352- abastecimento de água e serviço de esgoto
+
+COMÉRCIO DE MERCADORIAS
+411- comércio de produtos agropecuários e extrativos (exclusive aves para alimentação)
+412- comércio de gêneros alimentícios e bebidas, sem alimentação
+413- comércio de gêneros alimentícios e bebidas, com alimentação
+414- comércio de tecidos e artefatos de tecidos, artigos do vestuário e armarinho
+415- comércio de móveis, tapeçarias, objetos de arte e ornamentação
+416- comércio de papel, impressos e artigos de escritório
+417- comércio de ferragens, louças, materiais de contrução e produtos metalúrgicos
+418- comércio de máquinas, aparelhos, instrumentos, material elétrico, veículos
+      e acessórios
+419- comércio de produtos farmacêuticos e medicinais
+420- comércio de combustíveis e lubrificantes
+421- comércio ambulante
+422- feiras e mercados
+423- atividades auxiliares do comércio de mercadorias
+424- outras classes e classe mal definida
+
+PRESTAÇÃO DE SERVIÇOS
+511- serviço de alojamento
+512- serviço de alimentação
+513- serviço de higiene pessoal
+514- serviço de confecções sob medida, conservação e reparação de artigos do vestuário
+515- serviço de conservação, reparação e instalação de máquinas e veículos
+516- serviço de diversão
+517- serviço doméstico
+518- serviço de conservação de edifícios
+519- outras classes e classe mal definida
+
+TRANSPORTES, COMUNICAÇÕES E ARMAZENAGEM
+611- transporte à tração e condução animal
+612- transporte rodoviário
+613- transporte ferroviário
+614- transporte marítimo, fluvial e lacustre
+615- serviço portuário
+616- transporte aéreo
+617- serviço postal, telegráfico e de radiocomunicação
+618- telefone
+619- armazenagem
+620- outras classes e classe mal definida
+
+ATIVIDADES SOCIAIS
+711- ensino público
+712- ensino particular
+713- assistência médico-hospitalar pública
+714- assistência médico-hospitalar particular
+715- saneamento, abastecimento e melhoramentos urbanos, exclusive abastecimento 
+     de água, eletricidade, gás e serviço de esgoto
+716- previdência social
+717- assistência e beneficiência
+718- culto e atividades auxiliares
+719- instituições culturais
+720- sindicatos e associações de classe
+721- outras classes e classe mal definida
+
+SERVIÇOS ADMINISTRATIVOS GOVERNAMENTAIS, LEGISLATIVO, JUSTIÇA
+811- poder legislativo
+812- justiça e atividades auxiliares
+813- serviço administrativo federal
+814- serviço administrativo estadual
+815- serviço administrativo municipal
+816- serviço administrativo autárquico
+817- outras classes e classe mal definida
+
+DEFESA NACIONAL E SEGURANÇA PÚBLICA
+821- exército
+822- marinha de guerra
+823- aeronáutica
+824- polícia militar
+825- polícia civil
+826- corpo de bombeiros
+827- outras organizações de segurança
+
+COMÉRCIO DE IMÓVEIS E VALORES MOBILIÁRIOS, CRÉDITOS, SEGUROS E CAPITALIZAÇÃO
+911- comércio de imóveis
+912- comércio de títulos e moedas
+913- bancos e casas bancárias
+914- caixas econômicas e cooperativas de crédito
+915- seguros e capitalização
+916- outras classes e classe mal definida
+
+PROFISSÕES LIBERAIS
+921- advocacia e atividades auxiliares
+922- engenharia, arquitetura e atividades auxiliares
+923- odontologia e atividades auxiliares
+924- agronomia, veterinária e atividades auxiliares
+925- medicina e atividades auxiliares
+926- ciências, letras, artes e atividades auxiliares
+927- contabilidade e atividades auxiliares
+928- outros profissionais liberais e atividades auxiliares
+
+ATIVIDADES NÃO COMPREENDIDAS NOS DEMAIS RAMOS, MAL DEFINIDAS OU NÃO DECLARADAS
+931- representações estrangeiras
+932- outras atividades
+933- procurando trabalho pela 1ª vez
+934- atividades mal definidas e atividades não declaradas

@@ -1,0 +1,102 @@
+CENSO DEMOGRÁFICO - 1970
+
+MICRODADOS DA AMOSTRA DE 25%
+
+V030 - NATURALIDADE
+
+ 0- Brasileiro
+ 1- Rondônia
+ 2- Acre
+ 3- Amazonas
+ 4- Roraima
+ 5- Pará
+ 6- Amapá
+ 7- Maranhão
+ 8- Piauí
+ 9- Ceará
+10- Rio Grande do Norte
+11- Paraíba
+12- Pernambuco
+13- Alagoas
+14- Fernando de Noronha
+15- Sergipe
+16- Bahia
+17- Minas Gerais
+18- Espírito Santo
+19- Rio de Janeiro
+20- Guanabara
+21- São Paulo
+22- Paraná
+23- Santa Catarina
+24- Rio Grande do Sul
+25- Mato Grosso
+26- Goiás
+27- Distrito Federal
+30- Argentina
+31- Bolívia
+32- Canadá
+33- Chile
+34- Colômbia
+35- Costa Rica 
+36- Cuba
+37- Equador
+38- EUA
+39- Guatemala
+40- Guiana Francesa 
+41- Guiana Inglesa
+42- Haiti
+43- Honduras
+44- Honduras Britânicas
+45- Jamaica
+46- México
+47- Nicarágua
+48- Panamá
+49- Paraguai
+50- Peru
+51- República Dominicana
+52- Salvador
+53- Suriname
+54- Uruguai
+55- Venezuela
+56- Outros países da América
+57- Alemanha - República Federativa Alemã
+58- Alemanha - República Democrática Alemã 
+59- Áustria
+60- Bélgica
+61- Bulgária
+62- Dinamarca
+63- Espanha
+64- Finlândia
+65- França
+66- Grã-Bretanha
+67- Grécia
+68- Holanda
+69- Hungria
+70- Irlanda (Eire)
+71- Itália
+72- Iugoslávia
+73- Noruega
+74- Polônia
+75- Portugal
+76- Rumênia
+77- Suécia
+78- Suíça
+79- Tchecoeslovaquia
+80- URSS
+81- Outros países da Europa
+82- RAU - Egito
+83- Outros países da África
+84- China - Continental
+85- China - Nacional
+86- Coréia
+87- Índia
+88- Israel
+89- Japão
+90- Líbano
+91- Paquistão
+92- Síria
+93- Turquia
+94- Outros países da Ásia
+95- Austrália
+96- Outros países da Oceania
+99- Naturalizado, estrangeiro ou sem declaração

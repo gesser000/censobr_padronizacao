@@ -1,0 +1,47 @@
+00- Sem religião
+11- Católica Apostólica Romana
+12- Católica Apostólica Brasileira
+13- Católica Ortodoxa
+21- Evangélica Tradicional Luterana
+22- Evangélica Tradicional Presbiteriana
+23- Evangélica Tradicional Metodista
+24- Evangélica Tradicional Batista
+25- Evangélica Tradicional Congregacional
+26- Evangélica Tradicional Adventista
+27- Evangélica Tradicional Episcopal Anglicana
+28- Evangélica Tradicional Menonita
+29- Evangélica Tradicional não determinada
+30- Evangélica Tradicional Outras
+31- Evangélica Pentecostal Assembléia de Deus
+32- Evangélica Pentecostal Congregação Cristã do Brasil
+33- Evangélica Pentecostal O Brasil para Cristo
+34- Evangélica Pentecostal Evangelho Quadrangular
+35- Evangélica Pentecostal Universal do Reino de Deus
+36- Evangélica Pentecostal Casa da Benção
+37- Evangélica Pentecostal Casa da Oração
+38- Evangélica Pentecostal Deus é Amor
+39- Evangélica Pentecostal Maranata
+40- Evangélica Pentecostal Tradicional Renovada
+41- Evangélica Pentecostal não determinada
+45- Evangélica Pentecostal outras
+49- Evangélica não determinada
+51- Neo-Cristã Mórmon
+52- Neo-Cristã Testemunha de Jeová
+53- Neo-Cristã LBV
+59- Neo-Cristã outra
+61- Mediúnica Espírita
+62- Mediúnica Umbandista
+63- Mediúnica Candomblecista
+71- Judaica ou Israelita
+75- Oriental Budista
+76- Oriental Messiânica
+77- Oriental Seicho No-Ie
+79- Oriental Outras
+81- Outras - Islamismo
+82- Outras - Esotérica
+83- Outras - Indígena
+84- Outras - grupos minoritários
+85- Não determinada ou mal definidas - Cristã
+86- Não determinada ou mal definidas - Crente
+89- Não determinada ou mal definidas - outras
+99- Sem declaração

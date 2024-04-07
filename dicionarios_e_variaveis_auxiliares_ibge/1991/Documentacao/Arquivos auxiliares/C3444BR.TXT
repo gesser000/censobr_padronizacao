@@ -1,0 +1,4 @@
+1- Idade presumida
+2- Idade declarada
+9- Idade ignorada
+ - Pessoa menor de 10 anos ou mulher sem filho(a)

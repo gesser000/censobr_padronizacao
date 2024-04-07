@@ -1,0 +1,4491 @@
+11 0001 Alta Floresta d'Oeste
+11 0002 Ariquemes
+11 0003 Cabixi
+11 0004 Cacoal
+11 0005 Cerejeiras
+11 0006 Colorado do Oeste
+11 0008 Costa Marques
+11 0009 Espigão d'Oeste
+11 0010 Guajará-Mirim
+11 0011 Jaru
+11 0012 Ji-Paraná
+11 0013 Machadinho d'Oeste
+11 0014 Nova Brasilândia d'Oeste
+11 0015 Ouro Preto do Oeste
+11 0018 Pimenta Bueno
+11 0020 Porto Velho
+11 0025 Presidente Médici
+11 0028 Rolim de Moura
+11 0029 Santa Luzia d'Oeste
+11 0030 Vilhena
+11 0032 São Miguel do Guaporé
+11 0033 Vila Nova do Mamoré
+11 0034 Alvorada d'Oeste
+12 0005 Assis Brasil
+12 0010 Brasiléia
+12 0020 Cruzeiro do Sul
+12 0030 Feijó
+12 0033 Mâncio Lima
+12 0034 Manoel Urbano
+12 0038 Plácido de Castro
+12 0040 Rio Branco
+12 0045 Senador Guiomard
+12 0050 Sena Madureira
+12 0060 Tarauacá
+12 0070 Xapuri
+13 0002 Alvarães
+13 0006 Amaturá 
+13 0008 Anamã
+13 0010 Anori
+13 0014 Apuí
+13 0020 Atalaia do Norte
+13 0030 Autazes
+13 0040 Barcelos
+13 0050 Barreirinha
+13 0060 Benjamin Constant
+13 0063 Beruri
+13 0068 Boa Vista do Ramos
+13 0070 Boca do Acre
+13 0080 Borba
+13 0083 Caapiranga
+13 0090 Canutama
+13 0100 Carauari
+13 0110 Careiro
+13 0115 Careiro da Várzea
+13 0120 Coari
+13 0130 Codajás
+13 0140 Eirunepé
+13 0150 Envira
+13 0160 Fonte Boa
+13 0165 Guajará
+13 0170 Humaitá
+13 0180 Ipixuna
+13 0185 Iranduba
+13 0190 Itacoatiara
+13 0195 Itamarati
+13 0200 Itapiranga
+13 0210 Japurá
+13 0220 Juruá
+13 0230 Jutaí
+13 0240 Lábrea
+13 0250 Manacapuru
+13 0255 Manaquiri
+13 0260 Manaus
+13 0270 Manicoré
+13 0280 Maraã
+13 0290 Maués
+13 0300 Nhamundá
+13 0310 Nova Olinda do Norte
+13 0320 Novo Airão
+13 0330 Novo Aripuanã
+13 0340 Parintins
+13 0350 Pauini
+13 0353 Presidente Figueiredo
+13 0356 Rio Preto da Eva
+13 0360 Santa Isabel do Rio Negro
+13 0370 Santo Antônio do Içá
+13 0380 São Gabriel da Cachoeira
+13 0390 São Paulo de Olivença
+13 0395 São Sebastião do Uatumã
+13 0400 Silves
+13 0406 Tabatinga
+13 0410 Tapauá
+13 0420 Tefé
+13 0423 Tonantins
+13 0426 Uarini
+13 0430 Urucará
+13 0440 Urucurituba
+14 0005 Alto Alegre
+14 0010 Boa Vista
+14 0015 Bonfim
+14 0020 Caracaraí
+14 0030 Mucajaí
+14 0040 Normandia
+14 0050 São João da Baliza
+14 0060 São Luiz
+15 0010 Abaetetuba
+15 0020 Acará
+15 0030 Afuá
+15 0040 Alenquer
+15 0050 Almeirim
+15 0060 Altamira
+15 0070 Anajás
+15 0080 Ananindeua
+15 0090 Augusto Corrêa
+15 0100 Aveiro
+15 0110 Bagre
+15 0120 Baião
+15 0130 Barcarena
+15 0140 Belém
+15 0150 Benevides
+15 0157 Bom Jesus do Tocantins
+15 0160 Bonito
+15 0170 Bragança
+15 0175 Brejo Grande do Araguaia
+15 0180 Breves
+15 0190 Bujaru
+15 0200 Cachoeira do Arari
+15 0210 Cametá
+15 0220 Capanema
+15 0230 Capitão Poço
+15 0240 Castanhal
+15 0250 Chaves
+15 0260 Colares
+15 0270 Conceiço do Araguaia
+15 0275 Concódia do Pará
+15 0277 Curionópolis
+15 0280 Curralinho
+15 0290 Curuçá
+15 0293 Dom Eliseu
+15 0300 Faro
+15 0307 Garrafão do Norte
+15 0310 Gurupá
+15 0320 Igarapé-Açu
+15 0330 Igarapé-Miri
+15 0340 Inhangapi
+15 0350 Irituia
+15 0360 Itaituba
+15 0370 Itupiranga
+15 0380 Jacundá
+15 0390 Juruti
+15 0400 Limoeiro do Ajuru
+15 0405 Mãe do Rio
+15 0410 Magalhães Barata
+15 0420 Marabá
+15 0430 Maracanã
+15 0440 Marapanim
+15 0445 Medicilândia
+15 0450 Melgaço
+15 0460 Mocajuba
+15 0470 Moju
+15 0480 Monte Alegre
+15 0490 Muaná
+15 0500 Nova Timboteua
+15 0510 Óbidos
+15 0520 Oeiras do Pará
+15 0530 Oriximiná
+15 0540 Ourém
+15 0543 Ourilândia do Norte
+15 0548 Pacajá
+15 0550 Paragominas
+15 0553 Parauapebas
+15 0560 Peixe-Boi
+15 0570 Ponta de Pedras
+15 0580 Portel
+15 0590 Porto de Moz
+15 0600 Prainha
+15 0610 Primavera
+15 0613 Redenção
+15 0616 Rio Maria
+15 0618 Rondon do Pará
+15 0619 Rurópolis
+15 0620 Salinópolis
+15 0630 Salvaterra
+15 0640 Santa Cruz do Arari
+15 0650 Santa Isabel do Pará
+15 0658 Santa Maria das Barreiras
+15 0660 Santa Maria do Pará
+15 0670 Santana do Araguaia
+15 0680 Santarém
+15 0690 Santarém Novo
+15 0700 Santo Antônio do Tauá
+15 0710 São Caetano de Odivelas
+15 0720 São Domingos do Capim
+15 0730 São Félix do Xingu
+15 0740 São Francisco do Pará
+15 0745 São Geraldo do Araguaia
+15 0747 São João de Pirabas
+15 0750 São João do Araguaia
+15 0760 São Miguel do Guamá
+15 0770 São Sebastião da Boa Vista
+15 0780 Senador José Porfírio
+15 0790 Soure
+15 0795 Tailândia
+15 0800 Tomé-Açu
+15 0808 Tucumã
+15 0810 Tucuruí
+15 0815 Uruará
+15 0820 Vigia
+15 0830 Viseu
+15 0840 Xinguara
+16 0010 Amapá
+16 0020 Calçoene
+16 0023 Ferreira Gomes
+16 0027 Laranjal do Jari
+16 0030 Macapá
+16 0040 Mazagão
+16 0050 Oiapoque
+16 0060 Santana
+16 0070 Tartarugalzinho
+17 0035 Aliança do Tocantins
+17 0040 Almas
+17 0070 Alvorada
+17 0100 Ananás
+17 0110 Aparecida do Rio Negro
+17 0190 Araguacema
+17 0200 Araguaçu
+17 0210 Araguaína
+17 0220 Araguatins
+17 0230 Arapoema
+17 0240 Arraias
+17 0255 Augustinópolis
+17 0270 Aurora do Tocantins
+17 0290 Axixá do Tocantins
+17 0300 Babaçulândia
+17 0310 Barrolândia
+17 0320 Bernardo Sayão
+17 0370 Brejinho de Nazaré
+17 0380 Buriti do Tocantins
+17 0390 Caseara
+17 0550 Colinas do Tocantins
+17 0555 Combinado
+17 0560 Conceição do Tocantins
+17 0600 Couto de Magalhães
+17 0610 Cristalândia
+17 0700 Dianópolis
+17 0710 Divinópolis do Tocantins
+17 0720 Dois Irmãos do Tocantins
+17 0730 Dueré
+17 0755 Fátima
+17 0765 Figueirópolis
+17 0770 Filadélfia
+17 0820 Formoso do Araguaia
+17 0830 Goianorte
+17 0900 Goiatins
+17 0930 Guaraí
+17 0950 Gurupi
+17 1050 Itacajá
+17 1070 Itaguatins
+17 1110 Itaporã do Tocantins
+17 1240 Lizarda
+17 1250 Marianópolis do Tocantins
+17 1320 Miracema do Tocantins
+17 1330 Miranorte
+17 1360 Monte do Carmo
+17 1420 Natividade
+17 1430 Nazaré
+17 1488 Nova Olinda
+17 1500 Nova Rosalândia
+17 1510 Novo Acordo
+17 1575 Palmeirópolis
+17 1610 Paraíso do Tocantins
+17 1620 Paranã
+17 1650 Pedro Afonso
+17 1660 Peixe
+17 1665 Pequizeiro
+17 1670 Colméia
+17 1700 Pindorama do Tocantins
+17 1750 Pium
+17 1780 Ponte Alta do Bom Jesus
+17 1790 Ponte Alta do Tocantins
+17 1800 Porto Alegre do Tocantins
+17 1820 Porto Nacional
+17 1830 Praia Norte
+17 1840 Presidente Kennedy
+17 1875 Rio Sono
+17 1880 Sampaio
+17 1890 Santa Rosa do Tocantins
+17 1900 Santa Tereza do Tocantins
+17 2030 São Sebastião do Tocantins
+17 2049 São Valério da Natividade
+17 2065 Silvanópolis
+17 2080 Sítio Novo do Tocantins
+17 2090 Taguatinga
+17 2100 Palmas
+17 2110 Tocantínia
+17 2120 Tocantinópolis
+17 2208 Wanderlândia
+17 2210 Xambioá
+21 0005 Açailândia
+21 0010 Afonso Cunha
+21 0020 Alcântara
+21 0030 Aldeias Altas
+21 0040 Altamira do Maranhão
+21 0050 Alto Parnaíba
+21 0060 Amarante do Maranhão
+21 0070 Anajatuba
+21 0080 Anapurus
+21 0090 Araioses
+21 0095 Arame
+21 0100 Arari
+21 0110 Axixá
+21 0120 Bacabal
+21 0130 Bacuri
+21 0140 Balsas
+21 0150 Barão de Grajaú
+21 0160 Barra do Corda
+21 0170 Barreirinhas
+21 0180 Benedito Leite
+21 0190 Bequimão
+21 0200 Bom Jardim
+21 0210 Brejo
+21 0220 Buriti
+21 0230 Buriti Bravo
+21 0240 Cajapió
+21 0250 Cajari
+21 0260 Cândido Mendes
+21 0270 Cantanhede
+21 0280 Carolina
+21 0290 Carutapera
+21 0300 Caxias
+21 0310 Cedral
+21 0320 Chapadinha
+21 0330 Codó
+21 0340 Coelho Neto
+21 0350 Colinas
+21 0360 Coroatá
+21 0370 Cururupu
+21 0380 Dom Pedro
+21 0390 Duque Bacelar
+21 0400 Esperantinópolis
+21 0405 Estreito
+21 0410 Fortaleza dos Nogueiras
+21 0420 Fortuna
+21 0430 Godofredo Viana
+21 0440 Gonçalves Dias
+21 0450 Governador Archer
+21 0460 Governador Eugênio Barros
+21 0470 Graça Aranha
+21 0480 Grajaú
+21 0490 Guimarães
+21 0500 Humberto de Campos
+21 0510 Icatu
+21 0520 Igarapé Grande
+21 0530 Imperatriz
+21 0540 Itapecuru-Mirim
+21 0550 João Lisboa
+21 0560 Joselândia
+21 0570 Lago da Pedra
+21 0580 Lago do Junco
+21 0590 Lago Verde
+21 0600 Lima Campos
+21 0610 Loreto
+21 0620 Luís Domingues
+21 0630 Magalhães de Almeida
+21 0640 Mata Roma
+21 0650 Matinha
+21 0660 Matões
+21 0670 Mirador
+21 0675 Miranda do Norte
+21 0680 Mirinzal
+21 0690 Monção
+21 0700 Montes Altos
+21 0710 Morros
+21 0720 Nina Rodrigues
+21 0730 Nova Iorque
+21 0740 Olho d'Água das Cunhãs
+21 0750 Paço do Lumiar
+21 0760 Palmeirândia
+21 0770 Paraibano
+21 0780 Parnarama
+21 0790 Passagem Franca
+21 0800 Pastos Bons
+21 0810 Paulo Ramos
+21 0820 Pedreiras
+21 0830 Penalva
+21 0840 Peri-Mirim
+21 0850 Pindaré Mirim
+21 0860 Pinheiro
+21 0870 Pio XII
+21 0880 Pirapemas
+21 0890 Poção de Pedras
+21 0900 Porto Franco
+21 0910 Presidente Dutra
+21 0920 Presidente Juscelino
+21 0930 Presidente Vargas
+21 0940 Primeira Cruz
+21 0950 Riachão
+21 0960 Rosário
+21 0970 Sambaíba
+21 0980 Santa Helena
+21 0990 Santa Inês
+21 1000 Santa Luzia
+21 1003 Santa Luzia do Paruá
+21 1010 Santa Quitéria do Maranhão
+21 1020 Santa Rita
+21 1030 Santo Antônio dos Lopes
+21 1040 São Benedito do Rio Preto
+21 1050 São Bento
+21 1060 São Bernardo
+21 1070 Sao Domingos do Maranhão
+21 1080 São Félix de Balsas
+21 1090 São Francisco do Maranhão
+21 1100 São João Batista
+21 1110 São João dos Patos
+21 1120 São José de Ribamar
+21 1130 São Luís
+21 1140 São Luís Gonzaga do Maranhão
+21 1150 São Mateus do Maranhão
+21 1160 São Raimundo das Mangabeiras
+21 1170 São Vicente Ferrer
+21 1180 Sítio Novo
+21 1190 Sucupira do Norte
+21 1200 Tasso Fragoso
+21 1210 Timbiras
+21 1220 Timon
+21 1230 Tuntum
+21 1240 Turiaçu
+21 1250 Tutóia
+21 1260 Urbano Santos
+21 1270 Vargem Grande
+21 1280 Viana
+21 1290 Vitória do Mearim
+21 1300 Vitorino Freire
+21 1400 Zé Doca
+22 0010 Agricolãndia
+22 0020 Água Branca
+22 0025 Alagoinha do Piauí
+22 0030 Alto Longá
+22 0040 Altos
+22 0050 Amarante
+22 0060 Angical do Piauí
+22 0070 Anísio de Abreu
+22 0080 Antônio Almeida
+22 0090 Aroazes
+22 0100 Arraial
+22 0110 Avelino Lopes
+22 0120 Barras
+22 0130 Barreiras do Piauí
+22 0140 Barro Duro
+22 0150 Batalha
+22 0160 Beneditinos
+22 0170 Bertolínia
+22 0180 Bocaina
+22 0190 Bom Jesus
+22 0200 Buriti dos Lopes
+22 0210 Campinas do Piauí
+22 0220 Campo Maior
+22 0230 Canto do Buriti
+22 0240 Capitão de Campos
+22 0250 Caracol
+22 0260 Castelo do Piauí
+22 0270 Cocal
+22 0280 Conceição do Canindé
+22 0290 Corrente
+22 0300 Cristalândia do PiauÍ
+22 0310 Cristino Castro
+22 0320 Curimatá
+22 0330 Demerval Lobão
+22 0335 Dirceu Arcoverde
+22 0340 Dom Expedito Lopes
+22 0342 Domingos Mourão
+22 0345 Dom Inocêncio
+22 0350 Elesbão Veloso
+22 0360 Eliseu Martins
+22 0370 Esperantina
+22 0380 Flores do Piauí
+22 0390 Floriano
+22 0400 Francinópolis
+22 0410 Francisco Ayres
+22 0420 Francisco Santos
+22 0430 Fronteiras
+22 0440 Gilbués
+22 0450 Guadalupe
+22 0460 Hugo Napoleão
+22 0470 Inhuma
+22 0480 Ipiranga do Piauí
+22 0490 Isaías Coelho
+22 0500 Itainópolis
+22 0510 Itaueira
+22 0520 Jaicós
+22 0530 Jerumenha
+22 0540 Joaquim Pires
+22 0550 José de Freitas
+22 0560 Landri Sales
+22 0570 Luís Correia
+22 0580 Luzilândia
+22 0590 Manoel Emídio
+22 0600 Marcos Parente
+22 0610 Matias Olímpio
+22 0620 Miguel Alves
+22 0630 Miguel Leão
+22 0640 Monsenhor Gil
+22 0650 Monsenhor Hipólito
+22 0660 Monte Alegre do Piauí
+22 0670 Nazaré do Piauí
+22 0680 Nossa Senhora dos Remédios
+22 0690 Novo Oriente do Piauí
+22 0700 Oeiras
+22 0720 Padre Marcos
+22 0730 Paes Landim
+22 0740 Palmeira do Piauí
+22 0750 Palmeirais
+22 0760 Parnaguá
+22 0770 Parnaíba
+22 0780 Paulistana
+22 0790 Pedro II
+22 0800 Picos
+22 0810 Pimenteiras
+22 0820 Pio IX
+22 0830 Piracuruca
+22 0840 Piripiri
+22 0850 Porto
+22 0860 Prata do Piauí
+22 0870 Redenção do Gurguéia
+22 0880 Regeneração
+22 0890 Ribeiro Gonçalves
+22 0900 Rio Grande do Piauí
+22 0910 Santa Cruz do Piauí
+22 0920 Santa Filomena
+22 0930 Santa Luz
+22 0940 Santo Antônio de Lisboa
+22 0950 Santo Inácio do Piauí
+22 0960 São Félix do Piauí
+22 0970 São Francisco do Piauí
+22 0980 São Gonçalo do Piauí
+22 0985 São João da Canabrava
+22 0990 São João da Serra
+22 1000 São João do Piauí
+22 1010 São José do Peixe
+22 1020 São José do Piauí
+22 1030 São Julião
+22 1040 São Miguel do Tapuio
+22 1050 São Pedro do Piauí
+22 1060 São Raimundo Nonato
+22 1070 Simões
+22 1080 Simplício Mendes
+22 1090 Socorro do Piauí
+22 1100 Teresina
+22 1110 União
+22 1120 Uruçuí
+22 1130 Valença do Piauí
+22 1140 Várzea Grande
+23 0010 Abaiara
+23 0015 Acarapé
+23 0020 Acaraú
+23 0030 Acopiara
+23 0040 Aiuaba
+23 0050 Alcântaras
+23 0060 Altaneira
+23 0070 Alto Santo
+23 0075 Amontada
+23 0080 Antonina do Norte
+23 0090 Apuiarés
+23 0100 Aquiraz
+23 0110 Aracati
+23 0120 Aracoiaba
+23 0130 Araripe
+23 0140 Aratuba
+23 0150 Arneiroz
+23 0160 Assaré
+23 0170 Aurora
+23 0180 Baixio
+23 0185 Banabuiú
+23 0190 Barbalha
+23 0195 Barreira
+23 0200 Barro
+23 0205 Barroquinha
+23 0210 Baturité
+23 0220 Beberibe
+23 0230 Bela Cruz
+23 0240 Boa Viagem
+23 0250 Brejo Santo
+23 0260 Camocim
+23 0270 Campos Sales
+23 0280 Canindé
+23 0290 Capistrano
+23 0300 Caridade
+23 0310 Cariré
+23 0320 Caririaçu
+23 0330 Cariús
+23 0340 Carnaubal
+23 0350 Cascavel
+23 0360 Catarina
+23 0370 Caucaia
+23 0380 Cedro
+23 0390 Chaval
+23 0395 Chorozinho
+23 0400 Coreaú
+23 0410 Crateús
+23 0420 Crato
+23 0423 Croatá
+23 0425 Cruz
+23 0426 Deputado Irapuan Pinheiro
+23 0427 Ererê
+23 0428 Eusébio
+23 0430 Farias Brito
+23 0435 Forquilha
+23 0440 Fortaleza
+23 0450 Frecheirinha
+23 0460 General Sampaio
+23 0465 Graça
+23 0470 Granja
+23 0480 Granjeiro
+23 0490 Groaíras
+23 0495 Guaiúba
+23 0500 Guaraciaba do Norte
+23 0510 Guaramiranga
+23 0520 Hidrolândia
+23 0523 Horizonte
+23 0526 Ibaretama
+23 0530 Ibiapina
+23 0533 Ibicuitinga
+23 0535 Icapuí
+23 0540 Icó
+23 0550 Iguatu
+23 0560 Independência
+23 0565 Ipaporanga
+23 0570 Ipaumirim
+23 0580 Ipu
+23 0590 Ipueiras
+23 0600 Iracema
+23 0610 Irauçuba
+23 0620 Itaiçaba
+23 0630 Itapagé
+23 0640 Itapipoca
+23 0650 Itapiúna
+23 0655 Itarema
+23 0660 Itatira
+23 0670 Jaguaretama
+23 0680 Jaguaribara
+23 0690 Jaguaribe
+23 0700 Jaguaruana
+23 0710 Jardim
+23 0720 Jati
+23 0730 Juazeiro do Norte
+23 0740 Jucás
+23 0750 Lavras da Mangabeira
+23 0760 Limoeiro do Norte
+23 0763 Madalena
+23 0765 Maracanaú
+23 0770 Maranguape
+23 0780 Marco
+23 0790 Martinópole
+23 0800 Massapê
+23 0810 Mauriti
+23 0820 Meruoca
+23 0830 Milagres
+23 0835 Milhã
+23 0837 Miraíma
+23 0840 Missão Velha
+23 0850 Mombaça
+23 0860 Monsenhor Tabosa
+23 0870 Morada Nova
+23 0880 Moraújo
+23 0890 Morrinhos
+23 0900 Mucambo
+23 0910 Mulungu
+23 0920 Nova Olinda
+23 0930 Nova Russas
+23 0940 Novo Oriente
+23 0945 Ocara
+23 0950 Orós
+23 0960 Pacajus
+23 0970 Pacatuba
+23 0980 Pacoti
+23 0990 Pacujá
+23 1000 Palhano
+23 1010 Palmácia
+23 1020 Paracuru
+23 1025 Paraipaba
+23 1030 Parambu
+23 1040 Paramoti
+23 1050 Pedra Branca
+23 1060 Penaforte
+23 1070 Pentecoste
+23 1080 Pereiro
+23 1085 Pindoretama
+23 1090 Piquet Carneiro
+23 1095 Pires Ferreira
+23 1100 Poranga
+23 1110 Porteiras
+23 1120 Potengi
+23 1123 Potiretama
+23 1126 Quiterianópolis
+23 1130 Quixadá
+23 1135 Quixelã
+23 1140 Quixeramobim
+23 1150 Quixeré
+23 1160 Redenção
+23 1170 Reriutaba
+23 1180 Russas
+23 1190 Saboeiro
+23 1195 Salitre
+23 1200 Santana do Acaraú
+23 1210 Santana do Cariri
+23 1220 Santa Quitéria
+23 1230 São Benedito
+23 1240 São Gonçalo do Amarante
+23 1250 São João do Jaguaribe
+23 1260 São Luís do Curu
+23 1270 Senador Pompeu
+23 1280 Senador Sá
+23 1290 Sobral
+23 1300 Solonópole
+23 1310 Tabuleiro do Norte
+23 1320 Tamboril
+23 1325 Tarrafas
+23 1330 Tauá
+23 1335 Tejuçuoca
+23 1340 Tianguá
+23 1350 Trairi
+23 1355 Tururu
+23 1360 Ubajara
+23 1370 Umari
+23 1375 Umirim
+23 1380 Uruburetama
+23 1390 Uruoca
+23 1395 Varjota
+23 1400 Várzea Alegre
+23 1410 Viçosa do Ceará
+24 0010 Acari
+24 0020 Açu
+24 0030 Afonso Bezerra
+24 0040 Água Nova
+24 0050 Alexandria
+24 0060 Almino Afonso
+24 0070 Alto do Rodrigues
+24 0080 Angicos
+24 0090 Antônio Martins
+24 0100 Apodi
+24 0110 Areia Branca
+24 0120 Arês
+24 0130 Augusto Severo
+24 0140 Baía Formosa
+24 0145 Baraúna
+24 0150 Barcelona
+24 0160 Bento Fernandes
+24 0170 Bom Jesus
+24 0180 Brejinho
+24 0190 Caiçara do Rio do Vento
+24 0200 Caicó
+24 0210 Campo Redondo
+24 0220 Canguaretama
+24 0230 Caraúbas
+24 0240 Carnaúba dos Dantas
+24 0250 Carnaubais
+24 0260 Ceará-Mirim
+24 0270 Cerro Corá
+24 0280 Coronel Ezequiel
+24 0290 Coronel João Pessoa
+24 0300 Cruzeta
+24 0310 Currais Novos
+24 0320 Doutor Severiano
+24 0325 Parnamirim
+24 0330 Encanto
+24 0340 Equador
+24 0350 Espírito Santo
+24 0360 Extremoz
+24 0370 Felipe Guerra
+24 0380 Florânia
+24 0390 Francisco Dantas
+24 0400 Frutuoso Gomes
+24 0410 Galinhos
+24 0420 Goianinha
+24 0430 Governador Dix-Sept Rosado
+24 0440 Grossos
+24 0450 Guamaré
+24 0460 Ielmo Marinho
+24 0470 Ipanguaçu
+24 0480 Ipueira
+24 0490 Itaú
+24 0500 Jaçanã
+24 0510 Jandaíra
+24 0520 Janduís
+24 0530 Januário Cicco
+24 0540 Japi
+24 0550 Jardim de Angicos
+24 0560 Jardim de Piranhas
+24 0570 Jardim do Seridó
+24 0580 João Câmara
+24 0590 João Dias
+24 0600 José da Penha
+24 0610 Jucurutu
+24 0620 Lagoa d'Anta
+24 0630 Lagoa de Pedras
+24 0640 Lagoa de Velhos
+24 0650 Lagoa Nova
+24 0660 Lagoa Salgada
+24 0670 Lajes
+24 0680 Lajes Pintadas
+24 0690 Lucrécia
+24 0700 Luís Gomes
+24 0710 Macaíba
+24 0720 Macau
+24 0730 Marcelino Vieira
+24 0740 Martins
+24 0750 Maxaranguape
+24 0760 Messias Targino
+24 0770 Montanhas
+24 0780 Monte Alegre
+24 0790 Monte das Gameleiras
+24 0800 Mossoró
+24 0810 Natal
+24 0820 Nísia Floresta
+24 0830 Nova Cruz
+24 0840 Olho-d'Água do Borges
+24 0850 Ouro Branco
+24 0860 Paraná
+24 0870 Paraú
+24 0880 Parazinho
+24 0890 Parelhas
+24 0910 Passa e Fica
+24 0920 Passagem
+24 0930 Patu
+24 0940 Pau dos Ferros
+24 0950 Pedra Grande
+24 0960 Pedra Preta
+24 0970 Pedro Avelino
+24 0980 Pedro Velho
+24 0990 Pendências
+24 1000 Pilões
+24 1010 Poço Branco
+24 1020 Portalegre
+24 1030 Presidente Juscelino
+24 1040 Pureza
+24 1050 Rafael Fernandes
+24 1060 Rafael Godeiro
+24 1070 Riacho da Cruz
+24 1080 Riacho de Santana
+24 1090 Riachuelo
+24 1100 Rodolfo Fernandes
+24 1110 Ruy Barbosa
+24 1120 Santa Cruz
+24 1140 Santana do Matos
+24 1142 Santana do Seridó
+24 1150 Santo Antônio
+24 1160 São Bento do Norte
+24 1170 São Bento do Trairí
+24 1180 São Fernando
+24 1190 São Francisco do Oeste
+24 1200 São Gonçalo do Amarante
+24 1210 São João do Sabugi
+24 1220 São José de Mipibu
+24 1230 São José do Campestre
+24 1240 São José do Seridó
+24 1250 São Miguel
+24 1260 São Paulo do Potengi
+24 1270 São Pedro
+24 1280 São Rafael
+24 1290 São Tomé
+24 1300 São Vicente
+24 1310 Senador Elói de Souza
+24 1320 Senador Georgino Avelino
+24 1330 Serra de São Bento
+24 1335 Serra do Mel
+24 1340 Serra Negra do Norte
+24 1350 Serrinha
+24 1360 Severiano Melo
+24 1370 Sítio Novo
+24 1380 Taboleiro Grande
+24 1390 Taipu
+24 1400 Tangará
+24 1410 Tenente Ananias
+24 1420 Tibau do Sul
+24 1430 Timbaúba dos Batistas
+24 1440 Touros
+24 1450 Umarizal
+24 1460 Upanema
+24 1470 Várzea
+24 1480 Vera Cruz
+24 1490 Viçosa
+24 1500 Vila Flor
+25 0010 Água Branca
+25 0020 Aguiar
+25 0030 Alagoa Grande
+25 0040 Alagoa Nova
+25 0050 Alagoinha
+25 0060 Alhandra
+25 0070 São João do Rio do Peixe
+25 0080 Araçagi
+25 0090 Arara
+25 0100 Araruna
+25 0110 Areia
+25 0120 Areial
+25 0130 Aroeiras
+25 0140 Baía da Traição
+25 0150 Bananeiras
+25 0160 Barra de Santa Rosa
+25 0170 Barra de São Miguel
+25 0180 Bayeux
+25 0190 Belém
+25 0200 Belém do Brejo do Cruz
+25 0210 Boa Ventura
+25 0220 Bom Jesus
+25 0230 Bom Sucesso
+25 0240 Bonito de Santa Fé
+25 0250 Boqueirão
+25 0260 Boqueirão dos Cochos
+25 0270 Borborema
+25 0280 Brejo do Cruz
+25 0290 Brejo dos Santos
+25 0300 Caaporã
+25 0310 Cabaceiras
+25 0320 Cabedelo
+25 0330 Cachoeira dos Índios
+25 0340 Cacimba de Areia
+25 0350 Cacimba de Dentro
+25 0360 Caiçara
+25 0370 Cajazeiras
+25 0380 Caldas Brandão
+25 0390 Camalaú
+25 0400 Campina Grande
+25 0410 Carrapateira
+25 0420 Catingueira
+25 0430 Catolé do Rocha
+25 0440 Conceição
+25 0450 Condado
+25 0460 Conde
+25 0470 Congo
+25 0480 Coremas
+25 0490 Cruz do Espírito Santo
+25 0500 Cubati
+25 0510 Cuité
+25 0520 Cuitegi
+25 0530 Curral Velho
+25 0540 Desterro
+25 0550 Desterro de Malta
+25 0560 Diamante
+25 0570 Dona Inês
+25 0580 Duas Estradas
+25 0590 Emas
+25 0600 Esperança
+25 0610 Fagundes
+25 0620 Frei Martinho
+25 0630 Guarabira
+25 0640 Gurinhém
+25 0650 Gurjão
+25 0660 Ibiara
+25 0670 Imaculada
+25 0680 Ingá
+25 0690 Itabaiana
+25 0700 Itaporanga
+25 0710 Itapororoca
+25 0720 Itatuba
+25 0730 Jacaraú
+25 0740 Jericó
+25 0750 João Pessoa
+25 0760 Juarez Távora
+25 0770 Juazeirinho
+25 0780 Junco do Seridó
+25 0790 Juripiranga
+25 0800 Juru
+25 0810 Lagoa
+25 0820 Lagoa de Dentro
+25 0830 Lagoa Seca
+25 0840 Lastro
+25 0850 Livramento
+25 0860 Lucena
+25 0870 Mãe d'Água
+25 0880 Malta
+25 0890 Mamanguape
+25 0900 Manaíra
+25 0910 Mari
+25 0920 Massaranduba
+25 0930 Mataraca
+25 0940 Mogeiro
+25 0950 Montadas
+25 0960 Monte Horebe
+25 0970 Monteiro
+25 0980 Mulungu
+25 0990 Natuba
+25 1000 Nazarezinho
+25 1010 Nova Floresta
+25 1020 Nova Olinda
+25 1030 Nova Palmeira
+25 1040 Olho d'Água
+25 1050 Olivedos
+25 1060 Ouro Velho
+25 1070 Passagem
+25 1080 Patos
+25 1090 Paulista
+25 1100 Pedra Branca
+25 1110 Pedra Lavrada
+25 1120 Pedras de Fogo
+25 1130 Piancó
+25 1140 Picuí
+25 1150 Pilar
+25 1160 Pilões
+25 1170 Pilõezinhos
+25 1180 Pirpirituba
+25 1190 Pitimbu
+25 1200 Pocinhos
+25 1210 Pombal
+25 1220 Prata
+25 1230 Princesa Isabel
+25 1240 Puxinanã
+25 1250 Queimadas
+25 1260 Quixaba
+25 1270 Remígio
+25 1280 Riacho dos Cavalos
+25 1290 Rio Tinto
+25 1300 Salgadinho
+25 1310 Salgado de São Félix
+25 1320 Santa Cruz
+25 1330 Santa Helena
+25 1340 Santa Luzia
+25 1350 Santana de Mangueira
+25 1360 Santana dos Garrotes
+25 1370 Santa Rita
+25 1380 Santa Teresinha
+25 1390 São Bento
+25 1400 São João do Cariri
+25 1410 São João do Tigre
+25 1420 São José da Lagoa Tapada
+25 1430 São José de Caiana
+25 1440 São José de Espinharas
+25 1450 São José de Piranhas
+25 1460 São José do Bonfim
+25 1470 São José do Sabugi
+25 1480 São José dos Cordeiros
+25 1490 São Mamede
+25 1500 São Miguel de Taipu
+25 1510 São Sebastião de Lagoa de Roça
+25 1520 São Sebastião do Umbuzeiro
+25 1530 Sapé
+25 1540 Seridó
+25 1550 Serra Branca
+25 1560 Serra da Raiz
+25 1570 Serra Grande
+25 1580 Serra Redonda
+25 1590 Serraria
+25 1600 Solânea
+25 1610 Soledade
+25 1620 Sousa
+25 1630 Sumé
+25 1640 Tacima
+25 1650 Taperoá
+25 1660 Tavares
+25 1670 Teixeira
+25 1680 Triunfo
+25 1690 Uiraúna
+25 1700 Umbuzeiro
+25 1710 Várzea
+26 0005 Abreu e Lima
+26 0010 Afogados da Ingazeira
+26 0020 Afrânio
+26 0030 Agrestina
+26 0040 Àgua Preta
+26 0050 Águas Belas
+26 0060 Alagoinha
+26 0070 Aliança
+26 0080 Altinho
+26 0090 Amaraji
+26 0100 Angelim
+26 0110 Araripina
+26 0120 Arcoverde
+26 0130 Barra de Guabiraba
+26 0140 Barreiros
+26 0150 Belém de Maria
+26 0160 Belém de São Francisco
+26 0170 Belo Jardim
+26 0180 Betânia
+26 0190 Bezerros
+26 0200 Bodocó
+26 0210 Bom Conselho
+26 0220 Bom Jardim
+26 0230 Bonito
+26 0240 Brejão
+26 0250 Brejinho
+26 0260 Brejo da Madre de Deus
+26 0270 Buenos Aires
+26 0280 Buíque
+26 0290 Cabo
+26 0300 Cabrobó
+26 0310 Cachoeirinha
+26 0320 Caetés
+26 0330 Calçado
+26 0340 Calumbi
+26 0345 Camaragibe
+26 0350 Camocim de São Félix
+26 0360 Camutanga
+26 0370 Canhotinho
+26 0380 Capoeiras
+26 0390 Carnaíba
+26 0400 Carpina
+26 0410 Caruaru
+26 0420 Catende
+26 0430 Cedro
+26 0440 Chã de Alegria
+26 0450 Chã Grande
+26 0460 Condado
+26 0470 Correntes
+26 0480 Cortês
+26 0490 Cumaru
+26 0500 Cupira
+26 0510 Custódia
+26 0520 Escada
+26 0530 Exu
+26 0540 Feira Nova
+26 0545 Fernando de Noronha
+26 0550 Ferreiros
+26 0560 Flores
+26 0570 Floresta
+26 0580 Frei Miguelinho
+26 0590 Gameleira
+26 0600 Garanhuns
+26 0610 Glória do Goitá
+26 0620 Goiana
+26 0630 Granito
+26 0640 Gravatá
+26 0650 Iati
+26 0660 Ibimirim
+26 0670 Ibirajuba
+26 0680 Igarassu
+26 0690 Iguaraci
+26 0700 Inajá
+26 0710 Ingazeira
+26 0720 Ipojuca
+26 0730 Ipubi
+26 0740 Itacuruba
+26 0750 Itaíba
+26 0760 Itamaracá
+26 0765 Itambé
+26 0770 Itapetim
+26 0775 Itapissuma
+26 0780 Itaquitinga
+26 0790 Jaboatão dos Guararapes
+26 0800 Jataúba
+26 0810 João Alfredo
+26 0820 Joaquim Nabuco
+26 0830 Jupi
+26 0840 Jurema
+26 0850 Lagoa do Itaenga
+26 0860 Lagoa do Ouro
+26 0870 Lagoa dos Gatos
+26 0880 Lajedo
+26 0890 Limoeiro
+26 0900 Macaparana
+26 0910 Machados
+26 0920 Maraial
+26 0930 Mirandiba
+26 0940 Moreno
+26 0950 Nazaré da Mata
+26 0960 Olinda
+26 0970 Orobó
+26 0980 Orocó
+26 0990 Ouricuri
+26 1000 Palmares
+26 1010 Palmeirina
+26 1020 Panelas
+26 1030 Paranatama
+26 1040 Parnamirim
+26 1050 Passira
+26 1060 Paudalho
+26 1070 Paulista
+26 1080 Pedra
+26 1090 Pesqueira
+26 1100 Petrolândia
+26 1110 Petrolina
+26 1120 Poção
+26 1130 Pombos
+26 1140 Primavera
+26 1150 Quipapá
+26 1160 Recife
+26 1170 Riacho das Almas
+26 1180 Ribeirão
+26 1190 Rio Formoso
+26 1200 Sairé
+26 1210 Salgadinho
+26 1220 Salgueiro
+26 1230 Saloá
+26 1240 Sanharó
+26 1250 Santa Cruz do Capibaribe
+26 1260 Santa Maria da Boa Vista
+26 1270 Santa Maria do Cambucá
+26 1280 Santa Terezinha
+26 1290 São Benedito do Sul
+26 1300 São Bento do Una
+26 1310 São Caitano
+26 1320 São João
+26 1330 São Joaquim do Monte
+26 1340 São José da Coroa Grande
+26 1350 São José do Belmonte
+26 1360 São José do Egito
+26 1370 São Lourenço da Mata
+26 1380 São Vicente Ferrer
+26 1390 Serra Talhada
+26 1400 Serrita
+26 1410 Sertânia
+26 1420 Sirinhaém
+26 1430 Moreilândia
+26 1440 Solidão
+26 1450 Surubim
+26 1460 Tabira
+26 1470 Tacaimbó
+26 1480 Tacaratu
+26 1500 Taquaritinga do Norte
+26 1510 Terezinha
+26 1520 Terra Nova
+26 1530 Timbaúba
+26 1540 Toritama
+26 1550 Tracunhaém
+26 1560 Trindade
+26 1570 Triunfo
+26 1580 Tupanatinga
+26 1590 Tuparetama
+26 1600 Venturosa
+26 1610 Verdejante
+26 1620 Vertentes
+26 1630 Vicência
+26 1640 Vitória de Santo Antão
+27 0010 Água Branca
+27 0020 Anadia
+27 0030 Arapiraca
+27 0040 Atalaia
+27 0050 Barra de Santo Antônio
+27 0060 Barra de São Miguel
+27 0070 Batalha
+27 0080 Belém
+27 0090 Belo Monte
+27 0100 Boca da Mata
+27 0110 Branquinha
+27 0120 Cacimbinhas
+27 0130 Cajueiro
+27 0140 Campo Alegre
+27 0150 Campo Grande
+27 0160 Canapi
+27 0170 Capela
+27 0180 Carneiros
+27 0190 Chã Preta
+27 0200 Coité do Nóia
+27 0210 Colônia Leopoldina
+27 0220 Coqueiro Seco
+27 0230 Coruripe
+27 0235 Craíbas
+27 0240 Delmiro Gouveia
+27 0250 Dois Riachos
+27 0260 Feira Grande
+27 0270 Feliz Deserto
+27 0280 Flexeiras
+27 0290 Girau do Ponciano
+27 0300 Ibateguara
+27 0310 Igaci
+27 0320 Igreja Nova
+27 0330 Inhapi
+27 0340 Jacaré dos Homens
+27 0350 Jacuípe
+27 0360 Japaratinga
+27 0370 Jaramataia
+27 0380 Joaquim Gomes
+27 0390 Jundiá
+27 0400 Junqueiro
+27 0410 Lagoa da Canoa
+27 0420 Limoeiro de Anadia
+27 0430 Maceió
+27 0440 Major Isidoro
+27 0450 Maragogi
+27 0460 Maravilha
+27 0470 Marechal Deodoro
+27 0480 Maribondo
+27 0490 Mar Vermelho
+27 0500 Mata Grande
+27 0510 Matriz de Camaragibe
+27 0520 Messias
+27 0530 Minador do Negrão
+27 0540 Monteirópolis
+27 0550 Murici
+27 0560 Novo Lino
+27 0570 Olho d'Água das Flores
+27 0580 Olho d'Água do Casado
+27 0590 Olho d'Água Grande
+27 0600 Olivença
+27 0610 Ouro Branco
+27 0620 Palestina
+27 0630 Palmeira dos Índios
+27 0640 Pão de Açúcar
+27 0650 Passo de Camaragibe
+27 0660 Paulo Jacinto
+27 0670 Penedo
+27 0680 Piaçabuçu
+27 0690 Pilar
+27 0700 Pindoba
+27 0710 Piranhas
+27 0720 Poço das Trincheiras
+27 0730 Porto Calvo
+27 0740 Porto de Pedras
+27 0750 Porto Real do Colégio
+27 0760 Quebrangulo
+27 0770 Rio Largo
+27 0780 Roteiro
+27 0790 Santa Luzia do Norte
+27 0800 Santana do Ipanema
+27 0810 Santana do Mundaú
+27 0820 São Brás
+27 0830 São José da Laje
+27 0840 São José da Tapera
+27 0850 São Luís do Quitunde
+27 0860 São Miguel dos Campos
+27 0870 São Miguel dos Milagres
+27 0880 São Sebastião
+27 0890 Satuba
+27 0895 Senador Rui Palmeira
+27 0900 Tanque d'Arca
+27 0910 Taquarana
+27 0915 Teotônio Vilela
+27 0920 Traipu
+27 0930 União dos Palmares
+27 0940 Viçosa
+28 0010 Amparo de São Francisco
+28 0020 Aquidabã
+28 0030 Aracaju
+28 0040 Arauá
+28 0050 Areia Branca
+28 0060 Barra dos Coqueiros
+28 0067 Boquim
+28 0070 Brejo Grande
+28 0100 Campo do Brito
+28 0110 Canhoba
+28 0120 Canindé de São Francisco
+28 0130 Capela
+28 0140 Carira
+28 0150 Carmópolis
+28 0160 Cedro de São João
+28 0170 Cristiápolis
+28 0190 Cumbe
+28 0200 Divina Pastora
+28 0210 Estância
+28 0220 Feira Nova
+28 0230 Frei Paulo
+28 0240 Gararu
+28 0250 General Maynard
+28 0260 Gracho Cardoso
+28 0270 Ilha das Flores
+28 0280 Indiaroba
+28 0290 Itabaiana
+28 0300 Itabaianinha
+28 0310 Itabi
+28 0320 Itaporanga d'Ajuda
+28 0330 Japaratuba
+28 0340 Japoatã
+28 0350 Lagarto
+28 0360 Laranjeiras
+28 0370 Macambira
+28 0380 Malhada dos Bois
+28 0390 Malhador
+28 0400 Maruim
+28 0410 Moita Bonita
+28 0420 Monte Alegre de Sergipe
+28 0430 Muribeca
+28 0440 Neópolis
+28 0445 Nossa Senhora Aparecida
+28 0450 Nossa Senhora da Glória
+28 0460 Nossa Senhora das Dores
+28 0470 Nossa Senhora de Lourdes
+28 0480 Nossa Senhora do Socorro
+28 0490 Pacatuba
+28 0500 Pedra Mole
+28 0510 Pedrinhas
+28 0520 Pinhão
+28 0530 Pirambu
+28 0540 Poço Redondo
+28 0550 Poço Verde
+28 0560 Porto da Folha
+28 0570 Propriá
+28 0580 Riachão do Dantas
+28 0590 Riachuelo
+28 0600 Ribeirópolis
+28 0610 Rosário do Catete
+28 0620 Salgado
+28 0630 Santa Luzia do Itanhy
+28 0650 Santa Rosa de Lima
+28 0660 Santo Amaro das Brotas
+28 0670 São Cristóvão
+28 0680 São Domingos
+28 0690 São Francisco
+28 0700 São Miguel do Aleixo
+28 0710 Simão Dias
+28 0720 Siriri
+28 0730 Telha
+28 0740 Tobias Barreto
+28 0750 Tomar do Geru
+28 0760 Umbaúba
+29 0010 Abaíra
+29 0020 Abaré
+29 0030 Acajutiba
+29 0035 Adustina
+29 0040 Água Fria
+29 0050 Erico Cardoso
+29 0060 Aiquara
+29 0070 Alagoinhas
+29 0080 Alcobaça
+29 0090 Almadina
+29 0100 Amargosa
+29 0110 Amélia Rodrigues
+29 0115 América Dourada
+29 0120 Anagé
+29 0130 Andaraí
+29 0135 Andorinha
+29 0140 Angical
+29 0150 Anguera
+29 0160 Antas
+29 0170 Antônio Cardoso
+29 0180 Antônio Gonçalves
+29 0190 Aporá
+29 0195 Apuarema
+29 0200 Aracatu
+29 0205 Araças
+29 0210 Araci
+29 0220 Aramari
+29 0225 Arataca
+29 0230 Aratuípe
+29 0240 Aurelino Leal
+29 0250 Baianópolis
+29 0260 Baixa Grande
+29 0265 Banzaê
+29 0270 Barra
+29 0280 Barra da Estiva
+29 0290 Barra do Choça
+29 0300 Barra do Mendes
+29 0310 Barra do Rocha
+29 0320 Barreiras
+29 0323 Barro Alto
+29 0330 Barro Preto
+29 0340 Belmonte
+29 0350 Belo Campo
+29 0360 Biritinga
+29 0370 Boa Nova
+29 0380 Boa Vista do Tupim
+29 0390 Bom Jesus da Lapa
+29 0395 Bom Jesus da Serra
+29 0400 Boninal
+29 0405 Bonito
+29 0410 Boquira
+29 0420 Botuporã
+29 0430 Brejões
+29 0440 Brejolândia
+29 0450 Brotas de Macaúbas
+29 0460 Brumado
+29 0470 Buerarema
+29 0475 Buritirama
+29 0480 Caatiba
+29 0485 Cabaceiras do Paraguaçu
+29 0490 Cachoeira
+29 0500 Caculé
+29 0510 Caém
+29 0515 Caetanos
+29 0520 Caetité
+29 0530 Cafarnaum
+29 0540 Cairu
+29 0550 Caldeirão Grande
+29 0560 Camacan
+29 0570 Camaçari
+29 0580 Camamu
+29 0590 Campo Alegre de Lourdes
+29 0600 Campo Formoso
+29 0610 Canápolis
+29 0620 Canarana
+29 0630 Canavieiras
+29 0640 Candeal
+29 0650 Candeias
+29 0660 Candiba
+29 0670 Cândido Sales
+29 0680 Cansanção
+29 0682 Canudos
+29 0685 Capela do Alto Alegre
+29 0687 Capim Grosso
+29 0689 Caraíbas
+29 0690 Caravelas
+29 0700 Cardeal da Silva
+29 0710 Carinhanha
+29 0720 Casa Nova
+29 0730 Castro Alves
+29 0740 Catolândia
+29 0750 Catu
+29 0755 Caturama
+29 0760 Central
+29 0770 Chorrochó
+29 0780 Cícero Dantas
+29 0790 Cipó
+29 0800 Coaraci
+29 0810 Cocos
+29 0820 Conceição da Feira
+29 0830 Conceição do Almeida
+29 0840 Conceiçao do Coité
+29 0850 Conceição do Jacuípe
+29 0860 Conde
+29 0870 Condeúba
+29 0880 Contendas do Sincorá
+29 0890 Coração de Maria
+29 0900 Cordeiros
+29 0910 Coribe
+29 0920 Coronel João Sá
+29 0930 Correntina
+29 0940 Cotegipe
+29 0950 Cravolândia
+29 0960 Crisópolis
+29 0970 Cristópolis
+29 0980 Cruz das Almas
+29 0990 Curaçá
+29 1000 Dário Meira
+29 1005 Dias d'Ávila
+29 1010 Dom Basílio
+29 1020 Dom Macedo Costa
+29 1030 Elísio Medrado
+29 1040 Encruzilhada
+29 1050 Entre Rios
+29 1060 Esplanada
+29 1070 Euclides da Cunha
+29 1072 Eunápolis
+29 1075 Fátima
+29 1077 Feira da Mata
+29 1080 Feira de Santana
+29 1085 Filadélfia
+29 1090 Firmino Alves
+29 1100 Floresta Azul
+29 1110 Formosa do Rio Preto
+29 1120 Gandu
+29 1125 Gavião
+29 1130 Gentio do Ouro
+29 1140 Glória
+29 1150 Gongogi
+29 1160 Governador Mangabeira
+29 1165 Guajeru
+29 1170 Guanambi
+29 1180 Guaratinga
+29 1185 Heliópolis
+29 1190 Iaçu
+29 1200 Ibiassucê
+29 1210 Ibicaraí
+29 1220 Ibicoara
+29 1230 Ibicuí
+29 1240 Ibipeba
+29 1250 Ibipitanga
+29 1260 Ibiquera
+29 1270 Ibirapitanga
+29 1280 Ibirapuã
+29 1290 Ibirataia
+29 1300 Ibitiara
+29 1310 Ibititá
+29 1320 Ibotirama
+29 1330 Ichu
+29 1340 Igaporã
+29 1345 Igrapiúna
+29 1350 Iguaí
+29 1360 Ilhéus
+29 1370 Inhambupe
+29 1380 Ipecaetá
+29 1390 Ipiaú
+29 1400 Ipirá
+29 1410 Ipupiara
+29 1420 Irajuba
+29 1430 Iramaia
+29 1440 Iraquara
+29 1450 Irará
+29 1460 Irecê
+29 1465 Itabela
+29 1470 Itaberaba
+29 1480 Itabuna
+29 1490 Itacaré
+29 1500 Itaeté
+29 1510 Itagi
+29 1520 Itagibá
+29 1530 Itagimirim
+29 1535 Itaguaçu da Bahia
+29 1540 Itaju do Colônia
+29 1550 Itajuípe
+29 1560 Itamaraju
+29 1570 Itamari
+29 1580 Itambé
+29 1590 Itanagra
+29 1600 Itanhém
+29 1610 Itaparica
+29 1620 Itapé
+29 1630 Itapebi
+29 1640 Itapetinga
+29 1650 Itapicuru
+29 1660 Itapitanga
+29 1670 Itaquara
+29 1680 Itarantim
+29 1685 Itatim
+29 1690 Itiruçu
+29 1700 Itiúba
+29 1710 Itororó
+29 1720 Ituaçu
+29 1730 Ituberá
+29 1733 Iuiú
+29 1735 Jaborandi
+29 1740 Jacaraci
+29 1750 Jacobina
+29 1760 Jaguaquara
+29 1770 Jaguarari
+29 1780 Jaguaripe
+29 1790 Jandaíra
+29 1800 Jequié
+29 1810 Jeremoabo
+29 1820 Jiquiriçá
+29 1830 Jitaúna
+29 1835 João Dourado
+29 1840 Juazeiro
+29 1845 Jucuruçu
+29 1850 Jussara
+29 1855 Jussari
+29 1860 Jussiape
+29 1870 Lafaiete Coutinho
+29 1875 Lagoa Real
+29 1880 Laje
+29 1890 Lajedão
+29 1900 Lajedinho
+29 1905 Lajedo do Tabocal
+29 1910 Lamarão
+29 1915 Lapão
+29 1920 Lauro de Freitas
+29 1930 Lençóis
+29 1940 Licínio de Almeida
+29 1950 Livramento do Brumado
+29 1960 Macajuba
+29 1970 Macarani
+29 1980 Macaúbas
+29 1990 Macururé
+29 1992 Madre de Deus
+29 1995 Maetinga
+29 2000 Maiquinique
+29 2010 Mairi
+29 2020 Malhada
+29 2030 Malhada de Pedras
+29 2040 Manoel Vitorino
+29 2045 Mansidão
+29 2050 Maracás
+29 2060 Maragogipe
+29 2070 Maraú
+29 2080 Marcionílio Souza
+29 2090 Mascote
+29 2100 Mata de São João
+29 2105 Matina
+29 2110 Medeiros Neto
+29 2120 Miguel Calmon
+29 2130 Milagres
+29 2140 Mirangaba
+29 2145 Mirante
+29 2150 Monte Santo
+29 2160 Morpará
+29 2170 Morro do Chapéu
+29 2180 Mortugaba
+29 2190 Mucugé
+29 2200 Mucuri
+29 2205 Mulungu do Morro
+29 2210 Mundo Novo
+29 2220 Muniz Ferreira
+29 2225 Muquém de São Francisco
+29 2230 Muritiba
+29 2240 Mutuípe
+29 2250 Nazaré
+29 2260 Nilo Peçanha
+29 2265 Nordestina
+29 2270 Nova Canaã
+29 2273 Nova Fátima
+29 2275 Nova Ibiá
+29 2280 Nova Itarana
+29 2285 Nova Redenção
+29 2290 Nova Soure
+29 2300 Nova Viçosa
+29 2303 Novo Horizonte
+29 2305 Novo Triunfo
+29 2310 Olindina
+29 2320 Oliveira dos Brejinhos
+29 2330 Ouriçangas
+29 2335 Ourolândia
+29 2340 Palmas de Monte Alto
+29 2350 Palmeiras
+29 2360 Paramirim
+29 2370 Paratinga
+29 2380 Paripiranga
+29 2390 Pau Brasil
+29 2400 Paulo Afonso
+29 2405 Pé de Serra
+29 2410 Pedrão
+29 2420 Pedro Alexandre
+29 2430 Piatã
+29 2440 Pilão Arcado
+29 2450 Pindaí
+29 2460 Pindobaçu
+29 2465 Pintadas
+29 2467 Piraí do Norte
+29 2470 Piripá
+29 2480 Piritiba
+29 2490 Planaltino
+29 2500 Planalto
+29 2510 Poções
+29 2520 Pojuca
+29 2525 Ponto Novo
+29 2530 Porto Seguro
+29 2540 Potiraguá
+29 2550 Prado
+29 2560 Presidente Dutra
+29 2570 Presidente Jânio Quadros
+29 2575 Presidente Tancredo Neves
+29 2580 Queimadas
+29 2590 Quijingue
+29 2593 Quixabeira
+29 2595 Rafael Jambeiro
+29 2600 Remanso
+29 2610 Retirolândia
+29 2620 Riachão das Neves
+29 2630 Riachão do Jacuípe
+29 2640 Riacho de Santana
+29 2650 Ribeira do Amparo
+29 2660 Ribeira do Pombal
+29 2665 Ribeirão do Largo
+29 2670 Rio de Contas
+29 2680 Rio do Antônio
+29 2690 Rio do Pires
+29 2700 Rio Real
+29 2710 Rodelas
+29 2720 Ruy Barbosa
+29 2730 Salinas da Margarida
+29 2740 Salvador
+29 2750 Santa Bárbara
+29 2760 Santa Brígida
+29 2770 Santa Cruz Cabrália
+29 2780 Santa Cruz da Vitória
+29 2790 Santa Inês
+29 2800 Santaluz
+29 2805 Santa Luzia
+29 2810 Santa Maria da Vitória
+29 2820 Santana
+29 2830 Santanópolis
+29 2840 Santa Rita de Cássia
+29 2850 Santa Teresinha
+29 2860 Santo Amaro
+29 2870 Santo Antônio de Jesus
+29 2880 Santo Estêvão
+29 2890 São Desidério
+29 2895 São Domingos
+29 2900 São Félix
+29 2905 São Félix do Coribe
+29 2910 São Felipe
+29 2920 São Francisco do Conde
+29 2925 São Gabriel
+29 2930 São Gonçalo dos Campos
+29 2935 São José da Vitória
+29 2937 São Jose do Jacuípe
+29 2940 São Miguel das Matas
+29 2950 São Sebastião do Passé
+29 2960 Sapeaçu
+29 2970 Sátiro Dias
+29 2975 Saubara
+29 2980 Saúde
+29 2990 Seabra
+29 3000 Sebastião Laranjeiras
+29 3010 Senhor do Bonfim
+29 3015 Serra do Ramalho
+29 3020 Sento Sé
+29 3030 Serra Dourada
+29 3040 Serra Preta
+29 3050 Serrinha
+29 3060 Serrolândia
+29 3070 Simões Filho
+29 3075 Sítio do Mato
+29 3076 Sítio do Quinto
+29 3077 Sobradinho
+29 3080 Souto Soares
+29 3090 Tabocas do Brejo Velho
+29 3100 Tanhaçu
+29 3105 Tanque Novo
+29 3110 Tanquinho
+29 3120 Tapero 
+29 3130 Tapiramutá
+29 3135 Teixeira de Freitas
+29 3140 Teodoro Sampaio
+29 3150 Teofilândia
+29 3160 Teolândia
+29 3170 Terra Nova
+29 3180 Tremedal
+29 3190 Tucano
+29 3200 Uauá
+29 3210 Ubaíra
+29 3220 Ubaitaba
+29 3230 Ubatã
+29 3240 Uibaí
+29 3245 Umburanas
+29 3250 Una
+29 3260 Urandi
+29 3270 Uruçuca
+29 3280 Utinga
+29 3290 Valença
+29 3300 Valente
+29 3305 Várzea da Roça
+29 3310 Várzea do Poço
+29 3315 Várzea Nova
+29 3317 Varzedo
+29 3320 Vera Cruz
+29 3325 Vereda
+29 3330 Vitória da Conquista
+29 3340 Wagner
+29 3345 Wanderley
+29 3350 Wenceslau Guimarães
+29 3360 Xique-Xique
+31 0010 Abadia dos Dourados
+31 0020 Abaeté
+31 0030 Abre Campo
+31 0040 Acaiaca
+31 0050 Açucena
+31 0060 Água Boa
+31 0070 Água Comprida
+31 0080 Aguanil
+31 0090 Águas Formosas
+31 0100 Águas Vermelhas
+31 0110 Aimorés
+31 0120 Aiuruoca
+31 0130 Alagoa
+31 0140 Albertina
+31 0150 Além Paraíba
+31 0160 Alfenas
+31 0170 Almenara
+31 0180 Alpercata
+31 0190 Alpinópolis
+31 0200 Alterosa
+31 0210 Alto Rio Doce
+31 0220 Alvarenga
+31 0230 Alvinópolis
+31 0240 Alvorada de Minas
+31 0250 Amparo do Serra
+31 0260 Andradas
+31 0270 Cachoeira do Pajeú
+31 0280 Andrelândia
+31 0290 Antônio Carlos
+31 0300 Antônio Dias
+31 0310 Antônio Prado de Minas
+31 0320 Araçaí
+31 0330 Aracitaba
+31 0340 Araçuaí
+31 0350 Araguari
+31 0360 Arantina
+31 0370 Araponga
+31 0380 Arapuã
+31 0390 Araújos
+31 0400 Araxá
+31 0410 Arceburgo
+31 0420 Arcos
+31 0430 Areado
+31 0440 Argirita
+31 0450 Arinos
+31 0460 Astolfo Dutra
+31 0470 Ataléia
+31 0480 Augusto de Lima
+31 0490 Baependi
+31 0500 Baldim
+31 0510 Bambuí
+31 0520 Bandeira
+31 0530 Bandeira do Sul
+31 0540 Barão de Cocais
+31 0550 Barão de Monte Alto
+31 0560 Barbacena
+31 0570 Barra Longa
+31 0590 Barroso
+31 0600 Bela Vista de Minas
+31 0610 Belmiro Braga
+31 0620 Belo Horizonte
+31 0630 Belo Oriente
+31 0640 Belo Vale
+31 0650 Berilo
+31 0660 Bertópolis
+31 0670 Betim
+31 0680 Bias Fortes
+31 0690 Bicas
+31 0700 Biquinhas
+31 0710 Boa Esperança
+31 0720 Bocaina de Minas
+31 0730 Bocaiúva
+31 0740 Bom Despacho
+31 0750 Bom Jardim de Minas
+31 0760 Bom Jesus da Penha
+31 0770 Bom Jesus do Amparo
+31 0780 Bom Jesus do Galho
+31 0790 Bom Repouso
+31 0800 Bom Sucesso
+31 0810 Bonfim
+31 0820 Bonfinópolis de Minas
+31 0830 Borda da Mata
+31 0840 Botelhos
+31 0850 Botumirim
+31 0860 Brasília de Minas
+31 0870 Brás Pires
+31 0880 Braúnas
+31 0890 Brazópolis
+31 0900 Brumadinho
+31 0910 Bueno Brandão
+31 0920 Buenópolis
+31 0930 Buritis
+31 0940 Buritizeiro
+31 0950 Cabo Verde
+31 0960 Cachoeira da Prata
+31 0970 Cachoeira de Minas
+31 0980 Cachoeira Dourada
+31 0990 Caetanópolis
+31 1000 Caeté
+31 1010 Caiana
+31 1020 Cajuri
+31 1030 Caldas
+31 1040 Camacho
+31 1050 Camanducaia
+31 1060 Cambuí
+31 1070 Cambuquira
+31 1080 Campanário
+31 1090 Campanha
+31 1100 Campestre
+31 1110 Campina Verde
+31 1120 Campo Belo
+31 1130 Campo do Meio
+31 1140 Campo Florido
+31 1150 Campos Altos
+31 1160 Campos Gerais
+31 1170 Canaã
+31 1180 Canápolis
+31 1190 Cana Verde
+31 1200 Candeias
+31 1210 Caparaó
+31 1220 Capela Nova
+31 1230 Capelinha
+31 1240 Capetinga
+31 1250 Capim Branco
+31 1260 Capinópolis
+31 1270 Capitão Enéas
+31 1280 Capitólio
+31 1290 Caputira
+31 1300 Caraí
+31 1310 Caranaíba
+31 1320 Carandaí
+31 1330 Carangola
+31 1340 Caratinga
+31 1350 Carbonita
+31 1360 Careaçu
+31 1370 Carlos Chagas
+31 1380 Carmésia
+31 1390 Carmo da Cachoeira
+31 1400 Carmo da Mata
+31 1410 Carmo de Minas
+31 1420 Carmo do Cajuru
+31 1430 Carmo do Paranaíba
+31 1440 Carmo do Rio Claro
+31 1450 Carmópolis de Minas
+31 1460 Carrancas
+31 1470 Carvalhópolis
+31 1480 Carvalhos
+31 1490 Casa Grande
+31 1500 Cascalho Rico
+31 1510 Cássia
+31 1520 Conceição da Barra de Minas
+31 1530 Cataguases
+31 1540 Catas Altas da Noruega
+31 1550 Caxambu
+31 1560 Cedro do Abaeté
+31 1570 Central de Minas
+31 1580 Centralina
+31 1590 Chácara
+31 1600 Chalé
+31 1610 Chapada do Norte
+31 1620 Chiador
+31 1630 Cipotânea
+31 1640 Claraval
+31 1650 Claro dos Poções
+31 1660 Cláudio
+31 1670 Coimbra
+31 1680 Coluna
+31 1690 Comendador Gomes
+31 1700 Comercinho
+31 1710 Conceição da Aparecida
+31 1720 Conceição das Pedras
+31 1730 Conceição das Alagoas
+31 1740 Conceição de Ipanema
+31 1750 Conceição do Mato Dentro
+31 1760 Conceição do Pará
+31 1770 Conceição do Rio Verde
+31 1780 Conceição dos Ouros
+31 1790 Congonhal
+31 1800 Congonhas
+31 1810 Congonhas do Norte
+31 1820 Conquista
+31 1830 Conselheiro Lafaiete
+31 1840 Conselheiro Pena
+31 1850 Consolação
+31 1860 Contagem
+31 1870 Coqueiral
+31 1880 Coração de Jesus
+31 1890 Cordisburgo
+31 1900 Cordislândia
+31 1910 Corinto
+31 1920 Coroaci
+31 1930 Coromandel
+31 1940 Coronel Fabriciano
+31 1950 Coronel Murta
+31 1960 Coronel Pacheco
+31 1970 Coronel Xavier Chaves
+31 1980 Córrego Danta
+31 1990 Crrego do Bom Jesus
+31 2000 Córrego Novo
+31 2010 Couto de Magalhães de Minas
+31 2020 Cristais
+31 2030 Cristália
+31 2040 Cristiano Otoni
+31 2050 Cristina
+31 2060 Crucilândia
+31 2070 Cruzeiro da Fortaleza
+31 2080 Cruzília
+31 2090 Curvelo
+31 2100 Datas
+31 2110 Delfim Moreira
+31 2120 Delfinópolis
+31 2130 Descoberto
+31 2140 Desterro de Entre Rios
+31 2150 Desterro do Melo
+31 2160 Diamantina
+31 2170 Diogo de Vasconcelos
+31 2180 Dionísio
+31 2190 Divinésia
+31 2200 Divino
+31 2210 Divino das Laranjeiras
+31 2220 Divinolândia de Minas
+31 2230 Divinópolis
+31 2240 Divisa Nova
+31 2250 Dom Cavati
+31 2260 Dom Joaquim
+31 2270 Dom Silvério
+31 2280 Dom Viçoso
+31 2290 Dona Euzébia
+31 2300 Dores de Campos
+31 2310 Dores de Guanhães
+31 2320 Dores do Indaiá
+31 2330 Dores do Turvo
+31 2340 Doresópolis
+31 2350 Douradoquara
+31 2360 Elói Mendes
+31 2370 Engenheiro Caldas
+31 2380 Engenheiro Navarro
+31 2390 Entre Rios de Minas
+31 2400 Ervália
+31 2410 Esmeraldas
+31 2420 Espera Feliz
+31 2430 Espinosa
+31 2440 Espírito Santo do Dourado
+31 2450 Estiva
+31 2460 Estrela Dalva
+31 2470 Estrela do Indaiá
+31 2480 Estrela do Sul
+31 2490 Eugenópolis
+31 2500 Ewbank da Câmara
+31 2510 Extrema
+31 2520 Fama
+31 2530 Faria Lemos
+31 2540 Felício dos Santos
+31 2550 São Gonçalo do Rio Preto
+31 2560 Felisburgo
+31 2570 Felixlândia
+31 2580 Fernandes Tourinho
+31 2590 Ferros
+31 2600 Florestal
+31 2610 Formiga
+31 2620 Formoso
+31 2630 Fortaleza de Minas
+31 2640 Fortuna de Minas
+31 2650 Francisco Badaró
+31 2660 Francisco Dumont
+31 2670 Francisco Sá
+31 2680 Frei Gaspar
+31 2690 Frei Inocêncio
+31 2700 Fronteira
+31 2705 Fronteira dos Vales
+31 2710 Frutal
+31 2720 Funilândia
+31 2730 Galiléia
+31 2740 Gonçalves
+31 2750 Gonzaga
+31 2760 Gouvêa
+31 2770 Governador Valadares
+31 2780 Grão Mogol
+31 2790 Grupiara
+31 2800 Guanhães
+31 2810 Guapé
+31 2820 Guaraciaba
+31 2830 Guaranésia
+31 2840 Guarani
+31 2850 Guarará
+31 2860 Guarda-Mor
+31 2870 Guaxupé
+31 2880 Guidoval
+31 2890 Guimarânia
+31 2900 Guiricema
+31 2910 Gurinhatã
+31 2920 Heliodora
+31 2930 Iapu
+31 2940 Ibertioga
+31 2950 Ibiá
+31 2960 Ibiaí
+31 2970 Ibiraci
+31 2980 Ibirité
+31 2990 Ibitiúra de Minas
+31 3000 Ibituruna
+31 3010 Igarapé
+31 3020 Igaratinga
+31 3030 Iguatama
+31 3040 Ijaci
+31 3050 Ilicínea
+31 3060 Inconfidentes
+31 3070 Indianópolis
+31 3080 Ingaí
+31 3090 Inhapim
+31 3100 Inhaúma
+31 3110 Inimutaba
+31 3120 Ipanema
+31 3130 Ipatinga
+31 3140 Ipiaçu
+31 3150 Ipuiúna
+31 3160 Iraí de Minas
+31 3170 Itabira
+31 3180 Itabirinha de Mantena
+31 3190 Itabirito
+31 3200 Itacambira
+31 3210 Itacarambi
+31 3220 Itaguara
+31 3230 Itaipé
+31 3240 Itajubá
+31 3250 Itamarandiba
+31 3260 Itamarati de Minas
+31 3270 Itambacuri
+31 3280 Itambé do Mato Dentro
+31 3290 Itamogi
+31 3300 Itamonte
+31 3310 Itanhandu
+31 3320 Itanhomi
+31 3330 Itaobim
+31 3340 Itapagipe
+31 3350 Itapecerica
+31 3360 Itapeva
+31 3370 Itatiaiuçu
+31 3375 Itaú de Minas
+31 3380 Itaúna
+31 3390 Itaverava
+31 3400 Itinga
+31 3410 Itueta
+31 3420 Ituiutaba
+31 3430 Itumirim
+31 3440 Iturama
+31 3450 Itutinga
+31 3460 Jaboticatubas
+31 3470 Jacinto
+31 3480 Jacuí
+31 3490 Jacutinga
+31 3500 Jaguaraçu
+31 3510 Janaúba
+31 3520 Januária
+31 3530 Japaraíba
+31 3540 Jeceaba
+31 3550 Jequeri
+31 3560 Jequitaí
+31 3570 Jequitibá
+31 3580 Jequitinhonha
+31 3590 Jesuânia
+31 3600 Joaíma
+31 3610 Joanésia
+31 3620 João Monlevade
+31 3630 João Pinheiro
+31 3640 Joaquim Felício
+31 3650 Jordânia
+31 3660 Nova União
+31 3670 Juiz de Fora
+31 3680 Juramento
+31 3690 Juruaia
+31 3700 Ladainha
+31 3710 Lagamar
+31 3720 Lagoa da Prata
+31 3730 Lagoa dos Patos
+31 3740 Lagoa Dourada
+31 3750 Lagoa Formosa
+31 3760 Lagoa Santa
+31 3770 Lajinha
+31 3780 Lambari
+31 3790 Lamim
+31 3800 Laranjal
+31 3810 Lassance
+31 3820 Lavras
+31 3830 Leandro Ferreira
+31 3840 Leopoldina
+31 3850 Liberdade
+31 3860 Lima Duarte
+31 3870 Luminárias
+31 3880 Luz
+31 3890 Machacalis
+31 3900 Machado
+31 3910 Madre de Deus de Minas
+31 3920 Malacacheta
+31 3930 Manga
+31 3940 Manhuaçu
+31 3950 Manhumirim
+31 3960 Mantena
+31 3970 Maravilhas
+31 3980 Mar de Espanha
+31 3990 Maria da Fé
+31 4000 Mariana
+31 4010 Marilac
+31 4020 Maripá de Minas
+31 4030 Marliéria
+31 4040 Marmelópolis
+31 4050 Martinho Campos
+31 4060 Materlândia
+31 4070 Mateus Leme
+31 4080 Matias Barbosa
+31 4090 Matipó
+31 4100 Mato Verde
+31 4110 Matozinhos
+31 4120 Matutina
+31 4130 Medeiros
+31 4140 Medina
+31 4150 Mendes Pimentel
+31 4160 Mercês
+31 4170 Mesquita
+31 4180 Minas Novas
+31 4190 Minduri
+31 4200 Mirabela
+31 4210 Miradouro
+31 4220 Miraí
+31 4230 Moeda
+31 4240 Moema
+31 4250 Monjolos
+31 4260 Monsenhor Paulo
+31 4270 Montalvânia
+31 4280 Monte Alegre de Minas
+31 4290 Monte Azul
+31 4300 Monte Belo
+31 4310 Monte Carmelo
+31 4320 Monte Santo de Minas
+31 4330 Montes Claros
+31 4340 Monte Sião
+31 4350 Morada Nova de Minas
+31 4360 Morro da Garça
+31 4370 Morro do Pilar
+31 4380 Munhoz
+31 4390 Muriaé
+31 4400 Mutum
+31 4410 Muzambinho
+31 4420 Nacip Raydan
+31 4430 Nanuque
+31 4440 Natércia
+31 4450 Nazareno
+31 4460 Nepomuceno
+31 4470 Nova Era
+31 4480 Nova Lima
+31 4490 Nova Módica
+31 4500 Nova Ponte
+31 4510 Nova Resende
+31 4520 Nova Serrana
+31 4530 Novo Cruzeiro
+31 4540 Olaria
+31 4550 Olímpio Noronha
+31 4560 Oliveira
+31 4570 Oliveira Fortes
+31 4580 Onça de Pitangui
+31 4590 Ouro Branco
+31 4600 Ouro Fino
+31 4610 Ouro Preto
+31 4620 Ouro Verde de Minas
+31 4630 Padre Paraíso
+31 4640 Paineiras
+31 4650 Pains
+31 4660 Paiva
+31 4670 Palma
+31 4690 Papagaios
+31 4700 Paracatu
+31 4710 Pará de Minas
+31 4720 Paraguaçu
+31 4730 Paraisópolis
+31 4740 Paraopeba
+31 4750 Passabém
+31 4760 Passa Quatro
+31 4770 Passa Tempo
+31 4780 Passa Vinte
+31 4790 Passos
+31 4800 Patos de Minas
+31 4810 Patrocínio
+31 4820 Patrocínio do Muriaé
+31 4830 Paula Cândido
+31 4840 Paulistas
+31 4850 Pavão
+31 4860 Peçanha
+31 4870 Pedra Azul
+31 4880 Pedra do Anta
+31 4890 Pedra do Indaiá
+31 4900 Pedra Dourada
+31 4910 Pedralva
+31 4920 Pedrinópolis
+31 4930 Pedro Leopoldo
+31 4940 Pedro Teixeira
+31 4950 Pequeri
+31 4960 Pequi
+31 4970 Perdigão
+31 4980 Perdizes
+31 4990 Perdões
+31 5000 Pescador
+31 5010 Piau
+31 5020 Piedade de Ponte Nova
+31 5030 Piedade do Rio Grande
+31 5040 Piedade dos Gerais
+31 5050 Pimenta
+31 5060 Piracema
+31 5070 Pirajuba
+31 5080 Piranga
+31 5090 Piranguçu
+31 5100 Piranguinho
+31 5110 Pirapetinga
+31 5120 Pirapora
+31 5130 Piraúba
+31 5140 Pitangui
+31 5150 Piuí
+31 5160 Planura
+31 5170 Poço Fundo
+31 5180 Poços de Caldas
+31 5190 Pocrane
+31 5200 Pompéu
+31 5210 Ponte Nova
+31 5220 Porteirinha
+31 5230 Porto Firme
+31 5240 Poté
+31 5250 Pouso Alegre
+31 5260 Pouso Alto
+31 5270 Prados
+31 5280 Prata
+31 5290 Pratápolis
+31 5300 Pratinha
+31 5310 Presidente Bernardes
+31 5320 Presidente Juscelino
+31 5330 Presidente Kubitschek
+31 5340 Presidente Olegário
+31 5350 Presidente Soares
+31 5360 Prudente de Morais
+31 5370 Quartel Geral
+31 5380 Queluzita
+31 5390 Raposos
+31 5400 Raul Soares
+31 5410 Recreio
+31 5420 Resende Costa
+31 5430 Resplendor
+31 5440 Ressaquinha
+31 5450 Riacho dos Machados
+31 5460 Ribeirão das Neves
+31 5470 Ribeirão Vermelho
+31 5480 Rio Acima
+31 5490 Rio Casca
+31 5500 Rio Doce
+31 5510 Rio do Prado
+31 5520 Rio Espera
+31 5530 Rio Manso
+31 5540 Rio Novo
+31 5550 Rio Paranaíba
+31 5560 Rio Pardo de Minas
+31 5570 Rio Piracicaba
+31 5580 Rio Pomba
+31 5590 Rio Preto
+31 5600 Rio Vermelho
+31 5610 Ritápolis
+31 5620 Rochedo de Minas
+31 5630 Rodeiro
+31 5640 Romaria
+31 5650 Rubelita
+31 5660 Rubim
+31 5670 Sabará
+31 5680 Sabinópolis
+31 5690 Sacramento
+31 5700 Salinas
+31 5710 Salto da Divisa
+31 5720 Santa Bárbara
+31 5730 Santa Bárbara do Tugúrio
+31 5740 Santa Cruz do Escalvado
+31 5750 Santa Efigênia de Minas
+31 5760 Santa Fé de Minas
+31 5770 Santa Juliana
+31 5780 Santa Luzia
+31 5790 Santa Margarida
+31 5800 Santa Maria de Itabira
+31 5810 Santa Maria do Salto
+31 5820 Santa Maria do Suaçuí
+31 5830 Santana da Vargem
+31 5840 Santana de Cataguases
+31 5850 Santana de Pirapama
+31 5860 Santana do Deserto
+31 5870 Santana do Garambéu
+31 5880 Santana do Jacaré
+31 5890 Santana do Manhuaçu
+31 5900 Santana do Riacho
+31 5910 Santana dos Montes
+31 5920 Santa Rita de Caldas
+31 5930 Santa Rita de Jacutinga
+31 5940 Santa Rita do Ibitipoca
+31 5950 Santa Rita do Itueto
+31 5960 Santa Rita do Sapucaí
+31 5970 Santa Rosa da Serra
+31 5980 Santa Vitória
+31 5990 Santo Antônio do Amparo
+31 6000 Santo Antônio do Aventureiro
+31 6010 Santo Antônio do Grama
+31 6020 Santo Antônio do Itambé
+31 6030 Santo Antônio do Jacinto
+31 6040 Santo Antônio do Monte
+31 6050 Santo António do Rio Abaixo
+31 6060 Santo Hipólito
+31 6070 Santos Dumont
+31 6080 São Bento Abade
+31 6090 São Brás do Suaçuí
+31 6100 São Domingos do Prata
+31 6110 São Francisco
+31 6120 São Francisco de Paula
+31 6130 São Francisco de Sales
+31 6140 São Francisco do Glória
+31 6150 São Geraldo
+31 6160 São Geraldo da Piedade
+31 6170 São Gonçalo do Abaeté
+31 6180 São Gonçalo do Pará
+31 6190 São Gonçalo do Rio Abaixo
+31 6200 São Gonçalo do Sapucaí
+31 6210 São Gotardo
+31 6220 São João Batista do Glória
+31 6230 São João da Mata
+31 6240 São João da Ponte
+31 6250 São João Del Rei
+31 6260 São João do Oriente
+31 6270 São João do Paraíso
+31 6280 São João Evangelista
+31 6290 São João Nepomuceno
+31 6300 São José da Safira
+31 6310 São José da Varginha
+31 6320 São José do Alegre
+31 6330 São José do Divino
+31 6340 São José do Goiabal
+31 6350 São José do Jacuri
+31 6360 São José do Mantimento
+31 6370 São Lourenço
+31 6380 São Miguel do Anta
+31 6390 São Pedro da União
+31 6400 São Pedro dos Ferros
+31 6410 São Pedro do Suaçuí
+31 6420 São Romão
+31 6430 São Roque de Minas
+31 6440 São Sebastião da Bela Vista
+31 6450 São Sebastião do Maranhão
+31 6460 São Sebastião do Oeste
+31 6470 São Sebastião do Paraíso
+31 6480 São Sebastião do Rio Preto
+31 6490 Sao Sebastião do Rio Verde
+31 6500 São Tiago
+31 6510 São Tomás de Aquino
+31 6520 São Tomé das Letras
+31 6530 São Vicente de Minas
+31 6540 Sapucaí-Mirim
+31 6550 Sardoá
+31 6560 Senador Cortes
+31 6570 Senador Firmino
+31 6580 Senador José Bento
+31 6590 Senador Modestino Gonçalves
+31 6600 Senhora de Oliveira
+31 6610 Senhora do Porto
+31 6620 Senhora dos Remédios
+31 6630 Sericita
+31 6640 Seritinga
+31 6650 Serra Azul de Minas
+31 6660 Serra da Saudade
+31 6670 Serra dos Aimorés
+31 6680 Serra do Salitre
+31 6690 Serrania
+31 6700 Serranos
+31 6710 Serro
+31 6720 Sete Lagoas
+31 6730 Silveirânia
+31 6740 Silvianópolis
+31 6750 Simão Pereira
+31 6760 Simonésia
+31 6770 Sobrália
+31 6780 Soledade de Minas
+31 6790 Tabuleiro
+31 6800 Taiobeiras
+31 6810 Tapira
+31 6820 Tapiraí
+31 6830 Taquaraçu de Minas
+31 6840 Tarumirim
+31 6850 Teixeiras
+31 6860 Teófilo Otoni
+31 6870 Timóteo
+31 6880 Tiradentes
+31 6890 Tiros
+31 6900 Tocantins
+31 6910 Toledo
+31 6920 Tombos
+31 6930 Três Corações
+31 6935 Três Marias
+31 6940 Três Pontas
+31 6950 Tumiritinga
+31 6960 Tupaciguara
+31 6970 Turmalina
+31 6980 Turvolândia
+31 6990 Ubá
+31 7000 Ubaí
+31 7010 Uberaba
+31 7020 Uberlândia
+31 7030 Umburatiba
+31 7040 Unaí
+31 7050 Urucânia
+31 7060 Vargem Bonita
+31 7070 Varginha
+31 7080 Várzea da Palma
+31 7090 Varzelândia
+31 7100 Vazante
+31 7110 Veríssimo
+31 7120 Vespasiano
+31 7130 Viçosa
+31 7140 Vieiras
+31 7150 Mathias Lobato
+31 7160 Virgem da Lapa
+31 7170 Virgínia
+31 7180 Virginópolis
+31 7190 Virgolândia
+31 7200 Visconde do Rio Branco
+31 7210 Volta Grande
+31 7220 Wenceslau Braz
+32 0010 Afonso Cláudio
+32 0013 Águia Branca
+32 0016 Água Doce do Norte
+32 0020 Alegre
+32 0030 Alfredo Chaves
+32 0035 Alto Rio Novo
+32 0040 Anchieta
+32 0050 Apiacá
+32 0060 Aracruz
+32 0070 Atilio Vivacqua
+32 0080 Baixo Guandu
+32 0090 Barra de São Francisco
+32 0100 Boa Esperança
+32 0110 Bom Jesus do Norte
+32 0120 Cachoeiro de Itapemirim
+32 0130 Cariacica
+32 0140 Castelo
+32 0150 Colatina
+32 0160 Conceição da Barra
+32 0170 Conceição do Castelo
+32 0180 Divino de São Lourenço
+32 0190 Domingos Martins
+32 0200 Dores do Rio Preto
+32 0210 Ecoporanga
+32 0220 Fundão
+32 0230 Guaçuí
+32 0240 Guarapari
+32 0245 Ibatiba
+32 0250 Ibiraçu
+32 0255 Ibitirama
+32 0260 Iconha
+32 0270 Itaguaçu
+32 0280 Itapemirim
+32 0290 Itarana
+32 0300 Iúna
+32 0305 Jaguaré
+32 0310 Jerônimo Monteiro
+32 0313 João Neiva
+32 0316 Laranja da Terra
+32 0320 Linhares
+32 0330 Mantenópolis
+32 0335 Marilândia
+32 0340 Mimoso do Sul
+32 0350 Montanha
+32 0360 Mucurici
+32 0370 Muniz Freire
+32 0380 Muqui
+32 0390 Nova Venécia
+32 0400 Pancas
+32 0405 Pedro Canário
+32 0410 Pinheiros
+32 0420 Piúma
+32 0430 Presidente Kennedy
+32 0435 Rio Bananal
+32 0440 Rio Novo do Sul
+32 0450 Santa Leopoldina
+32 0455 Santa Maria de Jetibá
+32 0460 Santa Teresa
+32 0470 São Gabriel da Palha
+32 0480 São José do Calçado
+32 0490 São Mateus
+32 0500 Serra
+32 0503 Vargem Alta
+32 0506 Venda Nova do Imigrante
+32 0510 Viana
+32 0520 Vila Velha
+32 0530 Vitória
+33 0010 Angra dos Reis
+33 0020 Araruama
+33 0025 Arraial do Cabo
+33 0030 Barra do Piraí
+33 0040 Barra Mansa
+33 0050 Bom Jardim
+33 0060 Bom Jesus do Itabapoana
+33 0070 Cabo Frio
+33 0080 Cachoeiras de Macacu
+33 0090 Cambuci
+33 0100 Campos dos Goytacazes
+33 0110 Cantagalo
+33 0120 Carmo
+33 0130 Casimiro de Abreu
+33 0140 Conceição de Macabu
+33 0150 Cordeiro
+33 0160 Duas Barras
+33 0170 Duque de Caxias
+33 0180 Engenheiro Paulo de Frontin
+33 0190 Itaboraí
+33 0200 Itaguaí
+33 0205 Italva
+33 0210 Itaocara
+33 0220 Itaperuna
+33 0225 Itatiaia
+33 0230 Laje do Muriaé
+33 0240 Macaé
+33 0250 Magé
+33 0260 Mangaratiba
+33 0270 Maricá
+33 0280 Mendes
+33 0290 Miguel Pereira
+33 0300 Miracema
+33 0310 Natividade
+33 0320 Nilópolis
+33 0330 Niterói
+33 0340 Nova Friburgo
+33 0350 Nova Iguaçu
+33 0360 Paracambi
+33 0370 Paraíba do Sul
+33 0380 Parati
+33 0385 Paty do Alferes
+33 0390 Petrópolis
+33 0400 Piraí
+33 0410 Porciúncula
+33 0415 Quissamã
+33 0420 Resende
+33 0430 Rio Bonito
+33 0440 Rio Claro
+33 0450 Rio das Flores
+33 0455 Rio de Janeiro
+33 0460 Santa Maria Madalena
+33 0470 Santo Antônio de Pádua
+33 0480 São Fidélis
+33 0490 São Gonçalo
+33 0500 São João da Barra
+33 0510 São João de Meriti
+33 0515 São José do Vale do Rio Preto
+33 0520 São Pedro da Aldeia
+33 0530 São Sebastião do Alto
+33 0540 Sapucaia
+33 0550 Saquarema
+33 0560 Silva Jardim
+33 0570 Sumidouro
+33 0580 Teresópolis
+33 0590 Trajano de Morais
+33 0600 Três Rios
+33 0610 Valença
+33 0620 Vassouras
+33 0630 Volta Redonda
+35 0010 Adamantina
+35 0020 Adolfo
+35 0030 Aguaí
+35 0040 Àguas da Prata
+35 0050 Águas de Lindóia
+35 0055 Águas de Santa Bárbara
+35 0060 Águas de São Pedro
+35 0070 Agudos
+35 0080 Alfredo Marcondes
+35 0090 Altair
+35 0100 Altinópolis
+35 0110 Alto Alegre
+35 0120 Álvares Florence
+35 0130 Álvares Machado
+35 0140 Álvaro de Carvalho
+35 0150 Alvinlândia
+35 0160 Americana
+35 0170 Américo Brasiliense
+35 0180 Américo de Campos
+35 0190 Amparo
+35 0200 Analândia
+35 0210 Andradina
+35 0220 Angatuba
+35 0230 Anhembi
+35 0240 Anhumas
+35 0250 Aparecida
+35 0260 Aparecida d'Oeste
+35 0270 Apiaí
+35 0280 Araçatuba
+35 0290 Araçoiaba da Serra
+35 0300 Aramina
+35 0310 Arandu
+35 0320 Araraquara
+35 0330 Araras
+35 0340 Arealva
+35 0350 Areias
+35 0360 Areiópolis
+35 0370 Ariranha
+35 0380 Artur Nogueira
+35 0390 Arujá
+35 0400 Assis
+35 0410 Atibaia
+35 0420 Auriflama
+35 0430 Avaí
+35 0440 Avanhandava
+35 0450 Avaré
+35 0460 Bady Bassitt
+35 0470 Balbinos
+35 0480 Bálsamo
+35 0490 Bananal
+35 0500 Barão de Antonina
+35 0510 Barbosa
+35 0520 Bariri
+35 0530 Barra Bonita
+35 0540 Barra do Turvo
+35 0550 Barretos
+35 0560 Barrinha
+35 0570 Barueri
+35 0580 Bastos
+35 0590 Batatais
+35 0600 Bauru
+35 0610 Bebedouro
+35 0620 Bento de Abreu
+35 0630 Bernardino de Campos
+35 0640 Bilac
+35 0650 Birigui
+35 0660 Biritiba-Mirim
+35 0670 Boa Esperança do Sul
+35 0680 Bocaina
+35 0690 Bofete
+35 0700 Boituva
+35 0710 Bom Jesus dos Perdões
+35 0720 Borá
+35 0730 Boracéia
+35 0740 Borborema
+35 0750 Botucatu
+35 0760 Bragança Paulista
+35 0770 Braúna
+35 0780 Brodósqui
+35 0790 Brotas
+35 0800 Buri
+35 0810 Buritama
+35 0820 Buritizal
+35 0830 Cabrália Paulista
+35 0840 Cabreúva
+35 0850 Caçapava
+35 0860 Cachoeira Paulista
+35 0870 Caconde
+35 0880 Cafelândia
+35 0890 Caiabu
+35 0900 Caieiras
+35 0910 Caiuá
+35 0920 Cajamar
+35 0930 Cajobi
+35 0940 Cajuru
+35 0950 Campinas
+35 0960 Campo Limpo Paulista
+35 0970 Campos do Jordão
+35 0980 Campos Novos Paulista
+35 0990 Cananéia
+35 1000 Cândido Mota
+35 1010 Cândido Rodrigues
+35 1020 Capão Bonito
+35 1030 Capela do Alto
+35 1040 Capivari
+35 1050 Caraguatatuba
+35 1060 Carapicuíba
+35 1070 Cardoso
+35 1080 Casa Branca
+35 1090 Cássia dos Coqueiros
+35 1100 Castilho
+35 1110 Catanduva
+35 1120 Catiguá
+35 1130 Cedral
+35 1140 Cerqueira César
+35 1150 Cerquilho
+35 1160 Cesário Lange
+35 1170 Charqueada
+35 1190 Clementina
+35 1200 Colina
+35 1210 Colômbia
+35 1220 Conchal
+35 1230 Conchas
+35 1240 Cordeirópolis
+35 1250 Coroados
+35 1260 Coronel Macedo
+35 1270 Corumbataí
+35 1280 Cosmópolis
+35 1290 Cosmorama
+35 1300 Cotia
+35 1310 Cravinhos
+35 1320 Cristais Paulista
+35 1330 Cruzália
+35 1340 Cruzeiro
+35 1350 Cubatão
+35 1360 Cunha
+35 1370 Descalvado
+35 1380 Diadema
+35 1390 Divinolândia
+35 1400 Dobrada
+35 1410 Dois Córregos
+35 1420 Dolcinópolis
+35 1430 Dourado
+35 1440 Dracena
+35 1450 Duartina
+35 1460 Dumont
+35 1470 Echaporã
+35 1480 Eldorado
+35 1490 Elias Fausto
+35 1500 Embu
+35 1510 Embu-Guaçu
+35 1518 Espírito Santo do Pinhal
+35 1520 Estrela d'Oeste
+35 1530 Estrela do Norte
+35 1540 Fartura
+35 1550 Fernandópolis
+35 1560 Fernando Prestes
+35 1570 Ferraz de Vasconcelos
+35 1580 Flora Rica
+35 1590 Floreal
+35 1600 Flórida Paulista
+35 1610 Florínia
+35 1620 Franca
+35 1630 Francisco Morato
+35 1640 Franco da Rocha
+35 1650 Gabriel Monteiro
+35 1660 Gália
+35 1670 Garça
+35 1680 Gastão Vidigal
+35 1690 General Salgado
+35 1700 Getulina
+35 1710 Glicério
+35 1720 Guaiçara
+35 1730 Guaimbê
+35 1740 Guaíra
+35 1750 Guapiaçu
+35 1760 Guapiara
+35 1770 Guará
+35 1780 Guaracaí
+35 1790 Guaraci
+35 1800 Guarani d'Oeste
+35 1810 Guarantã
+35 1820 Guararapes
+35 1830 Guararema
+35 1840 Guaratinguetá
+35 1850 Guareí
+35 1860 Guariba
+35 1870 Guarujá
+35 1880 Guarulhos
+35 1890 Guzolândia
+35 1900 Herculândia
+35 1910 Iacanga
+35 1920 Iacri
+35 1930 Ibaté
+35 1940 Ibirá
+35 1950 Ibirarema
+35 1960 Ibitinga
+35 1970 Ibiúna
+35 1980 Icém
+35 1990 Iepé
+35 2000 Igaraçu do Tietê
+35 2010 Igarapava
+35 2020 Igaratá
+35 2030 Iguape
+35 2040 Ilhabela
+35 2050 Indaiatuba
+35 2060 Indiana
+35 2070 Indiaporã
+35 2080 Inúbia Paulista
+35 2090 Ipauçu
+35 2100 Iperó
+35 2110 Ipeúna
+35 2120 Iporanga
+35 2130 Ipuã
+35 2140 Iracemápolis
+35 2150 Irapuã
+35 2160 Irapuru
+35 2170 Itaberá
+35 2180 Itaí
+35 2190 Itajobi
+35 2200 Itaju
+35 2210 Itanhaém
+35 2220 Itapecerica da Serra
+35 2230 Itapetininga
+35 2240 Itapeva
+35 2250 Itapevi
+35 2260 Itapira
+35 2270 Itápolis
+35 2280 Itaporanga
+35 2290 Itapuí
+35 2300 Itapura
+35 2310 Itaquaquecetuba
+35 2320 Itararé
+35 2330 Itariri
+35 2340 Itatiba
+35 2350 Itatinga
+35 2360 Itirapina
+35 2370 Itirapuã
+35 2380 Itobi
+35 2390 Itu
+35 2400 Itupeva
+35 2410 Ituverava
+35 2420 Jaborandi
+35 2430 Jaboticabal
+35 2440 Jacareí
+35 2450 Jaci
+35 2460 Jacupiranga
+35 2470 Jaguariúna
+35 2480 Jales
+35 2490 Jambeiro
+35 2500 Jandira
+35 2510 Jardinópolis
+35 2520 Jarinu
+35 2530 Jaú
+35 2540 Jeriquara
+35 2550 Joanópolis
+35 2560 João Ramalho
+35 2570 José Bonifácio
+35 2580 Júlio Mesquita
+35 2590 Jundiaí
+35 2600 Junqueirópolis
+35 2610 Juquiá
+35 2620 Juquitiba
+35 2630 Lagoinha
+35 2640 Laranjal Paulista
+35 2650 Lavínia
+35 2660 Lavrinhas
+35 2670 Leme
+35 2680 Lençóis Paulista
+35 2690 Limeira
+35 2700 Lindóia
+35 2710 Lins
+35 2720 Lorena
+35 2730 Louveira
+35 2740 Lucélia
+35 2750 Lucianópolis
+35 2760 Luís Antônio
+35 2770 Luisiânia
+35 2780 Lupércio
+35 2790 Lutécia
+35 2800 Macatuba
+35 2810 Macaubal
+35 2820 Macedônia
+35 2830 Magda
+35 2840 Mairinque
+35 2850 Mairiporã
+35 2860 Manduri
+35 2870 Marabá Paulista
+35 2880 Maracaí
+35 2890 Mariápolis
+35 2900 Marília
+35 2910 Marinópolis
+35 2920 Martinópolis
+35 2930 Matão
+35 2940 Mauá
+35 2950 Mendonça
+35 2960 Meridiano
+35 2970 Miguelópolis
+35 2980 Mineiros do Tietê
+35 2990 Miracatu
+35 3000 Mira Estrela
+35 3010 Mirandópolis
+35 3020 Mirante do Paranapanema
+35 3030 Mirassol
+35 3040 Mirassolândia
+35 3050 Mococa
+35 3060 Mogi das Cruzes
+35 3070 Mogi-Guaçu
+35 3080 Mogi-Mirim
+35 3090 Mombuca
+35 3100 Monções
+35 3110 Mongagu 
+35 3120 Monte Alegre do Sul
+35 3130 Monte Alto
+35 3140 Monte Aprazível
+35 3150 Monte Azul Paulista
+35 3160 Monte Castelo
+35 3170 Monteiro Lobato
+35 3180 Monte Mor
+35 3190 Morro Agudo
+35 3200 Morungaba
+35 3210 Murutinga do Sul
+35 3220 Narandiba
+35 3230 Natividade da Serra
+35 3240 Nazaré Paulista
+35 3250 Neves Paulista
+35 3260 Nhandeara
+35 3270 Nipoã
+35 3280 Nova Aliança
+35 3290 Nova Europa
+35 3300 Nova Granada
+35 3310 Nova Guataporanga
+35 3320 Nova Independência
+35 3330 Nova Luzitânia
+35 3340 Nova Odessa
+35 3350 Novo Horizonte
+35 3360 Nuporanga
+35 3370 Ocauçu
+35 3380 Óleo
+35 3390 Olímpia
+35 3400 Onda Verde
+35 3410 Oriente
+35 3420 Orindiúva
+35 3430 Orlândia
+35 3440 Osasco
+35 3450 Oscar Bressane
+35 3460 Osvaldo Cruz
+35 3470 Ourinhos
+35 3480 Ouro Verde
+35 3490 Pacaembu
+35 3500 Palestina
+35 3510 Palmares Paulista
+35 3520 Palmeira d'Oeste
+35 3530 Palmital
+35 3540 Panorama
+35 3550 Paraguaçu Paulista
+35 3560 Paraibuna
+35 3570 Paraíso
+35 3580 Paranapanema
+35 3590 Paranapuã
+35 3600 Parapuã
+35 3610 Pardinho
+35 3620 Pariquera-Açu
+35 3630 Patrocínio Paulista
+35 3640 Paulicéia
+35 3650 Paulínia
+35 3660 Paulo de Faria
+35 3670 Pederneiras
+35 3680 Pedra Bela
+35 3690 Pedranópolis
+35 3700 Pedregulho
+35 3710 Pedreira
+35 3720 Pedro de Toledo
+35 3730 Penápolis
+35 3740 Pereira Barreto
+35 3750 Pereiras
+35 3760 Peruíbe
+35 3770 Piacatu
+35 3780 Piedade
+35 3790 Pilar do Sul
+35 3800 Pindamonhangaba
+35 3810 Pindorama
+35 3820 Pinhalzinho
+35 3830 Piquerobi
+35 3850 Piquete
+35 3860 Piracaia
+35 3870 Piracicaba
+35 3880 Piraju
+35 3890 Pirajuí
+35 3900 Pirangi
+35 3910 Pirapora do Bom Jesus
+35 3920 Pirapozinho
+35 3930 Pirassununga
+35 3940 Piratininga
+35 3950 Pitangueiras
+35 3960 Planalto
+35 3970 Platina
+35 3980 Poá
+35 3990 Poloni
+35 4000 Pompéia
+35 4010 Pongaí
+35 4020 Pontal
+35 4030 Pontes Gestal
+35 4040 Populina
+35 4050 Porangaba
+35 4060 Porto Feliz
+35 4070 Porto Ferreira
+35 4080 Potirendaba
+35 4090 Pradópolis
+35 4100 Praia Grande
+35 4110 Presidente Alves
+35 4120 Presidente Bernardes
+35 4130 Presidente Epitácio
+35 4140 Presidente Prudente
+35 4150 Presidente Venceslau
+35 4160 Promissão
+35 4170 Quatá
+35 4180 Queiroz
+35 4190 Queluz
+35 4200 Quintana
+35 4210 Rafard
+35 4220 Rancharia
+35 4230 Redenção da Serra
+35 4240 Regente Feijó
+35 4250 Reginópolis
+35 4260 Registro
+35 4270 Restinga
+35 4280 Ribeira
+35 4290 Ribeirão Bonito
+35 4300 Ribeirão Branco
+35 4310 Ribeirão Corrente
+35 4320 Ribeirão do Sul
+35 4330 Ribeirão Pires
+35 4340 Ribeirão Preto
+35 4350 Riversul
+35 4360 Rifaina
+35 4370 Rincão
+35 4380 Rinópolis
+35 4390 Rio Claro
+35 4400 Rio das Pedras
+35 4410 Rio Grande da Serra
+35 4420 Riolândia
+35 4430 Roseira
+35 4440 Rubiácea
+35 4450 Rubinéia
+35 4460 Sabino
+35 4470 Sagres
+35 4480 Sales
+35 4490 Sales Oliveira
+35 4500 Salesópolis
+35 4510 Salmourão
+35 4520 Salto
+35 4530 Salto de Pirapora
+35 4540 Salto Grande
+35 4550 Sandovalina
+35 4560 Santa Adélia
+35 4570 Santa Albertina
+35 4580 Santa Bárbara d'Oeste
+35 4600 Santa Branca
+35 4610 Santa Clara d'Oeste
+35 4620 Santa Cruz da Conceição
+35 4630 Santa Cruz das Palmeiras
+35 4640 Santa Cruz do Rio Pardo
+35 4650 Santa Ernestina
+35 4660 Santa Fé do Sul
+35 4670 Santa Gertrudes
+35 4680 Santa Isabel
+35 4690 Santa Lúcia
+35 4700 Santa Maria da Serra
+35 4710 Santa Mercedes
+35 4720 Santana da Ponte Pensa
+35 4730 Santana de Parnaíba
+35 4740 Santa Rita d'Oeste
+35 4750 Santa Rita do Passa Quatro
+35 4760 Santa Rosa de Viterbo
+35 4770 Santo Anastácio
+35 4780 Santo André
+35 4790 Santo Antônio da Alegria
+35 4800 Santo Antônio de Posse
+35 4810 Santo Antônio do Jardim
+35 4820 Santo Antônio do Pinhal
+35 4830 Santo Expedito
+35 4840 Santópolis do Aguapeí
+35 4850 Santos
+35 4860 São Bento do Sapucaí
+35 4870 São Bernardo do Campo
+35 4880 São Caetano do Sul
+35 4890 São Carlos
+35 4900 São Francisco
+35 4910 São João da Boa Vista
+35 4920 São João das Duas Pontes
+35 4930 São João do Pau d'Alho
+35 4940 São Joaquim da Barra
+35 4950 São José da Bela Vista
+35 4960 São José do Barreiro
+35 4970 São José do Rio Pardo
+35 4980 São José do Rio Preto
+35 4990 São José dos Campos
+35 5000 São Luís do Paraitinga
+35 5010 São Manuel
+35 5020 São Miguel Arcanjo
+35 5030 São Paulo
+35 5040 São Pedro
+35 5050 São Pedro do Turvo
+35 5060 São Roque
+35 5070 São Sebastião
+35 5080 São Sebastião da Grama
+35 5090 São Simão
+35 5100 São Vicente
+35 5110 Sarapuí
+35 5120 Sarutaiá
+35 5130 Sebastianópolis do Sul
+35 5140 Serra Azul
+35 5150 Serrana
+35 5160 Serra Negra
+35 5170 Sertãozinho
+35 5180 Sete Barras
+35 5190 Severínia
+35 5200 Silveiras
+35 5210 Socorro
+35 5220 Sorocaba
+35 5230 Sud Menucci
+35 5240 Sumaré
+35 5250 Suzano
+35 5260 Tabapuã
+35 5270 Tabatinga
+35 5280 Taboão da Serra
+35 5290 Taciba
+35 5300 Taguaí
+35 5310 Taiaçu
+35 5320 Taiúva
+35 5330 Tambaú
+35 5340 Tanabi
+35 5350 Tapiraí
+35 5360 Tapiratiba
+35 5370 Taquaritinga
+35 5380 Taquarituba
+35 5390 Tarabai
+35 5400 Tatuí
+35 5410 Taubaté
+35 5420 Tejupá
+35 5430 Teodoro Sampaio
+35 5440 Terra Roxa
+35 5450 Tietê
+35 5460 Timburi
+35 5470 Torrinha
+35 5480 Tremembé
+35 5490 Três Fronteiras
+35 5500 Tupã
+35 5510 Tupi Paulista
+35 5520 Turiúba
+35 5530 Turmalina
+35 5540 Ubatuba
+35 5550 Ubirajara
+35 5560 Uchoa
+35 5570 União Paulista
+35 5580 Urânia
+35 5590 Uru
+35 5600 Urupês
+35 5610 Valentim Gentil
+35 5620 Valinhos
+35 5630 Valparaíso
+35 5640 Vargem Grande do Sul
+35 5645 Vargem Grande Paulista
+35 5650 Várzea Paulista
+35 5660 Vera Cruz
+35 5670 Vinhedo
+35 5680 Viradouro
+35 5690 Vista Alegre do Alto
+35 5700 Votorantim
+35 5710 Votuporanga
+35 5720 Chavantes
+41 0010 Abati 
+41 0020 Adrianópolis
+41 0030 Agudos do Sul
+41 0040 Almirante Tamandaré
+41 0045 Altamira do Paraná
+41 0050 Altônia
+41 0060 Alto Paraná
+41 0070 Alto Piquiri
+41 0080 Alvorada do Sul
+41 0090 Amaporã
+41 0100 Ampére
+41 0110 Andirá
+41 0120 Antonina
+41 0130 Antônio Olinto
+41 0140 Apucarana
+41 0150 Arapongas
+41 0160 Arapoti
+41 0170 Araruna
+41 0180 Araucária
+41 0190 Assaí
+41 0200 Assis Chateaubriand
+41 0210 Astorga
+41 0220 Atalaia
+41 0230 Balsa Nova
+41 0240 Bandeirantes
+41 0250 Barbosa Ferraz
+41 0260 Barracão
+41 0270 Barra do Jacaré
+41 0280 Bela Vista do Paraíso
+41 0290 Bituruna
+41 0300 Boa Esperança
+41 0305 Boa Vista da Aparecida
+41 0310 Bocaiúva do Sul
+41 0320 Bom Sucesso
+41 0330 Borrazópolis
+41 0335 Braganey
+41 0340 Cafeara
+41 0345 Cafelândia
+41 0350 Califórnia
+41 0360 Cambará
+41 0370 Cambé
+41 0380 Cambira
+41 0390 Campina da Lagoa
+41 0400 Campina Grande do Sul
+41 0405 Campo Bonito
+41 0410 Campo do Tenente
+41 0420 Campo Largo
+41 0430 Campo Mourão
+41 0440 Cândido de Abreu
+41 0445 Cantagalo
+41 0450 Capanema
+41 0460 Capitão Leônidas Marques
+41 0470 Carlópolis
+41 0480 Cascavel
+41 0490 Castro
+41 0500 Catanduvas
+41 0510 Centenário do Sul
+41 0520 Cerro Azul
+41 0530 Céu Azul
+41 0540 Chopinzinho
+41 0550 Cianorte
+41 0560 Cidade Gaúcha
+41 0570 Clevelândia
+41 0580 Colombo
+41 0590 Colorado
+41 0600 Congonhinhas
+41 0610 Conselheiro Mairinck
+41 0620 Contenda
+41 0630 Corbélia
+41 0640 Cornélio Procópio
+41 0650 Coronel Vivida
+41 0655 Corumbataí do Sul
+41 0660 Cruzeiro do Oeste
+41 0670 Cruzeiro do Sul
+41 0680 Cruz Machado
+41 0690 Curitiba
+41 0700 Curiúva
+41 0710 Diamante do Norte
+41 0715 Diamante d'Oeste
+41 0720 Dois Vizinhos
+41 0725 Douradina
+41 0730 Doutor Camargo
+41 0740 Enéas Marques
+41 0750 Engenheiro Beltrão
+41 0760 Faxinal
+41 0770 Fênix
+41 0775 Figueira
+41 0780 Floraí
+41 0790 Floresta
+41 0800 Florestópolis
+41 0810 Flórida
+41 0820 Formosa do Oeste
+41 0830 Foz do Iguaçu
+41 0832 Francisco Alves
+41 0840 Francisco Beltrão
+41 0850 General Carneiro
+41 0855 Godoy Moreira
+41 0860 Goio-Erê
+41 0870 Grandes Rios
+41 0880 Guaíra
+41 0890 Guairaçá
+41 0900 Guapirama
+41 0910 Guaporema
+41 0920 Guaraci
+41 0930 Guaraniaçu
+41 0940 Guarapuava
+41 0950 Guaraqueçaba
+41 0960 Guaratuba
+41 0970 Ibaiti
+41 0975 Ibema
+41 0980 Ibiporã
+41 0990 Icaraíma
+41 1000 Iguaraçu
+41 1010 Imbituva
+41 1020 Inácio Martins
+41 1030 Inajá
+41 1040 Indianópolis
+41 1050 Ipiranga
+41 1060 Iporã
+41 1070 Irati
+41 1080 Iretama
+41 1090 Itaguajé
+41 1100 Itambaracá
+41 1110 Itambé
+41 1120 Itapejara d'Oeste
+41 1130 Itaúna do Sul
+41 1140 Ivaí
+41 1150 Ivaiporã
+41 1160 Ivatuba
+41 1170 Jaboti
+41 1180 Jacarezinho
+41 1190 Jaguapitã
+41 1200 Jaguariaíva
+41 1210 Jandaia do Sul
+41 1220 Janiópolis
+41 1230 Japira
+41 1240 Japurá
+41 1250 Jardim Alegre
+41 1260 Jardim Olinda
+41 1270 Jataizinho
+41 1275 Jesuítas
+41 1280 Joaquim Távora
+41 1290 Jundiaí do Sul
+41 1295 Juranda
+41 1300 Jussara
+41 1310 Kaloré
+41 1320 Lapa
+41 1330 Laranjeiras do Sul
+41 1340 Leópolis
+41 1345 Lindoeste
+41 1350 Loanda
+41 1360 Lobato
+41 1370 Londrina
+41 1373 Luiziana
+41 1375 Lunardelli
+41 1380 Lupionópolis
+41 1390 Mallet
+41 1400 Mamborê
+41 1410 Mandaguaçu
+41 1420 Mandaguari
+41 1430 Mandirituba
+41 1440 Mangueirinha
+41 1450 Manoel Ribas
+41 1460 Marechal Cândido Rondon
+41 1470 Maria Helena
+41 1480 Marialva
+41 1490 Marilândia do Sul
+41 1500 Marilena
+41 1510 Mariluz
+41 1520 Maringá
+41 1530 Mariópolis
+41 1540 Marmeleiro
+41 1550 Marumbi
+41 1560 Mateâƒndia
+41 1570 Matinhos
+41 1580 Medianeira
+41 1590 Mirador
+41 1600 Miraselva
+41 1605 Missal
+41 1610 Moreira Sales
+41 1620 Morretes
+41 1630 Munhoz de Melo
+41 1640 Nossa Senhora das Graças
+41 1650 Nova Aliança do Ivaí
+41 1660 Nova América da Colina
+41 1670 Nova Aurora
+41 1680 Nova Cantu
+41 1690 Nova Esperança
+41 1700 Nova Fátima
+41 1710 Nova Londrina
+41 1720 Nova Olímpia
+41 1722 Nova Santa Rosa
+41 1725 Nova Prata do Iguaçu
+41 1727 Nova Tebas
+41 1730 Ortigueira
+41 1740 Ourizona
+41 1745 Ouro Verde do Oeste
+41 1750 Paiçandu
+41 1760 Palmas
+41 1770 Palmeira
+41 1780 Palmital
+41 1790 Palotina
+41 1800 Paraíso do Norte
+41 1810 Paranacity
+41 1820 Paranaguá
+41 1830 Paranapoema
+41 1840 Paranavaí
+41 1850 Pato Branco
+41 1860 Paula Freitas
+41 1870 Paulo Frontin
+41 1880 Peabiru
+41 1890 Pérola
+41 1900 Pérola d'Oeste
+41 1910 Piên
+41 1920 Pinhalão
+41 1930 Pinhão
+41 1940 Piraí do Sul
+41 1950 Piraquara
+41 1960 Pitanga
+41 1970 Planaltina do Paraná
+41 1980 Planalto
+41 1990 Ponta Grossa
+41 2000 Porecatu
+41 2010 Porto Amazonas
+41 2020 Porto Rico
+41 2030 Porto Vitória
+41 2035 Pranchita
+41 2040 Presidente Castelo Branco
+41 2050 Primeiro de Maio
+41 2060 Prudentópolis
+41 2070 Quatiguá
+41 2080 Quatro Barras
+41 2090 Quedas do Iguaçu
+41 2100 Querência do Norte
+41 2110 Quinta do Sol
+41 2120 Quitandinha
+41 2130 Rancho Alegre
+41 2140 Realeza
+41 2150 Rebouças
+41 2160 Renascença
+41 2170 Reserva
+41 2180 Ribeirão Claro
+41 2190 Ribeirão do Pinhal
+41 2200 Rio Azul
+41 2210 Rio Bom
+41 2220 Rio Branco do Sul
+41 2230 Rio Negro
+41 2240 Rolândia
+41 2250 Roncador
+41 2260 Rondon
+41 2265 Rosário do Ivaí
+41 2270 Sabáudia
+41 2280 Salgado Filho
+41 2290 Salto do Itararé
+41 2300 Salto do Lontra
+41 2310 Santa Amélia
+41 2320 Santa Cecília do Pavão
+41 2330 Santa Cruz de Monte Castelo
+41 2340 Santa Fé
+41 2350 Santa Helena
+41 2360 Santa Inês
+41 2370 Santa Isabel do Ivaí
+41 2380 Santa Izabel do Oeste
+41 2390 Santa Mariana
+41 2400 Santana do Itararé
+41 2402 Santa Tereza do Oeste
+41 2405 Santa Terezinha de Itaipu
+41 2410 Santo Antônio da Platina
+41 2420 Santo Antônio do Caiuá
+41 2430 Santo Antônio do Paraíso
+41 2440 Santo Antônio do Sudoeste
+41 2450 Santo Inácio
+41 2460 São Carlos do Ivaí
+41 2470 São Jerônimo da Serra
+41 2480 São João
+41 2490 São João do Caiuá
+41 2500 São João do Ivaí
+41 2510 São João do Triunfo
+41 2520 São Jorge d'Oeste
+41 2530 São Jorge do Ivaí
+41 2535 São Jorge do Patrocínio
+41 2540 São José da Boa Vista
+41 2545 São José das Palmeiras
+41 2550 São José dos Pinhais
+41 2560 São Mateus do Sul
+41 2570 São Miguel do Iguaçu
+41 2580 São Pedro do Ivaí
+41 2590 São Pedro do Paraná
+41 2600 São Sebastião da Amoreira
+41 2610 São Tomé
+41 2620 Sapopema
+41 2625 Sarandi
+41 2630 Sengês
+41 2640 Sertaneja
+41 2650 Sertanópolis
+41 2660 Siqueira Campos
+41 2665 Sulina
+41 2670 Tamboara
+41 2680 Tapejara
+41 2690 Tapira
+41 2700 Teixeira Soares
+41 2710 Telêmaco Borba
+41 2720 Terra Boa
+41 2730 Terra Rica
+41 2740 Terra Roxa
+41 2750 Tibagi
+41 2760 Tijucas do Sul
+41 2770 Toledo
+41 2780 Tomazina
+41 2785 Três Barras do Paraná
+41 2790 Tuneiras do Oeste
+41 2795 Tupãssi
+41 2796 Turvo
+41 2800 Ubiratã
+41 2810 Umuarama
+41 2820 União da Vitória
+41 2830 Uniflor
+41 2840 Uraí
+41 2850 Wenceslau Braz
+41 2855 Vera Cruz do Oeste
+41 2860 Verê
+41 2870 Vitorino
+41 2880 Xambrê
+42 0005 Abdon Batista
+42 0010 Abelardo Luz
+42 0020 Agrolândia
+42 0030 Agronômica
+42 0040 Água Doce
+42 0050 Águas de Chapecó
+42 0060 Águas Mornas
+42 0070 Alfredo Wagner
+42 0080 Anchieta
+42 0090 Angelina
+42 0100 Anita Garibaldi
+42 0110 Anitápolis
+42 0120 Antônio Carlos
+42 0125 Apiúna
+42 0130 Araquari
+42 0140 Araranguá
+42 0150 Armazém
+42 0160 Arroio Trinta
+42 0170 Ascurra
+42 0180 Atalanta
+42 0190 Aurora
+42 0200 Balneário Camboriú
+42 0210 Barra Velha
+42 0220 Benedito Novo
+42 0230 Biguaçu
+42 0240 Blumenau
+42 0250 Bom Jardim da Serra
+42 0260 Bom Retiro
+42 0270 Botuverá
+42 0280 Braço do Norte
+42 0290 Brusque
+42 0300 Caçador
+42 0310 Caibi
+42 0320 Camboriú
+42 0330 Campo Alegre
+42 0340 Campo Belo do Sul
+42 0350 Campo Erê
+42 0360 Campos Novos
+42 0370 Canelinha
+42 0380 Canoinhas
+42 0390 Capinzal
+42 0400 Catanduvas
+42 0410 Caxambu do Sul
+42 0415 Celso Ramos
+42 0420 Chapecó
+42 0430 Concórdia
+42 0440 Coronel Freitas
+42 0450 Corupá
+42 0455 Correia Pinto
+42 0460 Criciúma
+42 0470 Cunha Porã
+42 0480 Curitibanos
+42 0490 Descanso
+42 0500 Dionísio Cerqueira
+42 0510 Dona Emma
+42 0515 Doutor Pedrinho
+42 0520 Erval Velho
+42 0530 Faxinal dos Guedes
+42 0540 Florianópolis
+42 0545 Forquilhinha
+42 0550 Fraiburgo
+42 0560 Galvão
+42 0570 Garopaba
+42 0580 Garuva
+42 0590 Gaspar
+42 0600 Governador Celso Ramos
+42 0610 Grão Pará
+42 0620 Gravatal
+42 0630 Guabiruba
+42 0640 Guaraciaba
+42 0650 Guaramirim
+42 0660 Guarujá do Sul
+42 0670 Herval d'Oeste
+42 0680 Ibicaré
+42 0690 Ibirama
+42 0700 Içara
+42 0710 Ilhota
+42 0720 Imaruí
+42 0730 Imbituba
+42 0740 Imbuia
+42 0750 Indaial
+42 0760 Ipira
+42 0765 Iporã d'Oeste
+42 0770 Ipumirim
+42 0775 Iraceminha
+42 0780 Irani
+42 0790 Irineópolis
+42 0800 Itá
+42 0810 Itaiópolis
+42 0820 Itajaí
+42 0830 Itapema
+42 0840 Itapiranga
+42 0845 Itapoá
+42 0850 Ituporanga
+42 0860 Jaborá
+42 0870 Jacinto Machado
+42 0880 Jaguaruna
+42 0890 Jaraguá do Sul
+42 0900 Joaçaba
+42 0910 Joinville
+42 0915 José Boiteux
+42 0920 Lacerdópolis
+42 0930 Lages
+42 0940 Laguna
+42 0950 Laurentino
+42 0960 Lauro Muller
+42 0970 Lebon Régis
+42 0980 Leoberto Leal
+42 0985 Lindóia do Sul
+42 0990 Lontras
+42 1000 Luiz Alves
+42 1010 Mafra
+42 1020 Major Gercino
+42 1030 Major Vieira
+42 1040 Maracajá
+42 1050 Maravilha
+42 1055 Marema
+42 1060 Massaranduba
+42 1070 Matos Costa
+42 1080 Meleiro
+42 1090 Modelo
+42 1100 Mondaí
+42 1110 Monte Castelo
+42 1120 Morro da Fumaça
+42 1130 Navegantes
+42 1140 Nova Erechim
+42 1150 Nova Trento
+42 1160 Nova Veneza
+42 1170 Orleans
+42 1175 Otacílio Costa
+42 1180 Ouro
+42 1190 Palhoça
+42 1200 Palma Sola
+42 1210 Palmitos
+42 1220 Papanduva
+42 1230 Paulo Lopes
+42 1240 Pedras Grandes
+42 1250 Penha
+42 1260 Peritiba
+42 1270 Petrolândia
+42 1280 Piçarras
+42 1290 Pinhalzinho
+42 1300 Pinheiro Preto
+42 1310 Piratuba
+42 1320 Pomerode
+42 1330 Ponte Alta
+42 1340 Ponte Serrada
+42 1350 Porto Belo
+42 1360 Porto União
+42 1370 Pouso Redondo
+42 1380 Praia Grande
+42 1390 Presidente Castelo Branco
+42 1400 Presidente Getúlio
+42 1410 Presidente Nereu
+42 1420 Quilombo
+42 1430 Rancho Queimado
+42 1440 Rio das Antas
+42 1450 Rio do Campo
+42 1460 Rio do Oeste
+42 1470 Rio dos Cedros
+42 1480 Rio do Sul
+42 1490 Rio Fortuna
+42 1500 Rio Negrinho
+42 1510 Rodeio
+42 1520 Romelândia
+42 1530 Salete
+42 1540 Salto Veloso
+42 1550 Santa Cecília
+42 1560 Santa Rosa de Lima
+42 1565 Santa Rosa do Sul
+42 1570 Santo Amaro da Imperatriz
+42 1580 São Bento do Sul
+42 1590 São Bonifácio
+42 1600 São Carlos
+42 1610 São Domingos
+42 1620 São Francisco do Sul
+42 1630 São João Batista
+42 1640 São João do Sul
+42 1650 São Joaquim
+42 1660 São José
+42 1670 São José do Cedro
+42 1680 São José do Cerrito
+42 1690 São Lourenço do Oeste
+42 1700 São Ludgero
+42 1710 São Martinho
+42 1720 São Miguel d'Oeste
+42 1730 Saudades
+42 1740 Schroeder
+42 1750 Seara
+42 1755 Serra Alta
+42 1760 Siderópolis
+42 1770 Sombrio
+42 1780 Taió
+42 1790 Tangará
+42 1800 Tijucas
+42 1810 Timbé do Sul
+42 1820 Timbó
+42 1825 Timbó Grande
+42 1830 Três Barras
+42 1840 Treze de Maio
+42 1850 Treze Tílias
+42 1860 Trombudo Central
+42 1870 Tubarão
+42 1875 Tunápolis
+42 1880 Turvo
+42 1885 União d'Oeste
+42 1890 Urubici
+42 1895 Urupema
+42 1900 Urussanga
+42 1910 Vargeão
+42 1920 Vidal Ramos
+42 1930 Videira
+42 1935 Vitor Meireles
+42 1940 Witmarsum
+42 1950 Xanxerê
+42 1960 Xavantina
+42 1970 Xaxim
+43 0005 Água Santa
+43 0010 Agudo
+43 0020 Ajuricaba
+43 0030 Alecrim
+43 0040 Alegrete
+43 0045 Alegria
+43 0050 Alpestre
+43 0055 Alto Alegre
+43 0060 Alvorada
+43 0063 Amaral Ferrador
+43 0066 André da Rocha
+43 0070 Anta Gorda
+43 0080 Antônio Prado
+43 0090 Aratiba
+43 0100 Arroio do Meio
+43 0105 Arroio do Sal
+43 0110 Arroio dos Ratos
+43 0120 Arroio do Tigre
+43 0130 Arroio Grande
+43 0140 Arvorezinha
+43 0150 Augusto Pestana
+43 0155 Áurea
+43 0160 Bagé
+43 0165 Barão
+43 0170 Barão de Cotegipe
+43 0180 Barracão
+43 0190 Barra do Ribeiro
+43 0200 Barros Cassal
+43 0210 Bento Gonçalves
+43 0220 Boa Vista do Buricá
+43 0230 Bom Jesus
+43 0235 Bom Princípio
+43 0240 Bom Retiro do Sul
+43 0245 Boqueirão do Leão
+43 0250 Bossoroca
+43 0260 Braga
+43 0265 Brochier do Maratá
+43 0270 Butiá
+43 0280 Caçapava do Sul
+43 0290 Cacequi
+43 0300 Cachoeira do Sul
+43 0310 Cachoeirinha
+43 0320 Cacique Doble
+43 0330 Caibaté
+43 0340 Caiçara
+43 0350 Camaquã
+43 0355 Camargo
+43 0360 Cambará do Sul
+43 0370 Campina das Missões
+43 0380 Campinas do Sul
+43 0390 Campo Bom
+43 0400 Campo Novo
+43 0410 Campos Borges
+43 0420 Candelária
+43 0430 Cândido Godói
+43 0440 Canela
+43 0450 Canguçu
+43 0460 Canoas
+43 0463 Capão da Canoa
+43 0466 Capão do Leão
+43 0468 Capela de Santana
+43 0470 Carazinho
+43 0480 Carlos Barbosa
+43 0490 Casca
+43 0495 Caseiros
+43 0500 Catuípe
+43 0510 Caxias do Sul
+43 0513 Cerro Branco
+43 0515 Cerro Grande
+43 0517 Cerro Grande do Sul
+43 0520 Cerro Largo
+43 0530 Chapada
+43 0535 Charqueadas
+43 0540 Chiapeta
+43 0545 Cidreira
+43 0550 Ciríaco
+43 0560 Colorado
+43 0570 Condor
+43 0580 Constantina
+43 0590 Coronel Bicaco
+43 0595 Cotiporã
+43 0600 Crissiumal
+43 0605 Cristal
+43 0610 Cruz Alta
+43 0620 Cruzeiro do Sul
+43 0630 David Canabarro
+43 0635 Dezesseis de Novembro
+43 0640 Dois Irmãos
+43 0645 Dois Lajeados
+43 0650 Dom Feliciano
+43 0660 Dom Pedrito
+43 0670 Dona Francisca
+43 0673 Doutor Maurício Cardoso
+43 0676 Eldorado do Sul
+43 0680 Encantado
+43 0690 Encruzilhada do Sul
+43 0693 Entre-Ijuís
+43 0695 Entre Rios do Sul
+43 0697 Erebango
+43 0700 Erechim
+43 0705 Ernestina
+43 0710 Herval
+43 0720 Erval Grande
+43 0730 Erval Seco
+43 0740 Esmeralda
+43 0750 Espumoso
+43 0755 Estação
+43 0760 Estância Velha
+43 0770 Esteio
+43 0780 Estrela
+43 0783 Eugênio de Castro
+43 0786 Fagundes Varela
+43 0790 Farroupilha
+43 0800 Faxinal do Soturno
+43 0805 Faxinalzinho
+43 0810 Feliz
+43 0820 Flores da Cunha
+43 0830 Fontoura Xavier
+43 0840 Formigueiro
+43 0845 Fortaleza dos Valos
+43 0850 Frederico Westphalen
+43 0860 Garibaldi
+43 0870 Gaurama
+43 0880 General Câmara
+43 0890 Getúlio Vargas
+43 0900 Giruá
+43 0905 Glorinha
+43 0910 Gramado
+43 0920 Gravataí
+43 0925 Guabiju
+43 0930 Guaíba
+43 0940 Guaporé
+43 0950 Guarani das Missões
+43 0955 Harmonia
+43 0960 Horizontina
+43 0970 Humaitá
+43 0975 Ibarama
+43 0980 Ibiaçá
+43 0990 Ibiraiaras
+43 0995 Ibirapuitã
+43 1000 Ibirubá
+43 1010 Igrejinha
+43 1020 Ijuí
+43 1030 Ilópolis
+43 1033 Imbé
+43 1036 Imigrante
+43 1040 Independência
+43 1043 Ipê
+43 1046 Ipiranga do Sul
+43 1050 Iraí
+43 1055 Itacurubi
+43 1060 Itaqui
+43 1070 Itatiba do Sul
+43 1075 Ivorá
+43 1080 Ivoti
+43 1085 Jaboticaba
+43 1090 Jacutinga
+43 1100 Jaguarão
+43 1110 Jaguari
+43 1112 Jaquirana
+43 1115 Jóia
+43 1120 Júlio de Castilhos
+43 1125 Lagoão
+43 1130 Lagoa Vermelha
+43 1140 Lajeado
+43 1150 Lavras do Sul
+43 1160 Liberato Salzano
+43 1170 Machadinho
+43 1180 Marau
+43 1190 Marcelino Ramos
+43 1200 Mariano Moro
+43 1210 Mata
+43 1220 Maximiliano de Almeida
+43 1230 Miraguaí
+43 1235 Montauri
+43 1240 Montenegro
+43 1245 Morro Redondo
+43 1250 Mostardas
+43 1260 Muçum
+43 1265 Não-Me-Toque
+43 1270 Nonoai
+43 1275 Nova Alvorada
+43 1280 Nova Araçá
+43 1290 Nova Bassano
+43 1300 Nova Bréscia
+43 1303 Nova Esperança do Sul
+43 1306 Nova Hartz
+43 1310 Nova Palma
+43 1320 Nova Petrópolis
+43 1330 Nova Prata
+43 1335 Nova Roma do Sul
+43 1340 Novo Hamburgo
+43 1350 Osório
+43 1360 Paim Filho
+43 1365 Palmares do Sul
+43 1370 Palmeira das Missões
+43 1380 Palmitinho
+43 1390 Panambi
+43 1395 Pântano Grande
+43 1400 Paraí
+43 1402 Paraíso do Sul
+43 1405 Parobé
+43 1410 Passo Fundo
+43 1415 Paverama
+43 1420 Pedro Osório
+43 1430 Pejuçara
+43 1440 Pelotas
+43 1445 Pinhal
+43 1450 Pinheiro Machado
+43 1455 Pirapó
+43 1460 Piratini
+43 1470 Planalto
+43 1475 Poço das Antas
+43 1480 Portão
+43 1490 Porto Alegre
+43 1500 Porto Lucena
+43 1510 Porto Xavier
+43 1513 Pouso Novo
+43 1515 Progresso
+43 1517 Protásio Alves
+43 1520 Putinga
+43 1530 Quaraí
+43 1535 Quinze de Novembro
+43 1540 Redentora
+43 1545 Relvado
+43 1550 Restinga Seca
+43 1560 Rio Grande
+43 1570 Rio Pardo
+43 1575 Riozinho
+43 1580 Roca Sales
+43 1590 Rodeio Bonito
+43 1600 Rolante
+43 1610 Ronda Alta
+43 1620 Rondinha
+43 1630 Roque Gonzales
+43 1640 Rosário do Sul
+43 1643 Saldanha Marinho
+43 1645 Salto do Jacuí
+43 1650 Salvador do Sul
+43 1660 Sananduva
+43 1670 Santa Bárbara do Sul
+43 1680 Santa Cruz do Sul
+43 1690 Santa Maria
+43 1695 Santa Maria do Herval
+43 1700 Santana da Boa Vista
+43 1710 Santana do Livramento
+43 1720 Santa Rosa
+43 1730 Santa Vitória do Palmar
+43 1740 Santiago
+43 1750 Santo Ângelo
+43 1760 Santo Antônio da Patrulha
+43 1770 Santo Antônio das Missões
+43 1780 Santo Augusto
+43 1790 Santo Cristo
+43 1800 São Borja
+43 1805 São Domingos do Sul
+43 1810 São Francisco de Assis
+43 1820 São Francisco de Paula
+43 1830 São Gabriel
+43 1840 São Jerônimo
+43 1842 São João da Urtiga
+43 1844 São Jorge
+43 1846 São José do Herval
+43 1848 São José do Hortêncio
+43 1850 São José do Norte
+43 1860 São José do Ouro
+43 1870 São Leopoldo
+43 1880 São Lourenço do Sul
+43 1890 São Luiz Gonzaga
+43 1900 São Marcos
+43 1910 São Martinho
+43 1915 São Miguel das Missões
+43 1920 São Nicolau
+43 1930 São Paulo das Missões
+43 1940 São Pedro do Sul
+43 1950 São Sebastião do Caí
+43 1960 São Sepé
+43 1970 São Valentim
+43 1975 São Vendelino
+43 1980 São Vicente do Sul
+43 1990 Sapiranga
+43 2000 Sapucaia do Sul
+43 2010 Sarandi
+43 2020 Seberi
+43 2023 Sede Nova
+43 2026 Segredo
+43 2030 Selbach
+43 2040 Serafina Corrêa
+43 2050 Sertão
+43 2060 Severiano de Almeida
+43 2065 Silveira Martins
+43 2070 Sobradinho
+43 2080 Soledade
+43 2090 Tapejara
+43 2100 Tapera
+43 2110 Tapes
+43 2120 Taquara
+43 2130 Taquari
+43 2132 Taquaruçu do Sul
+43 2135 Tavares
+43 2140 Tenente Portela
+43 2143 Terra de Areia
+43 2145 Teutônia
+43 2150 Torres
+43 2160 Tramandaí
+43 2163 Três Arroios
+43 2166 Três Cachoeiras
+43 2170 Três Coroas
+43 2180 Três de Maio
+43 2185 Três Palmeiras
+43 2190 Três Passos
+43 2195 Trindade do Sul
+43 2200 Triunfo
+43 2210 Tucunduva
+43 2215 Tunas
+43 2220 Tupanciretã
+43 2225 Tupandi
+43 2230 Tuparendi
+43 2240 Uruguaiana
+43 2250 Vacaria
+43 2255 Vanini
+43 2260 Venâncio Aires
+43 2270 Vera Cruz
+43 2280 Veranópolis
+43 2290 Viadutos
+43 2300 Viamão
+43 2310 Vicente Dutra
+43 2320 Victor Graeff
+43 2330 Vila Flores
+43 2340 Vila Maria
+43 2350 Vista Alegre
+43 2360 Vista Alegre do Prata
+43 2370 Vista Gaúcha
+50 0020 Água Clara
+50 0060 Amambaí
+50 0070 Anastácio
+50 0080 Anaurilândia
+50 0085 Angélica
+50 0090 Antônio João
+50 0100 Aparecida do Taboado
+50 0110 Aquidauana
+50 0124 Aral Moreira
+50 0150 Bandeirantes
+50 0190 Bataguassu
+50 0200 Bataiporã
+50 0210 Bela Vista
+50 0215 Bodoquena
+50 0220 Bonito
+50 0230 Brasilândia
+50 0240 Caarapó
+50 0260 Camapuã
+50 0270 Campo Grande
+50 0280 Caracol
+50 0290 Cassilândia
+50 0295 Chapadão do Sul
+50 0310 Corguinho
+50 0315 Coronel Sapucaia
+50 0320 Corumbá
+50 0325 Costa Rica
+50 0330 Coxim
+50 0345 Deodápolis
+50 0348 Dois Irmãos do Buriti
+50 0350 Douradina
+50 0370 Dourados
+50 0375 Eldorado
+50 0380 Fátima do Sul
+50 0400 Glória de Dourados
+50 0410 Guia Lopes da Laguna
+50 0430 Iguatemi
+50 0440 Inocência
+50 0450 Itaporã
+50 0460 Itaquiraí
+50 0470 Ivinhema
+50 0490 Jaraguari
+50 0500 Jardim
+50 0510 Jateí
+50 0515 Juti
+50 0520 Ladário
+50 0540 Maracaju
+50 0560 Miranda
+50 0568 Mundo Novo
+50 0570 Naviraí
+50 0580 Nioaque
+50 0620 Nova Andradina
+50 0630 Paranaíba
+50 0635 Paranhos
+50 0640 Pedro Gomes
+50 0660 Ponta Porã
+50 0690 Porto Murtinho
+50 0710 Ribas do Rio Pardo
+50 0720 Rio Brilhante
+50 0730 Rio Negro
+50 0740 Rio Verde de Mato Grosso
+50 0750 Rochedo
+50 0755 Santa Rita do Pardo
+50 0769 São Gabriel do Oeste
+50 0770 Sete Quedas
+50 0780 Selvíria
+50 0790 Sidrolândia
+50 0793 Sonora
+50 0795 Tacuru
+50 0797 Taquarussu
+50 0800 Terenos
+50 0830 Três Lagoas
+50 0840 Vicentina
+51 0010 Acorizal
+51 0020 Água Boa
+51 0025 Alta Floresta
+51 0030 Alto Araguaia
+51 0040 Alto Garças
+51 0050 Alto Paraguai
+51 0060 Alto Taquari
+51 0080 Apiacás
+51 0100 Araguaiana
+51 0120 Araguainha
+51 0125 Araputanga
+51 0130 Arenápolis
+51 0140 Aripuanã
+51 0160 Barão de Melgaço
+51 0170 Barra do Bugres
+51 0180 Barra do Garças
+51 0190 Brasnorte
+51 0250 Cáceres
+51 0260 Campinápolis
+51 0263 Campo Novo do Parecis
+51 0267 Campo Verde
+51 0270 Canarana
+51 0285 Castanheira
+51 0300 Chapada dos Guimarães
+51 0305 Cláudia
+51 0310 Cocalinho
+51 0320 Colíder
+51 0330 Comodoro
+51 0340 Cuiabá
+51 0345 Denise
+51 0350 Diamantino
+51 0360 Dom Aquino
+51 0380 Figueirópolis d'Oeste
+51 0390 General Carneiro
+51 0410 Guarantã do Norte
+51 0420 Guiratinga
+51 0450 Indiavaí
+51 0455 Itaúba
+51 0460 Itiquira
+51 0480 Jaciara
+51 0490 Jangada
+51 0500 Jauru
+51 0510 Juara
+51 0515 Juína
+51 0517 Juruena
+51 0520 Juscimeira
+51 0525 Lucas do Rio Verde
+51 0530 Luciara
+51 0550 Vila Bela da Santíssima Trindade
+51 0558 Marcelândia
+51 0560 Matupá
+51 0562 Mirassol d'Oeste
+51 0590 Nobres
+51 0600 Nortelândia
+51 0610 Nossa Senhora do Livramento
+51 0620 Nova Brasilândia
+51 0621 Nova Canaã do Norte
+51 0622 Nova Mutum
+51 0623 Nova Olímpia
+51 0625 Nova Xavantina
+51 0627 Novo Horizonte do Norte
+51 0628 Novo São Joaquim
+51 0629 Paranaíta
+51 0630 Paranatinga
+51 0637 Pedra Preta
+51 0642 Peixoto de Azevedo
+51 0650 Poconé
+51 0670 Ponte Branca
+51 0675 Pontes e Lacerda
+51 0677 Porto Alegre do Norte
+51 0680 Porto dos Gaúchos
+51 0682 Porto Esperidião
+51 0700 Poxoréo
+51 0704 Primavera do Leste
+51 0710 São José dos Quatro Marcos
+51 0715 Reserva do Cabaçal
+51 0718 Ribeirão Cascalheira
+51 0720 Rio Branco
+51 0730 São José do Rio Claro
+51 0760 Rondonópolis
+51 0770 Rosário Oeste
+51 0775 Salto do Céu
+51 0777 Santa Terezinha
+51 0780 Santo Antônio do Leverger
+51 0785 São Fèlix do Araguaia
+51 0790 Sinop
+51 0792 Sorriso
+51 0795 Tangará da Serra
+51 0800 Tapurah
+51 0805 Terra Nova do Norte
+51 0810 Tesouro
+51 0820 Torixoreu
+51 0840 Várzea Grande
+51 0850 Vera
+51 0860 Vila Rica
+52 0010 Abadiânia
+52 0013 Acreúna
+52 0015 Adelândia
+52 0017 Água Fria de Goiás
+52 0020 Água Limpa
+52 0030 Alexânia
+52 0050 Aloândia
+52 0060 Alto Paraíso de Goiás
+52 0080 Alvorada do Norte
+52 0085 Americano do Brasil
+52 0090 Amorinópolis
+52 0110 Anápolis
+52 0120 Anhanguera
+52 0130 Anicuns
+52 0140 Aparecida de Goiânia
+52 0150 Aporé
+52 0160 Araçu
+52 0170 Aragarças
+52 0180 Aragoiânia
+52 0215 Araguapaz
+52 0235 Arenópolis
+52 0250 Aruanã
+52 0260 Aurilândia
+52 0280 Avelinópolis
+52 0310 Baliza
+52 0320 Barro Alto
+52 0330 Bela Vista de Goiás
+52 0340 Bom Jardim de Goiás
+52 0350 Bom Jesus de Goiás
+52 0355 Bonfinópolis
+52 0360 Brazabrantes
+52 0380 Britânia
+52 0390 Buriti Alegre
+52 0400 Cabeceiras
+52 0410 Cachoeira Alta
+52 0420 Cachoeira de Goiás
+52 0425 Cachoeira Dourada
+52 0430 Caçu
+52 0440 Caiapônia
+52 0450 Caldas Novas
+52 0460 Campestre de Goiás
+52 0465 Campinaçu
+52 0470 Campinorte
+52 0480 Campo Alegre de Goiás
+52 0490 Campos Belos
+52 0495 Campos Verdes
+52 0500 Carmo do Rio Verde
+52 0510 Catalão
+52 0520 Caturaí
+52 0530 Cavalcante
+52 0540 Ceres
+52 0545 Cezarina
+52 0552 Colinas do Sul
+52 0570 Córrego do Ouro
+52 0580 Corumbá de Goiás
+52 0590 Corumbaíba
+52 0620 Cristalina
+52 0630 Cristianópolis
+52 0640 Crixás
+52 0650 Cromínia
+52 0660 Cumari
+52 0670 Damianópolis
+52 0680 Damolândia
+52 0690 Davinópolis
+52 0710 Diorama
+52 0725 Doverlândia
+52 0735 Edealina
+52 0740 Edéia
+52 0750 Estrela do Norte
+52 0753 Faina
+52 0760 Fazenda Nova
+52 0780 Firminópolis
+52 0790 Flores de Goiás
+52 0800 Formosa
+52 0810 Formoso
+52 0830 Divinópolis de Goiás
+52 0840 Goinápolis
+52 0850 Goiandira
+52 0860 Goianésia
+52 0870 Goiânia
+52 0880 Goianira
+52 0890 Goiás
+52 0910 Goiatuba
+52 0915 Gouvelândia
+52 0920 Guapó
+52 0940 Guarani de Goiás
+52 0945 Guarinos
+52 0960 Heitoraí
+52 0970 Hidrolândia
+52 0980 Hidrolina
+52 0990 Iaciara
+52 0995 Indiara
+52 1000 Inhumas
+52 1010 Ipameri
+52 1020 Iporá
+52 1030 Israelândia
+52 1040 Itaberaí
+52 1056 Itaguari
+52 1060 Itaguaru
+52 1080 Itajá
+52 1090 Itapaci
+52 1100 Itapirapuã
+52 1120 Itapuranga
+52 1130 Itarumã
+52 1140 Itauçu
+52 1150 Itumbiara
+52 1160 Ivolândia
+52 1170 Jandaia
+52 1180 Jaraguá
+52 1190 Jataí
+52 1200 Jaupaci
+52 1210 Joviânia
+52 1220 Jussara
+52 1230 Leopoldo de Bulhões
+52 1250 Luziânia
+52 1260 Mairipotaba
+52 1270 Mambaí
+52 1280 Mara Rosa
+52 1290 Marzagão
+52 1295 Matrinchã
+52 1300 Maurilândia
+52 1305 Mimoso de Goiás
+52 1308 Minaçu
+52 1310 Mineiros
+52 1340 Moiporá
+52 1350 Monte Alegre de Goiás
+52 1370 Montes Claros de Goiás
+52 1375 Montividiu
+52 1380 Morrinhos
+52 1385 Morro Agudo de Goiás
+52 1390 Mossâmedes
+52 1400 Mozarlândia
+52 1405 Mundo Novo
+52 1410 Mutunópolis
+52 1440 Nazário
+52 1450 Nerópolis
+52 1460 Niquelândia
+52 1470 Nova América
+52 1480 Nova Aurora
+52 1483 Nova Crixás
+52 1486 Nova Glória
+52 1490 Nova Roma
+52 1500 Nova Veneza
+52 1520 Novo Brasil
+52 1525 Novo Planalto
+52 1530 Orizona
+52 1540 Ouro Verde de Goiás
+52 1550 Ouvidor
+52 1560 Padre Bernardo
+52 1565 Palestina de Goiás
+52 1570 Palmeiras de Goiás
+52 1580 Palmelo
+52 1590 Palminópolis
+52 1600 Panamá
+52 1630 Paranaiguara
+52 1640 Paraúna
+52 1680 Petrolina de Goiás
+52 1690 Pilar de Goiás
+52 1710 Piracanjuba
+52 1720 Piranhas
+52 1730 Pirenópolis
+52 1740 Pires do Rio
+52 1760 Planaltina
+52 1770 Pontalina
+52 1800 Porangatu
+52 1810 Portelândia
+52 1830 Posse
+52 1850 Quirinópolis
+52 1860 Rialma
+52 1870 Rianápolis
+52 1878 Rio Quente
+52 1880 Rio Verde
+52 1890 Rubiataba
+52 1900 Sanclerlândia
+52 1910 Santa Bárbara de Goiás
+52 1920 Santa Cruz de Goiás
+52 1925 Santa Fé de Goiás
+52 1930 Santa Helena de Goiás
+52 1935 Santa Isabel
+52 1940 Santa Rita do Araguaia
+52 1950 Santa Rosa de Goiás
+52 1960 Santa Tereza de Goiás
+52 1970 Santa Terezinha de Goiás
+52 1975 Santo Antônio do Descoberto
+52 1980 São Domingos
+52 1990 São Francisco de Goiás
+52 2000 São João d'Aliança
+52 2005 São João da Paraúna
+52 2010 São Luís de Montes Belos
+52 2015 São Luís do Norte
+52 2020 São Miguel do Araguaia
+52 2026 São Miguel do Passa Quatro
+52 2040 São Simão
+52 2045 Senador Canedo
+52 2050 Serranópolis
+52 2060 Silvânia
+52 2068 Simolândia
+52 2070 Sítio d'Abadia
+52 2100 Taquaral de Goiás
+52 2108 Teresina de Goiás
+52 2130 Três Ranchos
+52 2140 Trindade
+52 2145 Trombas
+52 2150 Turvânia
+52 2155 Turvelândia
+52 2160 Uruaçu
+52 2170 Uruana
+52 2180 Urutaí
+52 2190 Varjão
+52 2200 Vianópolis
+52 2205 Vicentinópolis
+53 0010 Brasília

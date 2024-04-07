@@ -1,0 +1,4 @@
+0- Não tem
+1- Uma porta
+2- Mais de uma porta
+ - Domicílio improvisado, coletivo ou (VAR0221) = 3 ou 4

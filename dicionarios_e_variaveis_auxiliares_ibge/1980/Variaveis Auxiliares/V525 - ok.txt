@@ -1,0 +1,103 @@
+CENSO DEMOGRÁFICO - 1980
+MICRODADOS DA AMOSTRA DE 25%
+
+
+V525 - Tipo do último curso concluído
+
+00- sem curso concluído
+01- primário
+02- educação especial
+03- agrícola elementar
+04- comercial elementar
+05- artesanal elementar
+06- saúde elementar
+07- militar elementar
+08- outros elementares
+10- 1º grau
+11- especial - 1º grau
+12- agrícola - 1º ciclo
+13- administração - 1º ciclo
+14- contabilidade -  1º ciclo
+15- básico comercial
+16- eletricidade - 1º grau
+17- mecânica - 1º ciclo
+18- artesanato básico
+19- enfermagem - 1º ciclo
+20- farmácia - 1º grau 
+21- militar - 1º ciclo
+22- normal - 1º ciclo
+23- outros - 1º grau
+24- colegial
+25- educação especial - 2º grau
+26- agrícola - 2º ciclo
+27- administração - 2º grau
+28- contabilidade - 2º ciclo
+29- estatística - 2º grau
+30- secretariado - 2º grau
+31- comercial - 2º ciclo
+32- desenho - 2º grau
+33- eletricidade - 2º grau
+34- mecânica - 2º grau
+35- química - 2º grau
+36- industrial - 2º ciclo
+37- enfermagem - 2º ciclo
+38- patologia - 2º ciclo
+39- nutrição - 2º grau
+40- militar - 2º ciclo
+41- normal - 2º grau
+42- outros - 2º ciclo
+43- biologia - superior
+44- educação física - superior
+45- enfermagem - superior
+46- farmácia - superior
+47- medicina - superior
+48- dentista
+49- nutrição - superior
+50- arquitetura - superior
+51- ciências - bacharelado
+52- computação - bacharelado
+53- engenharia - superior
+54- eletricidade - superior
+55- engenharia - superior
+56- química - superior
+57- topografia - superior
+58- estatística - superior
+59- física - bacharelado
+60- geologia - superior
+61- matemática - bacharelado
+62- química - bacharelado
+63- astronomia - superior
+64- agrícola - superior
+65- veterinária - superior
+66- agrimensura - superior
+67- administração - superior
+68- biblioteconomia - superior
+69- contabilidade - superior
+70- economia - superior
+71- antropologia - superior
+72- comunicação - superior
+73- direito - superior
+74- filosofia - bacharelado
+75- geografia - bacharelado
+76- história - bacharelado
+77- educação - superior
+78- psicologia - bacharelado
+79- serviço social - superior
+80- sacerdote - superior
+81- museologia - superior
+82- lingüística - superior
+83- belas artes - superior
+84- academia militar
+85- diplomacia - superior
+86- medicina - mestrado
+87- biologia - mestrado
+88- engenharia - mestrado
+89- computação - mestrado
+90- agronomia - mestrado
+91- administração - mestrado
+92- economia - mestrado
+93- direito - mestrado
+94- educação - mestrado
+95- biblioteconomia - mestrado
+96- artes - mestrado
+99- ignorado

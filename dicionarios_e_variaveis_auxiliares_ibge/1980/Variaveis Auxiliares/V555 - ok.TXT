@@ -1,0 +1,23 @@
+CENSO DEMOGRÁFICO - MICRODADOS DA AMOSTRA
+ANO - 1980
+
+V555 - FILHAS VIVAS NA DATA DA PESQUISA
+
+00- sem filha viva
+01- 1 filha viva
+02- 2 filhas vivas
+03- 3 filhas vivas
+04- 4 filhas vivas
+05- 5 filhas vivas
+06- 6 filhas vivas
+07- 7 filhas vivas
+08- 8 filhas vivas
+09- 9 filhas vivas
+10- 10 filhas vivas
+11- 11 filhas vivas
+12- 12 filhas vivas
+13- 13 filhas vivas
+14- 14 filhas vivas
+15- 15 filhas vivas
+98- a ser imputado
+99- ignorado

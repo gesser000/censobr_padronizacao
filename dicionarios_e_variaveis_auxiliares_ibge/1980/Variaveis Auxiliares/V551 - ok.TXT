@@ -1,0 +1,25 @@
+CENSO DEMOGRÁFICO - MICRODADOS DA AMOSTRA
+ANO - 1980
+
+
+
+V551 - FILHAS TIDAS NASCIDAS VIVAS
+
+00- sem filha nascida viva
+01- 1 filha nascida viva
+02- 2 filhas nascidas vivas
+03- 3 filhas nascidas vivas
+04- 4 filhas nascidas vivas
+05- 5 filhas nascidas vivas
+06- 6 filhas nascidas vivas
+07- 7 filhas nascidas vivas
+08- 8 filhas nascidas vivas
+09- 9 filhas nascidas vivas
+10- 10 filhas nascidas vivas
+11- 11 filhas nascidas vivas
+12- 12 filhas nascidas vivas
+13- 13 filhas nascidas vivas
+14- 14 filhas nascidas vivas
+15- 15 filhas nascidas vivas
+98- a ser inputado
+99- ignorado

@@ -1,0 +1,16 @@
+01- Até 1/4 de salário mínimo
+02- Mais de 1/4 a 1/2 salário mínimo
+03- Mais de 1/2 a 3/4 salário mínimo
+04- Mais de 3/4 a 1 salário mínimo
+05- Mais de 1 a 1 1/4 salários mínimos
+06- Mais de 1 1/4 a 1 1/2 salários mínimos
+07- Mais de 1 1/2 a 2 salários mínimos
+08- Mais de 2 a 3 salários mínimos
+09- Mais de 3 a 5 salários mínimos
+10- Mais de 5 a 10 salários mínimos
+11- Mais de 10 a 15 salários mínimos
+12- Mais de 15 a 20 salários mínimos
+13- Mais de 20 salários mínimos
+14- Sem Rendimentos
+15- Sem Declaração
+  - Pessoa menor de 10 anos

@@ -1,0 +1,98 @@
+00- Nenhum curso
+01- Primário ou Elementar (Ensino Geral)
+02- Primário ou Elementar (Educação Especial)
+03- Primário ou Elementar (Agrícola)
+04- Primário ou Elementar (Administração)
+05- Primário ou Elementar (Industrial)
+06- Primário ou Elementar (Saúde)
+07 Primário ou Elementar (Militar)
+08- Primário ou Elementar (Outros)
+10- Ensino Geral - 1º grau
+11- Educação Especial - 1º grau
+12- Agrícola - 1º grau
+13- Administração - 1º grau
+14- Contabilidade - 1º grau
+15- Outro - 1º grau - Comercial
+16- Eletrotécnica ou Eletrônica -1º grau
+17- Mecânica - 1º grau
+18- Outro - 1º grau - Industrial
+19- Enfermagem - 1º grau
+20- Outros - 1º grau - Saúde
+21- Militar - 1º grau
+22- Normal - 1º grau
+23- Outros - 1º grau
+24- Ensino Geral - 2º grau
+25- Educação Especial - 2º grau
+26- Agrícola - 2º grau
+27- Administração - 2º grau
+28- Contabilidade - 2º grau
+29- Estatística - 2º grau
+30- Secretariado - 2º grau
+31- Outros - 2º grau - Comercial
+32- Desenho - 2º grau
+33- Eletrotécnica ou Eletrônica - 2º grau
+34- Mecânica - 2º grau
+35- Química - 2º grau
+36- Outros - 2º grau - Industrial
+37- Enfermagem - 2º grau
+38- Laboratorista de análise clínica - 2º grau
+39- Outros - 2º grau - Saúde
+40- Militar - 2º grau
+41- Normal - 2º grau
+42- Outros - 2º grau
+43- Biologia
+44- Educação Física
+45- Enfermagem
+46- Farmácia
+47- Medicina
+48- Odontologia
+49- Outros da Biologia
+50- Arquitetura e Urbanismo
+51- Ciências Exatas
+52- Ciências da Computação
+53- Engenharia Civil
+54- Engenharia Elétrica e Eletrônica
+55- Engenharia Mecânica
+56- Engenharia Química e Química Industrial
+57- Engenharia não classificada ou mal definida
+58- Estatística
+59- Física
+60- Geologia
+61- Matemática
+62- Química
+63- Outros da Tecnologia
+64- Agronomia
+65- Medicina Veterinária
+66- Outros agrários
+67- Administração
+68- Biblioteconomia
+69- Ciências Contábeis e Atuariais
+70- Ciências Econômicas
+71- Ciências e Estudos Sociais
+72- Comunicação Social
+73- Direito
+74- Filosofia
+75- Geografia
+76- História
+77- Pedagogia
+78- Psicologia
+79- Servico Social
+80- Teologia
+81- Outros de Humanas
+82- Letras
+83- Artes
+84- Defesa Nacional (Militar)
+85- Outros Cursos de Grau Superior
+86- Mestrado ou Doutorado - Medicina
+87- Mestrado ou Doutorado - Outros (Biologia)
+88- Mestrado ou Doutorado - Engenharia
+89- Mestrado ou Doutorado - Outros (Ciências Tecnológicas)
+90- Mestrado ou Doutorado - Ciências Agrárias
+91- Mestrado ou Doutorado - Administração
+92- Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.
+93- Mestrado ou Doutorado - Direito
+94- Mestrado ou Doutorado - Pedagogia
+95- Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais)
+96- Mestrado ou Doutorado - Letras e Artes
+97- Mestrado ou Doutorado - (área não especificada)
+  - Pessoa menor de 10 anos

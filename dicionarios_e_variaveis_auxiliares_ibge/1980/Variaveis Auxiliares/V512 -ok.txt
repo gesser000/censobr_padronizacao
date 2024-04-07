@@ -1,0 +1,110 @@
+CENSO DEMOGRÁFICO - 1980
+MICRODADOS DA AMOSTRA DE 25%
+
+
+V512 - UF DE NASCIMENTO
+
+BRASIL
+01- Rondônia
+02- Acre
+03- Amazonas
+04- Roraima
+05- Pará
+06- Amapá
+07- Maranhão
+08- Piauí
+09- Ceará
+10- Rio Grande do Norte
+11- Paraíba
+12- Pernambuco
+13- Alagoas
+14- Fernando de Noronha
+15- Sergipe
+16- Bahia
+17- Minas Gerais
+18- Espírito Santo
+19- Rio de Janeiro
+20- São Paulo
+21- Paraná
+22- Santa Catarina
+23- Rio Grande do Sul
+24- Mato Grosso do Sul
+25- Mato Grosso
+26- Goiás
+27- Distrito Federal
+29- Brasil sem especificação e brasileiros natos nascidos no exterior ou a bordo
+AMÉRICA
+30- Argentina
+31- Bolívia
+32- Canadá
+33- Chile
+34- Colômbia
+35- Costa Rica
+36- Cuba
+37- Equador
+38- Estados Unidos
+39- Guatemala
+40- Guiana
+41- Guiana Francesa
+42- Haiti
+43- Honduras
+44- Honduras Britânica (atual Belize)
+45- Jamaica
+46- México
+47- Nicarágua
+48- Panamá
+49- Paraguai
+50- Peru
+51- República Dominicana
+52- Salvador
+53- Suriname
+54- Uruguai
+55- Venezuela
+56- Outros países da América
+EUROPA
+57- Alemanha Ocidental
+58- Alemanha Oriental
+59- Áustria
+60- Bélgica
+61- Bulgária
+62- Dinamarca
+63- Espanha
+64- Finlândia
+65- França
+66- Grã-Bretanha
+67- Grécia
+68- Holanda
+69- Hungria
+70- Irlanda (Eire)
+71- Itália
+72- Iugoslávia
+73- Noruega
+74- Polônia
+75- Portugal
+76- Romênia
+77- Suécia
+78- Suíça
+79- Tchecolovaquia
+80- U.R.S.S.
+81- Outros países da Europa
+ÁFRICA
+82- Angola
+83- Egito
+84- Moçambique
+85- Outros países da África
+ÁSIA
+86- China Continental
+87- China Formosa
+88- Coréia
+89- Índia
+90- Israel
+91- Japão
+92- Líbano
+93- Paquistão
+94- Síria
+95- Turquia
+96- Outros países da Ásia
+OCEÂNIA
+97- Austrália
+98- Outros países da Oceânia
+99- sem especificação

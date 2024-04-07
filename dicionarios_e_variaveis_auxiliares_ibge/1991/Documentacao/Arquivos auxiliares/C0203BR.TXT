@@ -1,0 +1,7 @@
+1- Alvenaria
+2- Madeira aparelhada	
+3- Taipa não revestida
+4- Material aproveitado
+5- Palha
+6- Outro
+ - Domicílios improvisados ou coletivos

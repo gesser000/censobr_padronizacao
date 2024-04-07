@@ -1,0 +1,7 @@
+0- Nenhum
+1- 1º grau
+2- 2º grau
+3- Superior
+4- Supletivo - 1º grau
+5- Supletivo - 2º grau
+ - Pessoa menor de 5 anos

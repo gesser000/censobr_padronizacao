@@ -1,0 +1,38 @@
+CENSO DEMOGRÁFICO - 1970
+
+MICRODADOS DA AMOSTRA DE 25%
+
+V050 - FILHOS NASCIDOS VIVOS
+
+ 0- não teve
+ 1- 1 filho
+ 2- 2 filhos
+ 3- 3 filhos
+ 4- 4 filhos
+ 5- 5 filhos
+ 6- 6 filhos
+ 7- 7 filhos
+ 8- 8 filhos
+ 9- 9 filhos 
+10- 10 filhos
+11- 11 filhos
+12- 12 filhos
+13- 13 filhos
+14- 14 filhos
+15- 15 filhos
+16- 16 filhos
+17- 17 filhos
+18- 18 filhos
+19- 19 filhos
+20- 20 filhos 
+21- 21 filhos
+22- 22 filhos
+23- 23 filhos
+24- 24 filhos
+25- 25 filhos
+26- 26 filhos
+27- 27 filhos
+28- 28 filhos
+29- 29 filhos
+30- 30 filhos
+99- ignorado

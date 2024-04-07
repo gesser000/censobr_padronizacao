@@ -1,0 +1,8 @@
+0- Nenhum
+1- Pré-escolar
+2- Curso de alfabetização de adultos
+3- Supletivo não seriado - 1º grau
+4- Supletivo não seriado - 2º grau
+5- Pré-vestibular
+6- Mestrado ou Doutorado
+ - Pessoa menor de 5 anos

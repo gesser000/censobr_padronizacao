@@ -1,0 +1,7 @@
+1- Rede geral com canalização interna
+2- Poço ou nascente com canalização interna
+3- Outra forma com canalização interna
+4- Rede geral sem canalização interna
+5- Poço ou nascente sem canalização interna
+6- Outra forma sem canalização interna
+ - Domicílios improvisados ou coletivos

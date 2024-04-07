@@ -1,0 +1,10 @@
+0- Nenhuma das enumeradas
+1- Cegueira
+2- Surdez
+3- Paralisia de um dos lados
+4- Paralisia das pernas
+5- Paralisia total
+6- Falta de membro(s) ou parte dele(s)
+7- Deficiência mental
+8- Mais de uma
+9- Ignorado

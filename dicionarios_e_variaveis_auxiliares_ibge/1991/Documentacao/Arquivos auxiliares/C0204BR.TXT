@@ -1,0 +1,9 @@
+1- Laje de concreto
+2- Telha de barro
+3- Telha de cimento-amianto
+4- Zinco
+5- Madeira aparelhada
+6- Palha
+7- Material aproveitado
+8- Outro
+ - Domicílios improvisados ou coletivos
