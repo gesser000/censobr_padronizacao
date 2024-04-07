@@ -1,3 +1,6 @@
+#Custom files
+/arquivos_censo
+
 # History files
 .Rhistory
 .Rapp.history
