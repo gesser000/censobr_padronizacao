@@ -2,7 +2,7 @@ library(censobr)
 
 download_censo <- function(caminho, anos) {
   # Define o diretório de cache
-  base::dir.create(path=caminho)
+  base::dir.create(path = caminho)
   censobr::set_censobr_cache_dir(path = caminho)
   
   # Itera sobre os anos fornecidos
